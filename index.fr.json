@@ -4,7 +4,7 @@
     "_comment": "French version 1.3, add strings that were recently added, update the outdated strings.",
     "_ind": 0,
 
-    "lf_title": "Tox: la messagerie sécurisée pour tous",
+    "lf_title": "qTox: la messagerie sécurisée pour tous",
 
     "nv_home": "Accueil",
     "nv_about": "À propos",
@@ -13,17 +13,16 @@
     "nv_wiki": "Wiki",
 
     "sect1_slogan": "La messagerie sécurisée pour tous",
-    "sect1_description": "Alors que les programmes de surveillance gouvernementaux étendent leur influence, Tox est une application facile à utiliser qui vous permet de contacter vos amis et vos proches sans que quelqu'un d'autre soit à l'écoute. Alors que les autres grands noms de la messagerie instantanée font payer certaines fonctionnalités, Tox est (et restera) toujours gratuit, tout en étant dépourvu de publicités.",
+    "sect1_description": "Alors que les programmes de surveillance gouvernementaux étendent leur influence, qTox est une application facile à utiliser qui vous permet de contacter vos amis et vos proches sans que quelqu'un d'autre soit à l'écoute. Alors que les autres grands noms de la messagerie instantanée font payer certaines fonctionnalités, qTox est (et restera) toujours gratuit, tout en étant dépourvu de publicités.",
     "sect1_learnmore": "En savoir plus",
     "sect1_download": "Télécharger",
-    "sect1_nightly": "Vous pouvez télécharger des versions nocturnes de Tox; elles sont potentiellement instables !",
     "download_nightly": "Versions nocturnes",
     "download_warning": "Les versions dites « nocturnes » ne sont pas destinées à une utilisation en production, vous rencontrerez peut-être des bogues, des plantages et beaucoup de frustration. Vous avez été prévenu !",
     "download_distro": "Veuillez chosir votre distribution",
 
-    "sect2_abouttox": "À propos de Tox",
+    "sect2_aboutqtox": "À propos de qTox",
 
-    "sect2_aboutbody": "Ces jours-ci, tous les gouvernements semblent être intéressés par ce que nous disons sur l'Internet. Tox suit un modèle « la vie privée d'abord » sans compromis. Votre sécurité est notre priorité et rien ne changera cela.",
+    "sect2_aboutbody": "Ces jours-ci, tous les gouvernements semblent être intéressés par ce que nous disons sur l'Internet. qTox suit un modèle « la vie privée d'abord » sans compromis. Votre sécurité est notre priorité et rien ne changera cela.",
 
 
     "sect3_coolfeatures": "Messagerie instantanée, vidéoconférence et bien plus",
@@ -32,7 +31,7 @@
     "sect3_messages_blurb": "À portée de main.\n Vous êtes toujours à jour avec la messagerie instantanée chiffrée.",
 
     "sect3_voice": "Appels",
-    "sect3_voice_blurb": "Gardez le contact.\n Bénéficiez d'appels gratuits et sécurisés entre clients Tox.",
+    "sect3_voice_blurb": "Gardez le contact.\n Bénéficiez d'appels gratuits et sécurisés entre clients qTox.",
 
     "sect3_video": "Vidéo",
     "sect3_video_blurb": "Il faut le voir pour le croire.\n Maintenez le contact avec des appels vidéo sécurisés.",
@@ -40,13 +39,13 @@
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "sect4_security": "Sécurité",
-    "sect4_security_blurb": "Tox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">un chiffrement fort</span>, vous êtes assurés que seuls vos destinataires seront de la conversation.",
+    "sect4_security_blurb": "qTox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">un chiffrement fort</span>, vous êtes assurés que seuls vos destinataires seront de la conversation.",
 
     "sect4_easy": "Facile à utiliser",
-    "sect4_easy_blurb": "Contrairement aux autres logiciels de messagerie sécurisée, Tox ne s'attend pas à ce que vous soyez programmeur. Tox vous offre une interface <span class=\"text bold\">facile à utiliser</span> par défaut qui vous permet de vous concentrer sur vos conversations.",
+    "sect4_easy_blurb": "Contrairement aux autres logiciels de messagerie sécurisée, qTox ne s'attend pas à ce que vous soyez programmeur. qTox vous offre une interface <span class=\"text bold\">facile à utiliser</span> par défaut qui vous permet de vous concentrer sur vos conversations.",
 
     "sect4_freedom": "Liberté",
-    "sect4_freedom_blurb": "Tox est libre et gratuit. Vous êtes complètement libre d'utiliser et de modifier Tox. De plus, <span class=\"text bold\">Tox ne vous embêtera jamais avec des publicités, et ne vous fera jamais payer pour des fonctionnalités</span>.",
+    "sect4_freedom_blurb": "qTox est libre et gratuit. Vous êtes complètement libre d'utiliser et de modifier qTox. De plus, <span class=\"text bold\">qTox ne vous embêtera jamais avec des publicités, et ne vous fera jamais payer pour des fonctionnalités</span>.",
 
     "sect6_freesoftware": "Logiciel libre",
     "sect6_developers": "Nous sommes une équipe sympa avec des membres situés <span class=\"text normal\">partout dans le monde</span>.",
@@ -56,14 +55,15 @@
     "sect6_email": "adresse électronique",
 
     "sect6_needhelp": "Besoin d'aide ?",
-    "sect6_githubtoirc": "Lancez votre propre projet et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou sur notre <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a> !",
+    "sect6_githubtoirc": "Lancez votre propre projet et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou sur notre <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> !",
 
-    "dev_links": "Liens pour développeurs",
+    "links": "Liens pour développeurs", "_comment_": "← TODO: update",
     "dev_blog": "Blog des développeurs",
     "dev_docs": "Documentation",
+    "about_tox": "About Tox",
 
     "donate_header": "Faire un don",
-    "donate_about": "Pour voir comment vous pouvez aider en faisant un don, consultez notre <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">page sur les dons</a>. Merci !",
+    "donate_about": "Pour voir comment vous pouvez aider en faisant un don, consultez notre <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">page sur les dons</a>. Merci !",
 
     "missedplatform": "Autres systèmes",
     "connect": "pour"

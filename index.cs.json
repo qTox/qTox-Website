@@ -4,7 +4,7 @@
     "_comment": "",
     "_ind": 0,
 
-    "lf_title": "Tox (Pre-alpha)",
+    "lf_title": "qTox (Pre-alpha)",
     
     "nv_home": "Hlavní stránka",
     "nv_about": "O projektu",
@@ -12,15 +12,15 @@
     "nv_contribute": "Přispějte",
     
     "sect1_slogan": "Bezpečná komunikace pro všechny, již brzy.",
-    "sect1_description": "Rozsáhlé vládní monitorovací programy se čím dál tím více rozmáhají. Tox je aplikace co se snadno používá a umožní Vám spojit se s přáteli a blízkými, aniž by Vás poslouchal kdokoli jiný.",
+    "sect1_description": "Rozsáhlé vládní monitorovací programy se čím dál tím více rozmáhají. qTox je aplikace co se snadno používá a umožní Vám spojit se s přáteli a blízkými, aniž by Vás poslouchal kdokoli jiný.",
     "sect1_learnmore": "Zjistěte více",
     "sect1_download": "Stáhnout",
-        "sect1_notavail": "Tox ještě není hotový, brzy bude ale k dispozici ke stažení!",
+        "sect1_notavail": "qTox ještě není hotový, brzy bude ale k dispozici ke stažení!",
     
     
-    "sect2_abouttox": "O projektu Tox",
+    "sect2_aboutqtox": "O projektu qTox",
     
-    "sect2_aboutbody": "Tox je postavený na myšlence, že byste měli mít možnost kontaktovat své známé a rodinu bez toho, aby bylo narušeno vaše soukromí.\n Zatímco ostatní \"velké\" služby po Vás požadují poplatky pro zpřístupnění některých funkcí, Tox je naprosto zdarma a svobodný.\n To znamená, že si můžete s Tox dělat cokoli chcete.",
+    "sect2_aboutbody": "qTox je postavený na myšlence, že byste měli mít možnost kontaktovat své známé a rodinu bez toho, aby bylo narušeno vaše soukromí.\n Zatímco ostatní \"velké\" služby po Vás požadují poplatky pro zpřístupnění některých funkcí, qTox je naprosto zdarma a svobodný.\n To znamená, že si můžete s qTox dělat cokoli chcete.",
     
     
     "sect3_coolfeatures": "Funkce",
@@ -29,7 +29,7 @@
     "sect3_messages_blurb": "Soukromé šifrované zprávy na dosah ruky.",
     
     "sect3_voice": "Volání",
-    "sect3_voice_blurb": "Volejte zdarma a bezpečně ostatním uživatelům Tox.",
+    "sect3_voice_blurb": "Volejte zdarma a bezpečně ostatním uživatelům qTox.",
     
     "sect3_video": "Videohovory",
     "sect3_video_blurb": "Mluvte spolu tváří v tvář přes bezpečný videohovor.",
@@ -39,13 +39,13 @@
     "sect4_principles": "Chat, videokonference, a mnohem více",
     
     "sect4_security": "Bezpečnost",
-    "sect4_security_blurb": "Tox bere vaše soukromí vážně.<br/>Díky <span class=\"text bold\">nejmodernějším šifrovacím technologím</span> si můžete být jisti, že jediní lidé co čtou Vaše zprávy jsou ti, kterým jste je zaslali.",
+    "sect4_security_blurb": "qTox bere vaše soukromí vážně.<br/>Díky <span class=\"text bold\">nejmodernějším šifrovacím technologím</span> si můžete být jisti, že jediní lidé co čtou Vaše zprávy jsou ti, kterým jste je zaslali.",
     
     "sect4_easy": "Jednoduchost používání",
-    "sect4_easy_blurb": "Na rozdíl od ostatních šifrovacích aplikací, Tox po Vás nevyžaduje abyste byli programátoři když jej chcete používat. Tox má hned po instalaci <span class=\"text bold\">jednoduché rozhraní</span>, díky kterému se můžete radši věnovat tomu, s kým mluvíte.",
+    "sect4_easy_blurb": "Na rozdíl od ostatních šifrovacích aplikací, qTox po Vás nevyžaduje abyste byli programátoři když jej chcete používat. qTox má hned po instalaci <span class=\"text bold\">jednoduché rozhraní</span>, díky kterému se můžete radši věnovat tomu, s kým mluvíte.",
     
     "sect4_freedom": "Svoboda",
-    "sect4_freedom_blurb": "Tox je a vždy bude zdarma, a budete si jej moct upravit jak se vám zlíbí. Můžete jej úplně volně používat i modifikovat. Navíc Vás <span class=\"text bold\">nikdy nebude otravovat reklamami, nebo vyžadovat poplatky</span>.",
+    "sect4_freedom_blurb": "qTox je a vždy bude zdarma, a budete si jej moct upravit jak se vám zlíbí. Můžete jej úplně volně používat i modifikovat. Navíc Vás <span class=\"text bold\">nikdy nebude otravovat reklamami, nebo vyžadovat poplatky</span>.",
     
     
     "sect5_contribute": "Přispějte",
@@ -57,9 +57,9 @@
     "sect6_developers": "Jsme skvělý tým z <span class=\"text normal\">celého světa</span>.",
     
     "sect6_mailinglist_title": "Buďte v obraze",
-    "sect6_mailinglist": "Odebírejte náš mailing list a dostávejte tak novinky o Tox",
+    "sect6_mailinglist": "Odebírejte náš mailing list a dostávejte tak novinky o qTox",
     "sect6_email": "e-mailová adresa",
     
     "sect6_needhelp": "Potřebujete pomoc?",
-    "sect6_githubtoirc": "Začněte vlastní projekt a zeptejte se nás na <span class=\"text normal\">GitHubu</span>, nebo na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Začněte vlastní projekt a zeptejte se nás na <span class=\"text normal\">GitHubu</span>, nebo na <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!"
 }

@@ -4,25 +4,25 @@
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "qTox",
 
     "nv_home": "Domov",
-    "nv_about": "O Toxu",
+    "nv_about": "O qToxu",
     "nv_features": "Zmožnosti",
     "nv_contribute": "Prispevajte",
     "nv_wiki": "Wiki",
     "nv_blog": "Blog",
 
     "sect1_slogan": "Varno sporočanje za vsakogar, kmalu na voljo",
-    "sect1_description": "Ob globalnem porastu vladnih nadzorov komunikacij vam Tox, enostaven program za rabo, omogoča varno komuniciranje z vašimi prijatelji in najbližjimi, tako da vam nihče ne more prisluškovati.",  
+    "sect1_description": "Ob globalnem porastu vladnih nadzorov komunikacij vam qTox, enostaven program za rabo, omogoča varno komuniciranje z vašimi prijatelji in najbližjimi, tako da vam nihče ne more prisluškovati.",  
     "sect1_learnmore": "Izvedite več",
-    "sect1_download": "Prenesite Tox",
-    "sect1_notavail": "Tox še ni nared, kmalu ga bo moč prenesti!",
+    "sect1_download": "Prenesite qTox",
+    "sect1_notavail": "qTox še ni nared, kmalu ga bo moč prenesti!",
 
 
-    "sect2_abouttox": "O Toxu",
+    "sect2_aboutqtox": "O qToxu",
 
-    "sect2_aboutbody": "Tox je bil ustvarjen ob zamisli, da bi lahko bili povezani z vašimi prijatelji in pri tem uživali neokrnjeno zasebnost. \n Medtem ko drugi veliki ponudniki zahtevajo plačilo za podobne zmožnosti, je Tox povsem brezplačen in prost za rabo. \n Z njim lahko počnete kar želite.",
+    "sect2_aboutbody": "qTox je bil ustvarjen ob zamisli, da bi lahko bili povezani z vašimi prijatelji in pri tem uživali neokrnjeno zasebnost. \n Medtem ko drugi veliki ponudniki zahtevajo plačilo za podobne zmožnosti, je qTox povsem brezplačen in prost za rabo. \n Z njim lahko počnete kar želite.",
 
 
     "sect3_coolfeatures": "Zanimive zmožnosti",
@@ -31,7 +31,7 @@
     "sect3_messages_blurb": "Na dosegu vaših prstov.\n Hipno sporočanje poteka vseskozi šifrirano.",
 
     "sect3_voice": "Klici",
-    "sect3_voice_blurb": "Ostanite v stiku.\n Brezplačno in varno kličite druge Tox uporabnike.",
+    "sect3_voice_blurb": "Ostanite v stiku.\n Brezplačno in varno kličite druge qTox uporabnike.",
 
     "sect3_video": "Video",
     "sect3_video_blurb": "Videti pomeni verjeti.\n Pogovarjajte se iz oči v oči prek varnega videoklica.",
@@ -41,13 +41,13 @@
     "sect4_principles": "Hipno sporočanje, videokonference in še veliko več",
 
     "sect4_security": "Varnost",
-    "sect4_security_blurb": "Tox jemlje vašo zasebnost skrajno resno.<br/>Z <span class=\"text bold\">vrhunskim šifriranjem</span> ste lahko brez skrbi, saj je vsebina pogovorov dostopna le vam in tistemu, s komer komunicirate.",
+    "sect4_security_blurb": "qTox jemlje vašo zasebnost skrajno resno.<br/>Z <span class=\"text bold\">vrhunskim šifriranjem</span> ste lahko brez skrbi, saj je vsebina pogovorov dostopna le vam in tistemu, s komer komunicirate.",
 
     "sect4_easy": "Enostavna raba",
-    "sect4_easy_blurb": "Za razliko od drugih varnih rešitev hipnega sporočanja, Tox ne terja posebnih znanj za rabo. Tox ima <span class=\"text bold\">preprost</span> uporabniški vmesnik, ki vam omogoča, da se osredotočite na komuniciranje.",
+    "sect4_easy_blurb": "Za razliko od drugih varnih rešitev hipnega sporočanja, qTox ne terja posebnih znanj za rabo. qTox ima <span class=\"text bold\">preprost</span> uporabniški vmesnik, ki vam omogoča, da se osredotočite na komuniciranje.",
 
     "sect4_freedom": "Svoboda",
-    "sect4_freedom_blurb": "Tox je brezplačen za rabo in odprt za spremembe. Tako ste svobodni, da ga uporabljate in poljubno spreminjate. Celo več, <span class=\"text bold\">Tox vas ne bo nikoli nadlegoval z oglasi ali pozival k plačilu.</span>.",
+    "sect4_freedom_blurb": "qTox je brezplačen za rabo in odprt za spremembe. Tako ste svobodni, da ga uporabljate in poljubno spreminjate. Celo več, <span class=\"text bold\">qTox vas ne bo nikoli nadlegoval z oglasi ali pozival k plačilu.</span>.",
 
 
     "sect5_contribute": "Prispevajte",
@@ -63,5 +63,5 @@
     "sect6_email": "vaš naslov e-pošte",
 
     "sect6_needhelp": "Potrebujete pomoč?",
-    "sect6_githubtoirc": "Začnite s svojim projektom in nam zastavite svoja vprašanja na <span class=\"text normal\">GitHubu</span> ali na <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">omrežju IRC</a>!"
+    "sect6_githubtoirc": "Začnite s svojim projektom in nam zastavite svoja vprašanja na <span class=\"text normal\">GitHubu</span> ali na <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">omrežju IRC</a>!"
 }

@@ -3,7 +3,7 @@
     "_language": "Dansk",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "qTox",
     
     "nv_home": "Hjem",
     "nv_about": "Om",
@@ -11,17 +11,16 @@
     "nv_contribute": "Bidrag",
     
     "sect1_slogan": "Sikker kommunikation for alle.",
-    "sect1_description": "Med den stigende grad af statslig overvågning er Tox et brugervenligt program, som der gør dig i stand til at kommunikere med dine venner og bekendte - uden at andre følger med i samtalen.",
+    "sect1_description": "Med den stigende grad af statslig overvågning er qTox et brugervenligt program, som der gør dig i stand til at kommunikere med dine venner og bekendte - uden at andre følger med i samtalen.",
     "sect1_learnmore": "Lær mere",
     "sect1_download": "Hent",
-    "sect1_nightly": "Du kan allerede nu downloade Tox nightlies, men vær advaret; der kan forekomme bugs!",
     "download_nightly": "Nightlies",
     "download_warning": "Nightlies er ikke for alle. Du kan komme til at støde på bugs, crashes, og en masse frustration. Du er nu advaret!",
     "download_distro": "Vælg din distribution",
     
-    "sect2_abouttox": "Om Tox",
+    "sect2_aboutqtox": "Om qTox",
     
-    "sect2_aboutbody": "Tox er baseret på konceptet at du skal kunne holde kontakt til dine venner, og familie, uden at dit privatliv bliver krænket.\n Hvor du skal betale for funktionalitet i andre løsninger, så er Tox både gratis og respekterer din frihed.\n Det betyder at; du kan gøre lige hvad du vil med Tox.",
+    "sect2_aboutbody": "qTox er baseret på konceptet at du skal kunne holde kontakt til dine venner, og familie, uden at dit privatliv bliver krænket.\n Hvor du skal betale for funktionalitet i andre løsninger, så er qTox både gratis og respekterer din frihed.\n Det betyder at; du kan gøre lige hvad du vil med qTox.",
     
     
     "sect3_coolfeatures": "Nogle fede funktioner",
@@ -30,7 +29,7 @@
     "sect3_messages_blurb": "Krypteret chat lige ved fingerspidserne.",
     
     "sect3_voice": "Opkald",
-    "sect3_voice_blurb": "Hold kontakten.\n Foretag gratis og sikkert Tox til Tox opkald.",
+    "sect3_voice_blurb": "Hold kontakten.\n Foretag gratis og sikkert qTox til qTox opkald.",
     
     "sect3_video": "Video",
     "sect3_video_blurb": "Ansigt til ansigt.\n Se personen du taler med, i et sikkert videoopkald.",
@@ -40,13 +39,13 @@
     "sect4_principles": "Chat, videokonferencer og meget mere",
     
     "sect4_security": "Sikkerhed",
-    "sect4_security_blurb": "Tox tager dit privatliv seriøst.<br/>Med en <span class=\"text bold\">markedsførende kryptering</span> kan du være sikker på, at de eneste der kan læse dine beskeder, er dem du sender beskederne til.",
+    "sect4_security_blurb": "qTox tager dit privatliv seriøst.<br/>Med en <span class=\"text bold\">markedsførende kryptering</span> kan du være sikker på, at de eneste der kan læse dine beskeder, er dem du sender beskederne til.",
     
     "sect4_easy": "Brugervenligt",
-    "sect4_easy_blurb": "Til forskel fra andre sikre kommunikationsløsninger kræver Tox ikke nogen computerkyndighed for at bruge det. Tox er født med en <span class=\"text bold\">brugervenlig</span> brugerflade, som gør dig i stand til at fokusere på dine samtaler.",
+    "sect4_easy_blurb": "Til forskel fra andre sikre kommunikationsløsninger kræver qTox ikke nogen computerkyndighed for at bruge det. qTox er født med en <span class=\"text bold\">brugervenlig</span> brugerflade, som gør dig i stand til at fokusere på dine samtaler.",
     
     "sect4_freedom": "Frihed",
-    "sect4_freedom_blurb": "Tox er ikke kun frit tilgængeligt, men du er også frit stillet til at ændre det. \nDu er fuldstændig fri til både at bruge og tilpasse Tox. Derudover vil Tox<span class=\"text bold\"> aldrig genere dig med reklamer, eller have dig til at betale for funktioner.</span>",
+    "sect4_freedom_blurb": "qTox er ikke kun frit tilgængeligt, men du er også frit stillet til at ændre det. \nDu er fuldstændig fri til både at bruge og tilpasse qTox. Derudover vil qTox<span class=\"text bold\"> aldrig genere dig med reklamer, eller have dig til at betale for funktioner.</span>",
     
     
     "sect5_contribute": "Bidrag",
@@ -62,5 +61,5 @@
     "sect6_email": "email adresse",
     
     "sect6_needhelp": "Brug for hjælp?",
-    "sect6_githubtoirc": "Start dit eget projekt og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/Tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Start dit eget projekt og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/qTox\" class=\"text bold underline color theme\">IRC</a>!"
 }

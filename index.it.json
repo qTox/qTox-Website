@@ -4,7 +4,7 @@
     "_comment": "",
     "_ind": 0,
 
-    "lf_title": "Tox: Un Nuovo Tipo di Messaggistica Istantanea",
+    "lf_title": "qTox: Un Nuovo Tipo di Messaggistica Istantanea",
 
     "nv_home": "Home",
     "nv_about": "Chi siamo",
@@ -12,21 +12,20 @@
     "nv_contribute": "Contribuisci",
     "nv_wiki": "Wiki",
     "nv_support": "Supporto",
-    "nv_donate": "Fai una donazione",
     "nv_source_code": "Codice sorgente",
+    "nv_user_manual": "User manual",
 
     "sect1_slogan": "Messaggistica sicura per tutti, presto in arrivo",
-    "sect1_description": "Con l'aumentare dei programmi di monitoraggio da parte del governo, Tox è un'applicazione facile da usare che ti permette di connetterti con gli amici e le persone amate senza nessuno che stia a spiarvi.",
+    "sect1_description": "Con l'aumentare dei programmi di monitoraggio da parte del governo, qTox è un'applicazione facile da usare che ti permette di connetterti con gli amici e le persone amate senza nessuno che stia a spiarvi.",
     "sect1_learnmore": "Di più",
     "sect1_download": "Download",
-    "sect1_nightly": "Puoi scaricare le nightlies di Tox; sei avvisato, potrebbero esserci dei bug!",
     "download_nightly": "Nightlies",
     "download_warning": "Le nightlies non sono per i deboli di cuore, potresti incontrare bug, crash, e grandi dosi di frustrazione. Sei stato avvisato!",
     "download_distro": "Scegli la tua distribuzione",
 
-    "sect2_abouttox": "Su Tox",
+    "sect2_aboutqtox": "Su qTox",
 
-    "sect2_aboutbody": "Tox è nato con l'idea di poter restare in contatto con amici e parenti senza incorrere nella violazione della privacy.\n Servizi molto più conosciuti chiedono di pagare per l'utilizzo di alcune funzioni, Tox invece ti rende libero sia da costi aggiuntivi, che da occhi indiscreti.\n Ecco tutto, sentiti libero di fare tutto ciò che desideri con Tox.",
+    "sect2_aboutbody": "qTox è nato con l'idea di poter restare in contatto con amici e parenti senza incorrere nella violazione della privacy.\n Servizi molto più conosciuti chiedono di pagare per l'utilizzo di alcune funzioni, qTox invece ti rende libero sia da costi aggiuntivi, che da occhi indiscreti.\n Ecco tutto, sentiti libero di fare tutto ciò che desideri con qTox.",
 
 
     "sect3_coolfeatures": "Alcune fantastiche caratteristiche",
@@ -35,7 +34,7 @@
     "sect3_messages_blurb": "A portata di dita.\n Sei sempre aggiornato con i messaggi istantanei criptati.",
 
     "sect3_voice": "Chiamate",
-    "sect3_voice_blurb": "Resta in contatto.\n Effettua chiamate gratuite e sicure da Tox a Tox.",
+    "sect3_voice_blurb": "Resta in contatto.\n Effettua chiamate gratuite e sicure da qTox a qTox.",
 
     "sect3_video": "Video",
     "sect3_video_blurb": "Guardare per credere.\n Parla faccia a faccia con le videochiamate sicure.",
@@ -45,29 +44,30 @@
     "sect4_principles": "Messaggi istantanei, video conferenze, ed altro",
 
     "sect4_security": "Sicurezza",
-    "sect4_security_blurb": "Tox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una crittografia di prima classe</span>, puoi essere certo che le uniche persone a leggere i tuoi messaggi sono quelle a cui li hai mandati.",
+    "sect4_security_blurb": "qTox prende in grande considerazione la tua privacy.<br/>Con <span class=\"text bold\">una crittografia di prima classe</span>, puoi essere certo che le uniche persone a leggere i tuoi messaggi sono quelle a cui li hai mandati.",
 
     "sect4_easy": "Semplice da utilizzare",
-    "sect4_easy_blurb": "A differenza delle altre applicazioni di messaggistica sicure, non c'è bisogno di essere un programmatore per usare Tox. Tox ti offre un'interfaccia <span class=\"text bold\">facile da usare</span> che ti permette di concentrarti sulle tue conversazioni.",
+    "sect4_easy_blurb": "A differenza delle altre applicazioni di messaggistica sicure, non c'è bisogno di essere un programmatore per usare qTox. qTox ti offre un'interfaccia <span class=\"text bold\">facile da usare</span> che ti permette di concentrarti sulle tue conversazioni.",
 
     "sect4_freedom": "Libertà",
-    "sect4_freedom_blurb": "Tox è libero sia di esser usato, che modificato. Sei totalmente libero di usare e modificare Tox. Ed inoltre, <span class=\"text bold\">Tox non ti infastidirà mai con annunci, nè ti chiederà di pagare per funzioni aggiuntive</span>.",
+    "sect4_freedom_blurb": "qTox è libero sia di esser usato, che modificato. Sei totalmente libero di usare e modificare qTox. Ed inoltre, <span class=\"text bold\">qTox non ti infastidirà mai con annunci, nè ti chiederà di pagare per funzioni aggiuntive</span>.",
 
 
     "sect6_freesoftware": "Software libero",
     "sect6_developers": "Siamo ragazzi in gamba provenienti da <span class=\"text normal\">tutto il mondo</span>.",
 
     "sect6_mailinglist_title": "Tieniti aggiornato",
-    "sect6_mailinglist": "Iscriviti alla nostra mailing list per riceve aggiornamenti sullo sviluppo di Tox.",
+    "sect6_mailinglist": "Iscriviti alla nostra mailing list per riceve aggiornamenti sullo sviluppo di qTox.",
     "sect6_email": "indirizzo email",
 
     "sect6_needhelp": "Hai bisogno d'aiuto?",
-    "sect6_githubtoirc": "Inizia un tuo nuovo progetto e chiedi a noi su <span class=\"text normal\">GitHub</span>, o su <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    "sect6_githubtoirc": "Inizia un tuo nuovo progetto e chiedi a noi su <span class=\"text normal\">GitHub</span>, o su <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
     
-    "dev_links": "Link per sviluppatori",
+    "links": "Link per sviluppatori", "_comment_": "← TODO: update",
     "dev_blog": "Blog di sviluppo",
     "dev_docs": "Documentazione",
+    "about_tox": "About Tox",
     
     "donate_header": "Fai una donazione",
-    "donate_about": "Per scoprire come puoi aiutare tramite le donazioni, visita il nostro articolo sulle <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donazioni</a> sul wiki. Grazie!"
+    "donate_about": "Per scoprire come puoi aiutare tramite le donazioni, visita il nostro articolo sulle <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donazioni</a> sul wiki. Grazie!"
 }

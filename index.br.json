@@ -4,7 +4,7 @@
     "_comment": "Updated version of Breton translation",
     "_ind": 0,
 
-    "lf_title": "Tox",
+    "lf_title": "qTox",
     
     "nv_home": "Degemer",
     "nv_about": "A-zivout",
@@ -12,22 +12,21 @@
     "nv_contribute": "Kemer perzh",
     "nv_wiki": "Wiki",    
     "nv_support": "Skoazell",
-    "nv_donate": "Reiñ arc'hant",
     "nv_source_code": "Tarzh",
+    "nv_user_manual": "User manual",
 
     "sect1_slogan": "Un doare nevez a postelerezh prim.",
-    "sect1_description": "Gant kresk ar raktresoù evezhiañ e-touezh ar gouarnamantoù e kinnig Tox ur meziant aes da ober gantañ evit eskemm gant ho mignoned hag ho familh, hep na vefe den ebet all o selaou. Pa vez goulennet arc'hant gant ar gwazerezhioù kinniget gant anvioù bras eo digoust penn-da-benn Tox, ha bruderezh ebet ennañ.",
+    "sect1_description": "Gant kresk ar raktresoù evezhiañ e-touezh ar gouarnamantoù e kinnig qTox ur meziant aes da ober gantañ evit eskemm gant ho mignoned hag ho familh, hep na vefe den ebet all o selaou. Pa vez goulennet arc'hant gant ar gwazerezhioù kinniget gant anvioù bras eo digoust penn-da-benn qTox, ha bruderezh ebet ennañ.",
     "sect1_learnmore": "Gouzout hiroc'h",
     "sect1_download": "Pellgargañ",
-    "sect1_nightly": "Tu zo deoc'h pellgargañ nightlies Tox; diwallit memestra rak bugoù a zo !",
     "download_nightly": "Nightlies",
     "download_warning": "An nightlies n'int ket evit an dud gwan a galon, tu vo deoc'h kavout bugoù ha traoù spontus all. Kelaouet oc'h bet !",
     "download_distro": "Dibabit ho dasparzh mar-plij",
     
     
-    "sect2_abouttox": "A-zivout Tox",
+    "sect2_aboutqtox": "A-zivout qTox",
     
-    "sect2_aboutbody": "En devezhioù-mañ, kement gouarnamant a seblant bezañ dedennet er pezh a vez kontet ganeomp enlinenn. Tox a zo savet gant ar pal lakaat \"ar vuhez prevez da gentañ\". Ho surentez a zo hor tevet pennañ, ha n'eus netra er bed a c'hall kemmañ an dra-mañ.",
+    "sect2_aboutbody": "En devezhioù-mañ, kement gouarnamant a seblant bezañ dedennet er pezh a vez kontet ganeomp enlinenn. qTox a zo savet gant ar pal lakaat \"ar vuhez prevez da gentañ\". Ho surentez a zo hor tevet pennañ, ha n'eus netra er bed a c'hall kemmañ an dra-mañ.",
     
     "sect3_coolfeatures": "Postelerezh prim, eskemmoù video, ha muioc'h c'hoazh",
     
@@ -35,7 +34,7 @@
     "sect3_messages_blurb": "War beg ho pizied.\n Kennasket oc'h bepred gant an ar c'hemennadennoù prim enrineget.",
     
     "sect3_voice": "Pellgomz",
-    "sect3_voice_blurb": "Chomit e darempred.\n Pellgomzit en un doare digoust ha diogel etre implijerien Tox.",
+    "sect3_voice_blurb": "Chomit e darempred.\n Pellgomzit en un doare digoust ha diogel etre implijerien qTox.",
     
     "sect3_video": "Video",
     "sect3_video_blurb": "Ret eo sellet evit krediñ.\n Eskemmit penn ouzh penn gant pellgomzadennoù video.",
@@ -48,25 +47,26 @@
     "sect4_security_blurb": "Pouezus eo ho puhez prevez.<br/> Gant un <span class=\"text bold\">enrinegañ kreñv</span> e c'hallit bezañ sur ne vo nemet ar re a fell deoc'h o kemer perzh en eskemm.",
     
     "sect4_easy": "Aes da implijout",
-    "sect4_easy_blurb": "Er c'hontrol da meziantoù all evit eskemm war-eeun en un doare enrineget, ne vez ket gortozet gant Tox e vefec'h un diorroer. Tox a ginnig deoc'h un etreas <span class=\"text bold\">aes da implijout</span> dre ziouer hag a laosk ac'hanoc'h da soñjal en eskemmoù hepken.",
+    "sect4_easy_blurb": "Er c'hontrol da meziantoù all evit eskemm war-eeun en un doare enrineget, ne vez ket gortozet gant qTox e vefec'h un diorroer. qTox a ginnig deoc'h un etreas <span class=\"text bold\">aes da implijout</span> dre ziouer hag a laosk ac'hanoc'h da soñjal en eskemmoù hepken.",
     
     "sect4_freedom": "Frankiz",
-    "sect4_freedom_blurb": "Tox a zo frank ha digoust. Dieub oc'h penn-da-benn da implij ha kemmañ Tox. Ouzhpenn-se, <span class=\"text bold\">Tox ne vo morse o hegasiñ ac'hanoc'h gant bruderezh, ha ne vo morse o lakaat ac'hanoc'h da baeañ evit keweriusterioù ouzhpenn.</span>",
+    "sect4_freedom_blurb": "qTox a zo frank ha digoust. Dieub oc'h penn-da-benn da implij ha kemmañ qTox. Ouzhpenn-se, <span class=\"text bold\">qTox ne vo morse o hegasiñ ac'hanoc'h gant bruderezh, ha ne vo morse o lakaat ac'hanoc'h da baeañ evit keweriusterioù ouzhpenn.</span>",
     
     
     
     "sect6_freesoftware": "Meziant dieub",
     "sect6_developers": "<span class=\"text normal\">Eus ar bed a-bezh</span> e teuomp.",
         "sect6_mailinglist_title": "Chom e darempred",
-    "sect6_mailinglist": "Koumanantit d'hor listenn postelerezh evit kaout hizivadurioù a-zivout araokadennoù Tox.",
+    "sect6_mailinglist": "Koumanantit d'hor listenn postelerezh evit kaout hizivadurioù a-zivout araokadennoù qTox.",
     "sect6_email": "chomlec'h postel",
         "sect6_needhelp": "Ezhomm kaout sikour ?",
-    "sect6_githubtoirc": "Krogit gant ho raktres ha goulennit ganeomp war <span class=\"text normal\">GitHub</span>, pe war <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
-        "dev_links": "Ereoù diorroerien",
+    "sect6_githubtoirc": "Krogit gant ho raktres ha goulennit ganeomp war <span class=\"text normal\">GitHub</span>, pe war <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+        "links": "Ereoù diorroerien", "_comment_": "← TODO: update",
     "dev_blog": "Blog dirorroerien",
     "dev_docs": "Teulioù",
+    "about_tox": "About Tox",
         "donate_header": "Reiñ arc'hant",
-    "donate_about": "Evit deskiñ penaos skoazell en ur reiñ ac'hant ez eus tu deoc'h gweladenniñ hor pennad wiki diwar-benn <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">an danvez-mañ</a>. Trugarez deoc'h !",
+    "donate_about": "Evit deskiñ penaos skoazell en ur reiñ ac'hant ez eus tu deoc'h gweladenniñ hor pennad wiki diwar-benn <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">an danvez-mañ</a>. Trugarez deoc'h !",
         "missedplatform": "N'eo ket ho savenn ?",
     "connect": "evit"
 

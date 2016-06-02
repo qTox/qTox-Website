@@ -19,7 +19,7 @@
     "sect1_download": "حمل",
     
     
-    "sect2_abouttox": "حول توكس",
+    "sect2_aboutqtox": "حول توكس",
     
     "sect2_aboutbody": "الفكرة وراء توكس هي تمكينك من البقاء على اتصال مع الأصدقاء والعائلة من دون التنازل عن خصوصيتك.\n وبينما بعض الخدمات أخرى المعروفة في هذا المجال تشترط منك الدفع لتفعيل بعض الخدمات، توكس برنامج حر ومجاني.\n إذ بإمكانك استعماله و تعديله كما يحلو لك وبدون رسوم",
     
@@ -62,8 +62,8 @@
     "sect6_email": "عنوان البريد الإلكتروني" ,
     
     "sect6_jointheteam": "أنضم للفريق",
-    "sect6_joinongithub": "ساعد في بناء توكس على <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>",
+    "sect6_joinongithub": "ساعد في بناء توكس على <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>",
     
     "sect6_needhelp": "تحتاج إلى المساعدة؟",
-    "sect6_githubtoirc": "إبدأ مشروعك الخاص و اسألنا على <span class=\"text normal\">GitHub</span>، أو على <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "إبدأ مشروعك الخاص و اسألنا على <span class=\"text normal\">GitHub</span>، أو على <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!"
 }

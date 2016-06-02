@@ -4,7 +4,7 @@
     "_comment": "v1.3",
     "_ind": 1,
 
-    "lf_title": "Tox",
+    "lf_title": "qTox",
     
     "nv_home": "Ana Sayfa",
     "nv_about": "Hakkında",
@@ -12,17 +12,17 @@
     "nv_contribute": "Katkıda Bulun",
     "nv_wiki": "Wiki",
     
-    "sect1_notavail": "Tox yakında hizmetinizde olacaktır!",
+    "sect1_notavail": "qTox yakında hizmetinizde olacaktır!",
     
     "sect1_slogan": "Herkes için güvenilir mesajlaşma.",
-    "sect1_description": "Hükümetin takibi ile birlikte, Tox arkadaşlarınızla, ailenizle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izleyemeyeceği şekilde kolayca kullanılabilen bir uygulamadır.",
+    "sect1_description": "Hükümetin takibi ile birlikte, qTox arkadaşlarınızla, ailenizle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izleyemeyeceği şekilde kolayca kullanılabilen bir uygulamadır.",
     "sect1_learnmore": "Daha fazla öğren",
     "sect1_download": "İndir",
     
     
-    "sect2_abouttox": "Tox Hakkında",
+    "sect2_aboutqtox": "qTox Hakkında",
     
-    "sect2_aboutbody": "Tox arkadaşlarınızla ve ailenizle gizli ve güvenli bir şekilde konuşabilmek amacıyla kurulmuştur.\n Diğer büyük çaplı servisler, özelliklerini kullanabilmek için belli bir miktar para isterken, Tox hem ücret bakımından, hem de kullanış bakımından bedavadır.\n Tox ile istediğinizi yapabileceğiniz anlamına gelir.",
+    "sect2_aboutbody": "qTox arkadaşlarınızla ve ailenizle gizli ve güvenli bir şekilde konuşabilmek amacıyla kurulmuştur.\n Diğer büyük çaplı servisler, özelliklerini kullanabilmek için belli bir miktar para isterken, qTox hem ücret bakımından, hem de kullanış bakımından bedavadır.\n qTox ile istediğinizi yapabileceğiniz anlamına gelir.",
     
     
     "sect3_coolfeatures": "Bazı özellikler",
@@ -31,7 +31,7 @@
     "sect3_messages_blurb": "Elinizin altında.\n Anlık şifreli mesajlaşma ile her zaman bu döngünun içerisinde olabilirsiniz.",
     
     "sect3_voice": "Aramalar",
-    "sect3_voice_blurb": "Bağınızı koparmayın.\n Tox kullanıcıları arasında bedava ve güvenli aramalar yapın.",
+    "sect3_voice_blurb": "Bağınızı koparmayın.\n qTox kullanıcıları arasında bedava ve güvenli aramalar yapın.",
     
     "sect3_video": "Video",
     "sect3_video_blurb": "Görmek inanmaktır.\n Yüz yüze konuşmalardan hiçbir zaman eksik kalmayın.",
@@ -41,13 +41,13 @@
     "sect4_principles": "Anında mesajlaşma, video konferansı, ve daha fazlası",
     
     "sect4_security": "Güvenlik",
-    "sect4_security_blurb": "Tox gizliliğinizi ciddiye alır.<br/><span class=\"text bold\">Önde gelen şifreleme</span> ile, yazdıklarınızı ve konuşmalarınızı bir tek gönderdiğiniz kişilerin okuyabileceğinden emin olabilirsiniz.",
+    "sect4_security_blurb": "qTox gizliliğinizi ciddiye alır.<br/><span class=\"text bold\">Önde gelen şifreleme</span> ile, yazdıklarınızı ve konuşmalarınızı bir tek gönderdiğiniz kişilerin okuyabileceğinden emin olabilirsiniz.",
     
     "sect4_easy": "Kullanım Kolaylığı",
-    "sect4_easy_blurb": "Diğer güvenli mesajlaşma servislerinden farklı olarak Tox, onu kullanmak için bir bilgisayar yazılımcısı olmanızı gerektirmez. Tox elinize ulaştığı şekilde <span class=\"text bold\">kolayca kullanılabilen</span> bir arayüz ile konuşmalarınıza dikkatinizi rahatça verebilirsiniz.",
+    "sect4_easy_blurb": "Diğer güvenli mesajlaşma servislerinden farklı olarak qTox, onu kullanmak için bir bilgisayar yazılımcısı olmanızı gerektirmez. qTox elinize ulaştığı şekilde <span class=\"text bold\">kolayca kullanılabilen</span> bir arayüz ile konuşmalarınıza dikkatinizi rahatça verebilirsiniz.",
     
     "sect4_freedom": "Özgürlük",
-    "sect4_freedom_blurb": "Tox hem kullanılması bedava, hem de değiştirilmesi serbest. Siz Tox'ı istediğiniz gibi kullanmak ve değistirmekle özgürsünüz. Bunun yanında, <span class=\"text bold\">Tox reklamlardan özgürdür ve hiçbir zaman özellikleri kullanmak için paranızı istemez.</span>",
+    "sect4_freedom_blurb": "qTox hem kullanılması bedava, hem de değiştirilmesi serbest. Siz qTox'ı istediğiniz gibi kullanmak ve değistirmekle özgürsünüz. Bunun yanında, <span class=\"text bold\">qTox reklamlardan özgürdür ve hiçbir zaman özellikleri kullanmak için paranızı istemez.</span>",
     
     
     "sect5_contribute": "Katkıda Bulun",
@@ -59,9 +59,9 @@
     "sect6_developers": "Bizler <span class=\"text normal\">Dünya'nın her yerinden</span> insanlarız.",
     
     "sect6_mailinglist_title": "Güncel kal",
-    "sect6_mailinglist": "Tox'ın gelişimi ile ilgili haberdar olmak isterseniz posta listesine abone olun.",
+    "sect6_mailinglist": "qTox'ın gelişimi ile ilgili haberdar olmak isterseniz posta listesine abone olun.",
     "sect6_email": "email adresi",
     
     "sect6_needhelp": "Yardıma ihtiyacınız var mı?",
-    "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>'dir!"
+    "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>'dir!"
 }

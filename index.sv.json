@@ -3,7 +3,7 @@
     "_language": "Svenska",
     "_ind": 5,
 
-    "lf_title": "Tox: En Ny Sorts Chatt",
+    "lf_title": "qTox: En Ny Sorts Chatt",
     
     "nv_home": "Hem",
     "nv_about": "Om",
@@ -12,17 +12,16 @@
     "nv_wiki": "Wiki",
     
     "sect1_slogan": "En Ny Sorts Chatt",
-    "sect1_description": "Med en ökning av statlig övervakning är Tox ett användarvänligt program som tillåter dig att kommunicera med vänner och familj utan att någon spionerar på er. Medans andra kända tjänster kräver att du betalar för funktioner så är Tox helt gratis, och kommer utan reklam.",
+    "sect1_description": "Med en ökning av statlig övervakning är qTox ett användarvänligt program som tillåter dig att kommunicera med vänner och familj utan att någon spionerar på er. Medans andra kända tjänster kräver att du betalar för funktioner så är qTox helt gratis, och kommer utan reklam.",
     "sect1_learnmore": "Lär dig mer",
     "sect1_download": "Ladda ner",
-    "sect1_nightly": "Du kan ladda ner Tox nightlies; varning, de kan vara buggiga!",
     "download_nightly": "Nightlies",
     "download_warning": "Nightlies är inte för de svaghjärtade, du kan stöta på buggar, krashar, och höga doser frustraton. Du har blivit varnad!",
     "download_distro": "Var vänlig och välj din distribution",
     
-    "sect2_abouttox": "Om Tox",
+    "sect2_aboutqtox": "Om qTox",
     
-    "sect2_aboutbody": "Nu för tiden verkar det som att varenda regering är intresserad av vad du pratar om online. Tox är skapat med en \"privatliv går först\" agenda, och vi kompromissar inte. Din säkerhet är våran högsta prioritet, och det finns ingenting här i världen som kan ändra på det.",
+    "sect2_aboutbody": "Nu för tiden verkar det som att varenda regering är intresserad av vad du pratar om online. qTox är skapat med en \"privatliv går först\" agenda, och vi kompromissar inte. Din säkerhet är våran högsta prioritet, och det finns ingenting här i världen som kan ändra på det.",
 
 
     "sect3_coolfeatures": "Några coola funktioner",
@@ -31,7 +30,7 @@
     "sect3_messages_blurb": "Nära till hands.\n Du kommer lätt igång med automatiskt krypterade meddelanden.",
     
     "sect3_voice": "Samtal",
-    "sect3_voice_blurb": "Håll kontakten.\n Ring gratis och säkra Tox-till-Tox samtal.",
+    "sect3_voice_blurb": "Håll kontakten.\n Ring gratis och säkra qTox-till-qTox samtal.",
     
     "sect3_video": "Video",
     "sect3_video_blurb": "Att se är att tro. \n Prata ansikte mot ansikte med ett säkret videosamtal.",
@@ -39,28 +38,29 @@
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
     
     "sect4_security": "Säkerhet",
-    "sect4_security_blurb": "Tox ser allvarligt på din rätt till privatliv.<br/>Med <span class=\"text bold\">världsklassig kryptering</span> kan du sova säkert med vetskapen att de enda som läser dina meddelandne är de som du skickar dem till.",
+    "sect4_security_blurb": "qTox ser allvarligt på din rätt till privatliv.<br/>Med <span class=\"text bold\">världsklassig kryptering</span> kan du sova säkert med vetskapen att de enda som läser dina meddelandne är de som du skickar dem till.",
     
     "sect4_easy": "Användarvänlighet",
-    "sect4_easy_blurb": "Olikt andra alternativ för säker kommunikation kräver inte Tox att du är en dataingenjör för att användas. Tox kommer direkt med ett <span class=\"text bold\">användarvänligt</span> grafiskt gränssnitt vilket låter dig fokusera på dina konversationer.",
+    "sect4_easy_blurb": "Olikt andra alternativ för säker kommunikation kräver inte qTox att du är en dataingenjör för att användas. qTox kommer direkt med ett <span class=\"text bold\">användarvänligt</span> grafiskt gränssnitt vilket låter dig fokusera på dina konversationer.",
     
     "sect4_freedom": "Frihet",
-    "sect4_freedom_blurb": "Tox är både gratis att använda, och fritt att ändra på. Du är helt fri att både använda och modifera Tox. <span class=\"text bold\">Tox kommer heller aldrig störa dig med reklam, eller kräva dig att betala för funktionalitet.</span>",
+    "sect4_freedom_blurb": "qTox är både gratis att använda, och fritt att ändra på. Du är helt fri att både använda och modifera qTox. <span class=\"text bold\">qTox kommer heller aldrig störa dig med reklam, eller kräva dig att betala för funktionalitet.</span>",
     
     "sect6_freesoftware": "Fri Programvara",
-    "sect6_developers": "Tox är gemensamt skapat av personer <span class=\"text normal\">runt hela jorden</span>.",
+    "sect6_developers": "qTox är gemensamt skapat av personer <span class=\"text normal\">runt hela jorden</span>.",
 
     "sect6_mailinglist_title": "Håll dig uppdaterad",
-    "sect6_mailinglist": "Anmäl dig till våran utskickslista för uppdateringar om Tox.",
+    "sect6_mailinglist": "Anmäl dig till våran utskickslista för uppdateringar om qTox.",
     "sect6_email": "e-postadress",      
     
     "sect6_needhelp": "Behöver du hjälp?",
-    "sect6_githubtoirc": "Starta ditt egna projekt och fråga oss på <span class=\"text normal\">GitHub</span>, eller på våran <a href=\"ircs://irc.freenode.net/tox\" class=\"text bold underline color theme\">IRC</a>!",
+    "sect6_githubtoirc": "Starta ditt egna projekt och fråga oss på <span class=\"text normal\">GitHub</span>, eller på våran <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
-    "dev_links": "Utvecklarlänkar",
+    "links": "Utvecklarlänkar", "_comment_": "← TODO: update",
     "dev_blog": "Utvecklingsblogg",
     "dev_docs": "Dokumentation",
+    "about_tox": "About Tox",
 
     "donate_header": "Bidra",
-    "donate_about": "För att se hur du kan hjälpa till genom att bidra, besök våran <a href=\"http://wiki.tox.im/Donate\" class=\"text bold underline color theme\">donationer</a> wikiartikel. Tack!"
+    "donate_about": "För att se hur du kan hjälpa till genom att bidra, besök våran <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donationer</a> wikiartikel. Tack!"
 }
