@@ -1,14 +1,9 @@
-NOTICE
-==================
-
-***Eventually, this website will be deprecated in favor of the [new site](https://github.com/pwnsdx/Tox-Website) (preview available at [beta.tox.im](https://beta.tox.im)). If you are wanting to submit translations or other contributions, we _strongly_ recommend that you submit them to the [new site](https://github.com/pwnsdx/Tox-Website) instead (please submit translations [here](https://www.transifex.com/projects/p/tox-website-next/), as they will be put to better use.***
-
 **Current build status:** 
-[![Build Status](https://travis-ci.org/Tox/Tox-Website.svg)](https://travis-ci.org/Tox/Tox-Website)
-Tox.im
+[![Build Status](https://travis-ci.org/qTox/qTox-Website.svg)](https://travis-ci.org/qTox/qTox-Website)
+qtox.github.io
 ==================
 
-Source code for the Tox.im website
+Source code for the qTox website
 
 Building the site
 =================
@@ -45,7 +40,3 @@ The JSON files used by buildsite.py have some special names which are used by th
 ``_comment``: A comment about the language file (optional).  
 ``_author``: The creator(s) of the file.  
 ``_direction``: ``rtl`` or ``ltr`` only (specifies the text direction of the language. If you leave this key out, it will be left-to-right).
-
-Language Maintainers
-====================
-Please visit the [Translations](https://wiki.tox.im/Translations) page on the Tox Wiki. If you want to volunteer to maintain a language (keep it up to date), please get in contact with [Urras](https://wiki.tox.im/User:Urras).
