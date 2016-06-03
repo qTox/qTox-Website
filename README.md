@@ -1,5 +1,5 @@
 **Current build status:** 
-[![Build Status](https://travis-ci.org/qTox/qTox-Website.svg)](https://travis-ci.org/qTox/qTox-Website)
+[![Build Status](https://travis-ci.org/qTox/qTox-Website.svg?branch=master)](https://travis-ci.org/qTox/qTox-Website)
 qtox.github.io
 ==================
 
