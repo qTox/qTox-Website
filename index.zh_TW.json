@@ -1,69 +1,74 @@
 {
     "_author": "xatier, 願い星, BrLi",
-    "_language": "繁體中文(台灣)",
+    "Language": "繁體中文(台灣)",
     "_comment": "",
     "_ind": 0,
 
-    "lf_title": "qTox：新型即時通訊",
+    "qTox: A New Kind of Instant Messaging": "qTox：新型即時通訊",
 
-    "nv_home": "首頁",
-    "nv_about": "關於",
-    "nv_features": "特性",
-    "nv_contribute": "貢獻",
-    "nv_wiki": "Wiki",
+    "Home": "首頁",
+    "About": "關於",
+    "Features": "特性",
+    "Contribute": "貢獻",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
 
-    "sect1_slogan": "新型即時通訊",
+    "A New Kind of Instant Messaging": "新型即時通訊",
     "sect1_description": "來自政府日益加劇的網路監控計畫下，qTox 提供易於使用的應用，，能幫助您與朋友和親人在網路上進行資訊交流時避免任何人的監聽。當其他知名服務要求您為新功能付款時，qTox 是完全免費並沒有任何廣告的！",
-    "sect1_learnmore": "瞭解更多",
-    "sect1_download": "下載",
-    "download_nightly": "Nightlies",
+    "Learn more": "瞭解更多",
+    "Download": "下載",
+    "Nightlies": "Nightlies",
     "download_warning": "Nightlies 版本不是給心臟無力者使用，您可能會遇到 bug, crashes 和與很大的挫折。 您已經被警告過了！",
-    "download_distro": "請選擇您的發行版本",
+    "Please choose your distribution": "請選擇您的發行版本",
 
-    "sect2_aboutqtox": "關於 qTox",
+    "About qTox": "關於 qTox",
+    "About Tox": "關於 Tox",
 
     "sect2_aboutbody": "現今，所有的政府似乎對我們在網路上的言論有興趣。qTox 基於 \"隱私至上\" 的理念，並且我們不會有任何讓步。您的安全是我們的最優先考量，並且不會因世上任何東西而改變。",
 
 
-    "sect3_coolfeatures": "即時通訊，視訊會議以及更多",
+    "Instant messaging, video conferencing, and more": "即時通訊，視訊會議以及更多",
 
-    "sect3_messages": "文字通訊",
+    "Messages": "文字通訊",
     "sect3_messages_blurb": "您指尖敲出的信息將立即被完全加密。",
 
-    "sect3_voice": "語音通話",
+    "Calls": "語音通話",
     "sect3_voice_blurb": "保持聯繫\n使用 qTox 進行免費並安全的語音通話。",
 
-    "sect3_video": "視訊通話",
+    "Video": "視訊通話",
     "sect3_video_blurb":  "眼見為憑\n面對面的安全視訊通話。",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
 
-    "sect4_security": "安全",
+    "Security": "安全",
     "sect4_security_blurb": "qTox 為您嚴守隱私。<br/>使用<span class=\"text bold\">頂尖的加密技術</span>，您可以愜意地知道，對方是唯一看的到您的訊息的人。",
 
-    "sect4_easy": "易於使用",
+    "Ease of Use": "易於使用",
     "sect4_easy_blurb": "不像別的安全聊天方案，您並不需要成為程式設計師才能使用它。qTox 打破限制而提供<span class=\"text bold\">簡單易用</span>的介面，讓您把精力都集中在聊天之上。",
 
-    "sect4_freedom": "自由",
+    "Freedom": "自由",
     "sect4_freedom_blurb": "qTox 不但讓您免費使用，也讓您自由修改。您可以任意的使用和修改 qTox。此外， <span class=\"text bold\">qTox 永遠不會發廣告騷擾您，也不會讓您為了一些附加功能付錢</span>。",
 
-    "sect6_freesoftware": "自由軟體",
-    "sect6_developers": "我們是<span class=\"text normal\">來自全世界</span>的朋友",
+    "Free Software": "自由軟體",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "我們是<span class=\"text normal\">來自全世界</span>的朋友",
 
-    "sect6_mailinglist_title": "成為圈內人",
+    "sect5_github": "想要幫助 Tox？我們在這裡 <span class=\"text normal color white\">GitHub</span>。\n 您不需要有任何程式設計經驗",
+    "Source on GitHub": "GitHub 上的原始碼",
+
+    "Keep in the loop": "成為圈內人",
     "sect6_mailinglist": "訂閱我們的郵件列表以取得關於 qTox 的進展",
-    "sect6_email": "email 地址",
+    "email address": "email 地址",
 
-    "sect6_needhelp": "需要協助？",
+    "Need some help?": "需要協助？",
     "sect6_githubtoirc": "在<span class=\"text normal\"> GitHub </span>上建立您自己的項目並且讓我們加入，或者加入這個<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\"> IRC </a>頻道！",
 
-    "links": "開發者連結", "_comment_": "← TODO: update",
-    "dev_blog": "開發部落格",
-    "dev_docs": "文件",
-    "about_tox": "About Tox",
+    "Developer Links": "開發者連結",
+    "Development blog": "開發部落格",
+    "Documentation": "文件",
 
-    "donate_header": "贊助",
+    "Donate": "贊助",
     "donate_about": "想瞭解我們如何運用你的捐款，請見我們的 <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">贊助</a> wiki 頁。謝謝您！"
-
 }

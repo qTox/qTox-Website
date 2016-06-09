@@ -1,72 +1,78 @@
 {
     "_author": "reddit.com/u/TamoNekiDrMr",
-    "_language": "Srpski (latinica)",
+    "Language": "Srpski (latinica)",
     "_comment": "Za prevod u druge jezike koristiti originalni engleski prevod (index.en.json)!",
     "_ind": 0,
 
-    "lf_title": "qTox",
-    
-    "nv_home": "Početna",
-    "nv_about": "O projektu",
-    "nv_features": "Sadržaj",
-    "nv_contribute": "Doprinesi projektu",
-    
-    "sect1_slogan": "Bezbedna komunikacija za nas ostale.",
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+
+    "Home": "Početna",
+    "About": "O projektu",
+    "Features": "Sadržaj",
+    "Contribute": "Doprinesi",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
+
+    "A New Kind of Instant Messaging": "Bezbedna komunikacija za nas ostale.",
     "sect1_description": "S porastom raširenih državnih programa praćenja komunikacija, qTox je aplikacija laka za upotrebu koja Vam omogućuje da se povežete sa prijateljima i voljenim osobama bez straha od prisluškivanja.",
-    "sect1_learnmore": "Saznaj više",
-    "sect1_download": "Preuzmi",
-    
-    
-    "sect2_aboutqtox": "O qToxu",
-    
+    "Learn more": "Saznaj više",
+    "Download": "Preuzmi",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
+
+    "About qTox": "O qToxu",
+    "About Tox": "O Toxu",
+
     "sect2_aboutbody": "qTox je napravljen s idejom da budete u korak sa Vašim prijateljima i porodicom bez narušavanja vaše privatnosti.\nDok ostali poznati komunikacioni paketi zahtevaju od Vas plaćanje radi otključavanja određenih mogućnosti programa, qTox je besplatan i slobodan.\nTo znači da imate potpunu slobodu da uradite šta želite sa qToxom.",
-  
-	
-    "sect3_coolfeatures": "Neke od sjajnih mogućnosti",
-    
-    "sect3_messages": "Poruke",
+
+    "Instant messaging, video conferencing, and more": "Instant poruke, video konferencije i još mnogo toga",
+
+    "Messages": "Poruke",
     "sect3_messages_blurb": "Na dohvat ruke.\nUvek ste u toku sa enkriptovanim instant porukama.",
-    
-    "sect3_voice": "Pozivi",
+
+    "Calls": "Pozivi",
     "sect3_voice_blurb": "Ostanite u kontaktu.\n Obavljajte besplatne i bezbedne qTox-prema-qToxu pozive.",
-    
-    "sect3_video": "Video",
+
+    "Video": "Video",
     "sect3_video_blurb": "Što oko ne vidi, srce ne poželi.\n Komunicirajte licem u lice sigurnim video pozivima",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Instant poruke, video konferencije i još mnogo toga",
-    
-    "sect4_security": "Sigurnost",
+
+    "Security": "Sigurnost",
     "sect4_security_blurb": "qTox shvata Vašu privatnost ozbiljno.<br/>Uz <span class=\"text bold\">vodeću enkripciju</span>, možete odahnuti znajući da će Vaše poruke čitati samo oni kojima su one i namenjene.",
-    
-    "sect4_easy": "Jednostavnoast upotrebe",
+
+    "Ease of Use": "Jednostavnoast upotrebe",
     "sect4_easy_blurb": "Za razliku od ostalih rešenja za komunikaciju, qTox od Vas ne zahteva da budete programer da biste ga koristili. qTox dolazi pripremljen sa interfejsom <span class=\"text bold\">jednostavnim za upotrebu</span> koji Vam omogućava da se usredsredite na komunikaciju.",
-    
-    "sect4_freedom": "Sloboda",
+
+    "Freedom": "Sloboda",
     "sect4_freedom_blurb": "qTox je besplatan za upotrebu, a takođe ste slobodni da ga modifikujete. U potpunosti Vam je omogućeno da koristite i modifikujete qTox. Štaviše, <span class=\"text bold\">qTox Vas nikada neće smarati reklamnim sadržajima, niti će od Vas zahtevati da doplatite dodatne sadržaje.</span>",
-    
-    
-    "sect5_contribute": "Doprinesi",
-    
+
+    "Free Software": "Slobodan Softver",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Mi smo opušteni ljudi <span class=\"text normal\">iz raznih zemalja Sveta</span>.",
+
     "sect5_github": "Želite da pomognete? Projekat qTox je na <span class=\"text normal color white\">GitHubu</span>.\n Prethodno iskustvo sa programiranjem nije neophodno.",
-    "sect5_sourceongithub": "Izvorni kod na GitHubu",
-    
-    "sect6_freesoftware": "Slobodan Softver",
-    "sect6_developers": "Mi smo opušteni ljudi <span class=\"text normal\">iz raznih zemalja Sveta</span>.",
-    
+    "Source on GitHub": "Izvorni kod na GitHubu",
+
     "sect6_jointheteam": "Pridružite se ekipi",
     "sect6_joinongithub": "Pomozite nam da izgradimo TOX na <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHubu</a>.",
-    
-    "sect6_needhelp": "Treba Vam pomoć?",
+
+    "Need some help?": "Treba Vam pomoć?",
     "sect6_githubtoirc": "Pokrenite Vaš sopstveni projekat i pitajte nas na <span class=\"text normal\">GitHubu</span>, ili na <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRCu</a>!",
-    
-    "sect6_mailinglist_title": "Ostanimo u kontaktu",
+
+    "Keep in the loop": "Ostanimo u kontaktu",
     "sect6_mailinglist": "Prijavite se na našu mailing listu za novostima o napretku qTox.",
-    "sect6_email": "email adresa", 
-    
-    "links": "Poveznice za programere", "_comment_": "← TODO: update",
-    "dev_blog": "Blog začetnika",
-    "dev_docs": "Dokumentacija",
-    "about_tox": "About Tox"
+    "email address": "email adresa",
+
+    "Developer Links": "Poveznice za programere",
+    "Development blog": "Blog začetnika",
+    "Documentation": "Dokumentacija",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

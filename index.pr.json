@@ -1,69 +1,76 @@
 {
     "_author": "Anon",
-    "_language": "Pirate",
+    "Language": "Pirate",
     "_comment": "Pirate because yay",
     "_ind": 0,
 
-    "lf_title": "qTox",
-    
-    "nv_home": "Cabin",
-    "nv_about": "Inquirin'",
-    "nv_features": "Do-a-do's",
-    "nv_contribute": "Pitch in",
-    
-    "sect1_slogan": "Secret messagin' bottles for the crew.",
+    "qTox: A New Kind of Instant Messaging": "qTox: Secret messagin' bottles for the crew",
+
+    "Home": "Cabin",
+    "About": "Inquirin'",
+    "Features": "Do-a-do's",
+    "Contribute": "Pitch in",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "Book o' knowin'",
+
+    "A New Kind of Instant Messaging": "Secret messagin' bottles for the crew.",
     "sect1_description": "Now that the King be eyein' us all, qTox is a simple method o' pipsquawkin' so's you can have a gar with the lads, without any suspicious sort o' peepin' by spies.",
-    "sect1_learnmore": "Get edumacated",
-    "sect1_download": "Try 'er out",
-    
-    
-    "sect2_aboutqtox": "Idears o' qTox",
-    
+    "Learn more": "Get edumacated",
+    "Download": "Try 'er out",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
+
+    "About qTox": "Idears o' qTox",
+    "About Tox": "Idears o' Tox",
+
     "sect2_aboutbody": "qTox is constructed so's you can keep up with yer mates 'n' close ones, without havin' any sort o' privacy violations.\n While other shipmakers are beggin' a pretty pence for their services, qTox is free both gold-wise, and as in runnin'-free freedom.\n That is, yer free to do whatever you wish like with qTox.",
-    
-    
-    "sect3_coolfeatures": "Some cool features",
-    
-    "sect3_messages": "Parchment Bottles",
+
+
+    "Instant messaging, video conferencing, and more": "Speedy letterin', view-talkin' with all yer mates, and plenty a more",
+
+    "Messages": "Parchment Bottles",
     "sect3_messages_blurb": "No sort o' drink in these, laddies, but they be the best of the secure communicatin' these days.",
-    
-    "sect3_voice": "Hollerin'",
+
+    "Calls": "Hollerin'",
     "sect3_voice_blurb": "Keep track of yer crew, with free long-talkin's to all yer mates.",
-    
-    "sect3_video": "Crystals o' Far-Seein'",
+
+    "Video": "Crystals o' Far-Seein'",
     "sect3_video_blurb": "I know not what manner o' witch they done tricked into givin' up her secrets, but they done did it. ",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Speedy letterin', view-talkin' with all yer mates, and plenty a more",
-    
-    "sect4_security": "Secured Rightwise",
+
+    "Security": "Secured Rightwise",
     "sect4_security_blurb": "qTox be's solemnly meditatin' on yer securin'.<br/>With <span class=\"text bold\">Royal-Quality encryption</span>, you can sleep easy knowin' that the only lads eyein' yer messages are the ones you send them off at.",
-    
-    "sect4_easy": "Ease o' Usin'",
+
+    "Ease of Use": "Ease o' Usin'",
     "sect4_easy_blurb": "Not like other methods o' secure messagin', qTox don't necessitate learnin' all sort o' witchcraft and witchery to use it. qTox comes fresh out o' the shipyard with <span class=\"text bold\">simple-like</span> workin' board, so you can be focusin' on your conversations.",
-    
-    "sect4_freedom": "Freedom!",
+
+    "Freedom": "Freedom!",
     "sect4_freedom_blurb": "qTox is both free for you to make a use of, and free for you to change. Yer completely free to both use and modify qTox to yer needins. And tackin' on, <span class=\"text bold\">qTox will never harass you an' yer crew with adverrrtisements, or require you to pay up for features.</span>",
-    
-    
-    "sect5_contribute": "Pitch in",
-    
+
+    "Free Software": "Free Softwares!",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "We're cool guys from <span class=\"text normal\">all around the seas</span>.",
+
     "sect5_github": "Want to pitch in? We're on <span class=\"text normal color white\">GitHub</span>.\n No voodoo wizardin' experience is necessitated.",
-    "sect5_sourceongithub": "Source on GitHub",
-    
-    "sect6_freesoftware": "Free Softwares!",
-    "sect6_developers": "We're cool guys from <span class=\"text normal\">all around the seas</span>.",
-    
-    "sect6_mailinglist_title": "Message in ye' Bottle!",
+    "Source on GitHub": "Source on GitHub",
+
+    "Keep in the loop": "Message in ye' Bottle!",
     "sect6_mailinglist": "Keep yer scurvy crew up ta' date!",
-    "sect6_email": "message@bottle.in",
-    
-    "sect6_needhelp": "Needin' some assistance?",
+    "email address": "message@bottle.in",
+
+    "Need some help?": "Needin' some assistance?",
     "sect6_githubtoirc": "Start yer own project and ask us on <span class=\"text normal\">GitHub</span>, or in the <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-    
-    "links": "Portal fer' creators", "_comment_": "← TODO: update",
-    "dev_blog": "Captain's log",
-    "dev_docs": "Ship instructions",
-    "about_tox": "About Tox"
+
+    "Developer Links": "Portal fer' creators",
+    "Development blog": "Captain's log",
+    "Documentation": "Ship instructions",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

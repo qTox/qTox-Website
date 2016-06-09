@@ -1,59 +1,72 @@
 {
     "_author": "Proplex, stal, et al.",
-    "_language": "Afrikaans",
+    "Language": "Afrikaans",
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
-    "lf_title": "qTox",
-    
-    "nv_home": "Voorblad",
-    "nv_about": "Agtergrond",
-    "nv_features": "Eienskappe",
-    "nv_contribute": "Dra By",
-    
-    "sect1_slogan": "Beskermde kletsprogram vir ons almal.",
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+
+    "Home": "Voorblad",
+    "About": "Agtergrond",
+    "Features": "Eienskappe",
+    "Contribute": "Dra By",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
+
+    "A New Kind of Instant Messaging": "Beskermde kletsprogram vir ons almal.",
     "sect1_description": "Met die oog op die opkoms van wydverspreide beheerprogramme van regerings, is qTox 'n gebruikersvriendelike program wat jou toelaat om met vriende en geliefdes te klets sonder dat iemand anders kan inluister.",
-    "sect1_learnmore": "Leer meer",
-    "sect1_download": "Laai af",
-    
-    "sect2_aboutqtox": "qTox Agtergrond",
+    "Learn more": "Leer meer",
+    "Download": "Laai af",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
+
+    "About qTox": "qTox Agtergrond",
+    "About Tox": "Tox Agtergrond",
     "sect2_aboutbody": "qTox is gebou met die idee dat jy kan tred hou met vriende en familie, sonder om jou privaatheid op te gee.\n Terwyl ander grootnaam dienste betaling vereis om meer funksies te ontsluit, is qTox gratis met onbeperkte vryheid.\n Jy is vry om qTox te gebruik net soos jy wil.",
-    
-    "sect3_coolfeatures": "So paar interessante eienskappe",
-    "sect3_messages": "Boodskappe",
+
+    "Instant messaging, video conferencing, and more": "Kitsbootskappe, video konferensies en nog meer",
+
+    "Messages": "Boodskappe",
     "sect3_messages_blurb": "Altyd op jou vingerpunte.\n Jy is altyd deel van die geselskap met beskermde (geïnkripteerde) boodskappe.",
-    "sect3_voice": "Oproepe",
+    "Calls": "Oproepe",
     "sect3_voice_blurb": "Hou kontak.\n Maak vry en veilige qTox-tot-qTox oproepe.",
-    "sect3_video": "Video",
+    "Video": "Video",
     "sect3_video_blurb": "Sien is glo.\n Gesels van aangesig tot aangesig deur 'n veilige video-oproep.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Kitsbootskappe, video konferensies en nog meer",
-    "sect4_security": "Sekuriteit",
+
+    "Security": "Sekuriteit",
     "sect4_security_blurb": "qTox neem jou privaatheid ernstig op.<br/> Met <span class=\"text bold\"> eerste-klas kodering </ span>, kan jy gerus wees dat die enigste mense wat jou boodskappe lees, is die mense vir wie jy dit stuur.",
-    "sect4_easy": "Eenvoudig",
+    "Ease of Use": "Eenvoudig",
     "sect4_easy_blurb": "In teenstelling met ander veilige kitsbootskap oplossings, vereis qTox nie dat jy 'n rekenaar programmeerder moet wees om dit te kan gebruik nie. qTox kom uit-die-boks met 'n <span class=\"text bold\"> eenvoudige </ span> gebruikers koppelvlak wat jou toelaat om te fokus op jou gesprekke.",
-    
-    "sect4_freedom": "Vryheid",
+
+    "Freedom": "Vryheid",
     "sect4_freedom_blurb": "qTox is gratis en kan verander word om jou te pas. Jy is heeltemal vry om qTox te gebruik en te verander. Verder sal <span class=\"text bold\"> qTox jou nooit teister met advertensies, of vereis dat jy betaal vir funksies nie.</span>",
-    
+
     "sect5_contribute": "Dra By",
     "sect5_github": "Wil jy hand bysit? Ons kan gevind word op <span class=\"text normal color white\">GitHub</span>.\n Geen programmeerings ondervinding is nodig nie.",
-    "sect5_sourceongithub": "Program bronne is op GitHub",
-    
-    "sect6_freesoftware": "Gratis Sagteware",
-    "sect6_developers": "Ons is koel ouens van <span class=\"text normal\"> regoor die wêreld </ span>.",
+    "Source on GitHub": "Program bronne is op GitHub",
+
+    "Free Software": "Gratis Sagteware",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Ons is koel ouens van <span class=\"text normal\"> regoor die wêreld </ span>.",
     "sect6_jointheteam": "Sluit aan by die Span",
     "sect6_joinongithub": "Help TOX bou op <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
-    "sect6_mailinglist_title": "Bly op hoogte",
+    "Keep in the loop": "Bly op hoogte",
     "sect6_mailinglist": "Sit jou adress op ons poslys, om nuus te ontvang van qTox se vordering.",
-    "sect6_email": "e-pos adres",
-    "sect6_needhelp": "Hulp nodig?",
+    "email address": "e-pos adres",
+    "Need some help?": "Hulp nodig?",
     "sect6_githubtoirc": "Begin jou eie projek op <span class=\"text normal\">GitHub</span>, of praat met ons op <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-    
-    "links": "Vir Programmeerders", "_comment_": "← TODO: update",
-    "dev_blog": "Ontwikkelings blog",
-    "dev_docs": "Dokumentasie",
-    "about_tox": "About Tox"
+
+    "Developer Links": "Vir Programmeerders",
+    "Development blog": "Ontwikkelings blog",
+    "Documentation": "Dokumentasie",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

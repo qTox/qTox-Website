@@ -1,74 +1,75 @@
 {
     "_author": "Josh Liberty",
-    "_language": "עברית",
+    "Language": "עברית",
     "_comment": "",
     "_ind": 0,
     "_direction": "rtl",
 
-    "lf_title": "qTox: סוג חדש של מסרים מידיים",
+    "qTox: A New Kind of Instant Messaging": "qTox: סוג חדש של מסרים מידיים",
 
-    "nv_home": "ראשי",
-    "nv_about": "אודות",
-    "nv_features": "תכונות",
-    "nv_contribute": "עזרו לנו",
-    "nv_wiki": "ויקי",
-    "nv_support": "תמיכה",
-    "nv_source_code": "מקור",
-    "nv_user_manual": "User manual",
+    "Home": "ראשי",
+    "About": "אודות",
+    "Features": "תכונות",
+    "Contribute": "עזרו לנו",
+    "Wiki": "ויקי",
+    "Support": "תמיכה",
+    "Source": "מקור",
+    "User manual": "User manual",
 
-    "sect1_slogan": "סוג חדש של מסרים מידיים",
+    "A New Kind of Instant Messaging": "סוג חדש של מסרים מידיים",
     "sect1_description": "עם העליה של תוכניות ניטור ממשלתיות בהיקף נרחב, qTox הינה תוכנת תקשורת פשוטה, אשר מאפשרת לכם להתחבר לחבריכם ויקיריכם, בלי מאזינים בלתי רצויים.",
-    "sect1_learnmore": "מידע נוסף",
-    "sect1_download": "הורדה",
-    "download_nightly": "Nightlies",
+    "Learn more": "מידע נוסף",
+    "Download": "הורדה",
+    "Nightlies": "Nightlies",
     "download_warning": "Nightlies אינן עבור בעלי לב חלש, אתם עלולים לחוות תקלות, קריסות, ומינון גדול של תסכול. ראו הוזהרתם!",
-    "download_distro": "אנא בחרו את ההפצה שלכם",
+    "Please choose your distribution": "אנא בחרו את ההפצה שלכם",
 
-    "sect2_aboutqtox": "אודות qTox",
+    "About qTox": "אודות qTox",
+    "About Tox": "אודות Tox",
 
     "sect2_aboutbody": "qTox נבנתה מתוך אמונה כי אתם כן יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.\n בעוד שירותים ידועים דורשים מכם תשלום על מנת לאפשר תכונות מסויימות, qTox הינה חופשית הן במחיר והן בחירות. כלומר, באפשרותכם לעשות עם qTox ככל העולה על רוחכם.",
 
 
-    "sect3_coolfeatures": "תכונות מגניבות",
+    "Instant messaging, video conferencing, and more": "תכונות מגניבות",
 
-    "sect3_messages": "הודעות",
+    "Messages": "הודעות",
     "sect3_messages_blurb": "בקצות אצבעותיכם.\n אתם תמיד מחוברים עם הודעות מיידיות מוצפנות.",
 
-    "sect3_voice": "שיחות",
+    "Calls": "שיחות",
     "sect3_voice_blurb": "הישארו בקשר.\n שוחחו בחינם ובבטחה עם משתמשי qTox נוספים.",
 
-    "sect3_video": "וידאו",
+    "Video": "וידאו",
     "sect3_video_blurb": "לראות זה להאמין.\n התעדכנו פנים אל פנים בשיחת וידאו מאובטחת.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_security": "אבטחה",
+    "Security": "אבטחה",
     "sect4_security_blurb": "qTox מתייחסת ברצינות לפרטיות שלכם.<br/>עם <span class=\"text bold\">הצפנה מהמתקדמות בעולם</span>, תוכלו להיות סמוכים ובטוחים כי ההודעות שלכם יקראו רק על ידי הנמענים המיועדים.",
 
-    "sect4_easy": "קלות שימוש",
+    "Ease of Use": "קלות שימוש",
     "sect4_easy_blurb": "בניגוד לפתרונות תקשורת מאובטחים אחרים, qTox אינה דורשת מכם להיות מתכנתי מחשבים. qTox מגיעה עם <span class=\"text bold\">ממשק משתמש פשוט</span> אשר מאפשר לכם להתרכז בשיחה.",
 
-
-    "sect4_freedom": "חופש",
+    "Freedom": "חופש",
     "sect4_freedom_blurb": "qTox הינה גם חופשית לשימוש, וגם חופשית לשינוי. אתם חופשיים לחלוטין להשתמש ולשנות את qTox. מעבר לכך, <span class=\"text bold\">qTox לעולם לא תציק לכם עם פרסומות, או תדרוש מכם לשלם עבור תכונות.</span>",
 
+    "Free Software": "תכנה חופשית",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "אנחנו חבר׳ה מגניבים <span class=\"text normal\">מכל רחבי העולם</span>.",
 
-    "sect6_freesoftware": "תכנה חופשית",
-    "sect6_developers": "אנחנו חבר׳ה מגניבים <span class=\"text normal\">מכל רחבי העולם</span>.",
+    "sect5_github": "מעוניינים לעזור? אנו נמצאים ב־<span class=\"text normal color white\">GitHub</span>.\n אין צורך בנסיון תכנות.",
+    "Source on GitHub": "קוד מקור ב־GitHub",
 
-    "sect6_mailinglist_title": "הישארו בעניינים",
+    "Keep in the loop": "הישארו בעניינים",
     "sect6_mailinglist": "הצטרפו לרשימת התפוצה שלנו לעדכונים על ההתקדמות של qTox.",
-    "sect6_email": "כתובת דוא״ל",
+    "email address": "כתובת דוא״ל",
 
-    "sect6_needhelp": "צריכים עזרה?",
+    "Need some help?": "צריכים עזרה?",
     "sect6_githubtoirc": "התחילו את הפרוייקט שלכם ושאלו אותנו ב־<span class=\"text normal\">GitHub</span>, או ב־<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
-    "links": "קישורי פיתוח", "_comment_": "← TODO: update",
-    "dev_blog": "בלוג פיתוח",
-    "dev_docs": "תיעוד",
-    "about_tox": "About Tox",
+    "Developer Links": "קישורי פיתוח",
+    "Development blog": "בלוג פיתוח",
+    "Documentation": "תיעוד",
 
-    "donate_header": "תרמו",
+    "Donate": "תרמו",
     "donate_about": "כדי לראות כיצד אתם יכולים לעזור באמצעות תרומה, אנא בקרו במאמר ויקי <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">תרומות</a>. תודה לכם!",
 
     "missedplatform": "לא הפלטפורמה שלכם?",

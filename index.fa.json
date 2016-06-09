@@ -1,64 +1,73 @@
 {
     "_author": "Deltabeard",
-    "_language": "فارسی",
+    "Language": "فارسی",
     "_comment": "This is a translation from the original English to Persian. For a better tranlsation meaning, 'privacy' was translated as 'government censorship'. Unfinished.",
     "_ind": 0,
 
-    "lf_title": "توكس",
-    
-    "nv_home": "صفحه نخست‬‬",
-    "nv_about": "در باره",
-    "nv_features": "امکانات",
-    "nv_contribute": "همکاری و کمک کردن",
-    "nv_wiki": "ویکی",
-    
-    "sect1_slogan": ".پیام های امن برای همه",
+    "qTox: A New Kind of Instant Messaging": "توكس",
+
+    "Home": "صفحه نخست‬‬",
+    "About": "در باره",
+    "Features": "امکانات",
+    "Contribute": "همکاری و کمک کردن",
+    "Wiki": "ویکی",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
+
+    "A New Kind of Instant Messaging": ".پیام های امن برای همه",
     "sect1_description": ".با افزایش برنامه های سانسور دولت، توكس برنامه هست که اجازه می دهد که شما را با دوستان و خانواده بدون سانسور تماس بگیرید",
-    "sect1_learnmore": "بیشتر یاد بگیرید",
-    "sect1_download": "دانلود",
-    
-    
-    "sect2_aboutqtox": "درباره توكس",
-    
+    "Learn more": "بیشتر یاد بگیرید",
+    "Download": "دانلود",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
+
+    "About qTox": "درباره توكس",
+    "About Tox": "درباره توكس",
+
     "sect2_aboutbody": "\n .توكس با این ایده درست شود که شما می توانید با دوستان و خانواده صحبت بکنید بدون در حال جاسوسی از دولت",
-    
-    
-    "sect3_messages": "بعضی از ویژگی های جالب",
-    
-    "sect3_messages": "پیام ها",
+
+
+    "Instant messaging, video conferencing, and more": "Instant messaging, video conferencing, and more",
+
+    "Messages": "پیام ها",
     "sect3_messages_blurb": "At your fingertips.\n You're always in the loop with instant encrypted messaging.",
-    
-    "sect3_voice": "تماس ها",
+
+    "Calls": "تماس ها",
     "sect3_voice_blurb": "Stay in touch.\n Make free and secure qTox to qTox calls.",
-    
-    "sect3_video": "ویدئو",
+
+    "Video": "ویدئو",
     "sect3_video_blurb": "Seeing is believing.\n Catch up face to face with a secure video call.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Instant messaging, video conferencing, and more",
-    
-    "sect4_security": "امنیت",
+
+    "Security": "امنیت",
     "sect4_security_blurb": "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.",
-    
-    "sect4_easy": "Ease of Use",
+
+    "Ease of Use": "Ease of Use",
     "sect4_easy_blurb": "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.",
-    
-    "sect4_freedom": "آزادی",
+
+    "Freedom": "آزادی",
     "sect4_freedom_blurb": "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features.</span>",
-    
-    
-    "sect5_contribute": "Contribute",
-    
+
     "sect5_github": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.\n No coding experience is necessary.",
-    "sect5_sourceongithub": "Source on GitHub",
-    
-    "sect6_freesoftware": "Free Software",
-    "sect6_developers": "We're cool guys from <span class=\"text normal\">all around the world</span>.",
-    
-    "sect6_jointheteam": "Join the team",
-    "sect6_joinongithub": "Help build TOX on <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
-    
-    "sect6_needhelp": "Need some help?",
-    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "Source on GitHub": "Source on GitHub",
+
+    "Free Software": "Free Software",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "We're cool guys from <span class=\"text normal\">all around the world</span>.",
+    "email address": "email address",
+
+    "Need some help?": "Need some help?",
+    "sect6_githubtoirc": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "Developer Links": "Developer Links",
+    "Development blog": "Development blog",
+    "Documentation": "Documentation",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

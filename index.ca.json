@@ -1,64 +1,79 @@
 {
     "_author": "Going Postal DJ",
-    "_language": "Català",
+    "Language": "Català",
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
-    "lf_title": "qTox",
-    
-    "nv_home": "Inici",
-    "nv_about": "Sobre",
-    "nv_features": "Característiques",
-    "nv_contribute": "Contribuir",
-    "nv_wiki": "Wiki",
-    
-    "sect1_slogan": "Missatgeria segura per a tothom.",
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+
+    "Home": "Inici",
+    "About": "Sobre",
+    "Features": "Característiques",
+    "Contribute": "Contribuir",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
+
+    "A New Kind of Instant Messaging": "Missatgeria segura per a tothom.",
     "sect1_description": "Amb l'auge de programes de vigilància governamental generalitzats, qTox és una aplicació fàcil d'usar que et permet connectar-te amb amics i persones estimades sense que ningú més hi tingui accés.",
-    "sect1_learnmore": "Aprendre'n més",
-    "sect1_download": "Baixar",
-    
-    
-    "sect2_aboutqtox": "Sobre qTox",
-    
+    "Learn more": "Aprendre'n més",
+    "Download": "Baixar",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
+
+
+    "About qTox": "Sobre qTox",
+    "About Tox": "Sobre Tox",
+
     "sect2_aboutbody": "qTox està creat amb la idea de comunicar-te amb amics i família sense que la teva privacitat sigui violada.\n Mentre altres serveis de renom t'exigeixen pagar per a desbloquejar característiques, qTox es gratuït i lliure.\n Ets lliure de fer el que vulguis amb qTox.",
-    
-    
-    "sect3_coolfeatures": "Algunes característiques interessants",
-    
-    "sect3_messages": "Missatges",
+
+
+    "Instant messaging, video conferencing, and more": "Missatgeria instantània, vídeo-conferencies, i més",
+
+
+    "Messages": "Missatges",
     "sect3_messages_blurb": "A l'abast de la ma.\n Estàs sempre a l'ultima amb missatgeria instantània xifrada.",
-    
-    "sect3_voice": "Trucades",
+
+    "Calls": "Trucades",
     "sect3_voice_blurb": "Estigues en contacte.\n Fes trucades gratuïtes i segures de qTox a qTox.",
-    
-    "sect3_video": "Vídeo",
+
+    "Video": "Vídeo",
     "sect3_video_blurb": "Veure es creure.\n Posa't al dia cara a cara amb vídeo-trucades segures.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Missatgeria instantània, vídeo-conferencies, i més",
-    
-    "sect4_security": "Seguretat",
+
+    "Security": "Seguretat",
     "sect4_security_blurb": "qTox es pren la teva seguretat seriosament.<br/>Amb <span class=\"text bold\">xifratge lider en el seu tipus</span>, pots estar segur que la única gent que llegeix els teus missatges es la gent a qui els hi has enviat.",
-    
-    "sect4_easy": "Fàcil d'usar",
+
+    "Ease of Use": "Fàcil d'usar",
     "sect4_easy_blurb": "Al contrari que altres solucions de missatgeria instantània, no has de ser un programador informàtic per tal d'usar qTox. qTox te una interfície <span class=\"text bold\">fácil d'usar</span> que et permet concentrar-te en les teves converses.",
-    
-    "sect4_freedom": "Llibertat",
+
+    "Freedom": "Llibertat",
     "sect4_freedom_blurb": "qTox es a la vegada gratuït, i lliure d'utilitzar i de modificar. A més a més, <span class=\"text bold\">qTox no et molestarà mai amb anuncis, o et demanarà que paguis per tal de desbloquejar característiques.</span>",
-    
-    
-    "sect5_contribute": "Contribuir",
-    
+
+
     "sect5_github": "Vols ajudar? Som a <span class=\"text normal color white\">GitHub</span>.\n No es necessita experiència com a programador.",
-    "sect5_sourceongithub": "Codi font a GitHub",
-    
-    "sect6_freesoftware": "Programari Lliure",
-    "sect6_developers": "Som bons xicots <span class=\"text normal\">d'arreu del món</span>.",
-    
-    "sect6_jointheteam": "Uneix-te a l'equip",
-    "sect6_joinongithub": "Ajuda a fer possible TOX a <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
-    
-    "sect6_needhelp": "Necessites ajuda?",
-    "sect6_githubtoirc": "Comença el teu propi projecte y fes-nos preguntes a <span class=\"text normal\">GitHub</span>, o a l'<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!"
+    "Source on GitHub": "Codi font a GitHub",
+
+    "Free Software": "Programari Lliure",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Som bons xicots <span class=\"text normal\">d'arreu del món</span>.",
+
+    "Keep in the loop": "Keep in the loop",
+    "sect6_mailinglist": "Subscribe to our mailing list for updates about qTox's progress.",
+    "email address": "email address",
+
+    "Need some help?": "Necessites ajuda?",
+    "sect6_githubtoirc": "Comença el teu propi projecte y fes-nos preguntes a <span class=\"text normal\">GitHub</span>, o a l'<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "Developer Links": "Developer Links",
+    "Development blog": "Development blog",
+    "Documentation": "Documentation",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

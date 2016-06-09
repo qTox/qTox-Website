@@ -1,65 +1,75 @@
 {
     "_author": "TheFragen, Bahkuh",
-    "_language": "Dansk",
+    "Language": "Dansk",
     "_ind": 0,
 
-    "lf_title": "qTox",
-    
-    "nv_home": "Hjem",
-    "nv_about": "Om",
-    "nv_features": "Funktioner",
-    "nv_contribute": "Bidrag",
-    
-    "sect1_slogan": "Sikker kommunikation for alle.",
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+
+    "Home": "Hjem",
+    "About": "Om",
+    "Features": "Funktioner",
+    "Contribute": "Bidrag",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
+
+    "A New Kind of Instant Messaging": "Sikker kommunikation for alle.",
     "sect1_description": "Med den stigende grad af statslig overvågning er qTox et brugervenligt program, som der gør dig i stand til at kommunikere med dine venner og bekendte - uden at andre følger med i samtalen.",
-    "sect1_learnmore": "Lær mere",
-    "sect1_download": "Hent",
-    "download_nightly": "Nightlies",
+    "Learn more": "Lær mere",
+    "Download": "Hent",
+    "Nightlies": "Nightlies",
     "download_warning": "Nightlies er ikke for alle. Du kan komme til at støde på bugs, crashes, og en masse frustration. Du er nu advaret!",
-    "download_distro": "Vælg din distribution",
-    
-    "sect2_aboutqtox": "Om qTox",
-    
+    "Please choose your distribution": "Vælg din distribution",
+
+    "About qTox": "Om qTox",
+    "About Tox": "Om Tox",
+
     "sect2_aboutbody": "qTox er baseret på konceptet at du skal kunne holde kontakt til dine venner, og familie, uden at dit privatliv bliver krænket.\n Hvor du skal betale for funktionalitet i andre løsninger, så er qTox både gratis og respekterer din frihed.\n Det betyder at; du kan gøre lige hvad du vil med qTox.",
-    
-    
-    "sect3_coolfeatures": "Nogle fede funktioner",
-    
-    "sect3_messages": "Beskeder",
+
+    "Instant messaging, video conferencing, and more": "Chat, videokonferencer og meget mere",
+
+    "Messages": "Beskeder",
     "sect3_messages_blurb": "Krypteret chat lige ved fingerspidserne.",
-    
-    "sect3_voice": "Opkald",
+
+    "Calls": "Opkald",
     "sect3_voice_blurb": "Hold kontakten.\n Foretag gratis og sikkert qTox til qTox opkald.",
-    
-    "sect3_video": "Video",
+
+    "Video": "Video",
     "sect3_video_blurb": "Ansigt til ansigt.\n Se personen du taler med, i et sikkert videoopkald.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Chat, videokonferencer og meget mere",
-    
-    "sect4_security": "Sikkerhed",
+
+    "Security": "Sikkerhed",
     "sect4_security_blurb": "qTox tager dit privatliv seriøst.<br/>Med en <span class=\"text bold\">markedsførende kryptering</span> kan du være sikker på, at de eneste der kan læse dine beskeder, er dem du sender beskederne til.",
-    
-    "sect4_easy": "Brugervenligt",
+
+    "Ease of Use": "Brugervenligt",
     "sect4_easy_blurb": "Til forskel fra andre sikre kommunikationsløsninger kræver qTox ikke nogen computerkyndighed for at bruge det. qTox er født med en <span class=\"text bold\">brugervenlig</span> brugerflade, som gør dig i stand til at fokusere på dine samtaler.",
-    
-    "sect4_freedom": "Frihed",
+
+    "Freedom": "Frihed",
     "sect4_freedom_blurb": "qTox er ikke kun frit tilgængeligt, men du er også frit stillet til at ændre det. \nDu er fuldstændig fri til både at bruge og tilpasse qTox. Derudover vil qTox<span class=\"text bold\"> aldrig genere dig med reklamer, eller have dig til at betale for funktioner.</span>",
-    
-    
-    "sect5_contribute": "Bidrag",
-    
+
+
     "sect5_github": "Har du lyst til at hjælpe? Vi er på <span class=\"text normal color white\">GitHub</span>.\n Vi kræver ikke at du har tidligere programmeringserfaring.",
-    "sect5_sourceongithub": "Kildekoden på GitHub",
-    
-    "sect6_freesoftware": "Frit Software",
-    "sect6_developers": "Vi er ansvarsfulde folk fra <span class=\"text normal\">hele verden</span>.",
-  
-    "sect6_mailinglist_title": "Hold dig opdateret",
+    "Source on GitHub": "Kildekoden på GitHub",
+
+    "Free Software": "Frit Software",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Vi er ansvarsfulde folk fra <span class=\"text normal\">hele verden</span>.",
+
+    "Keep in the loop": "Hold dig opdateret",
     "sect6_mailinglist": "Tilmeld dig vores nyhedsbrev for løbende opdateringer.",
-    "sect6_email": "email adresse",
-    
-    "sect6_needhelp": "Brug for hjælp?",
-    "sect6_githubtoirc": "Start dit eget projekt og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/qTox\" class=\"text bold underline color theme\">IRC</a>!"
+    "email address": "email adresse",
+
+    "Need some help?": "Brug for hjælp?",
+    "sect6_githubtoirc": "Start dit eget projekt og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/qTox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "Developer Links": "Developer Links",
+    "Development blog": "Development blog",
+    "Documentation": "Documentation",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

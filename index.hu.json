@@ -1,63 +1,76 @@
 {
     "_author": "buszvezeto",
-    "_language": "Magyar",
+    "Language": "Magyar",
     "_comment": "1.0",
     "_ind": 1,
 
-    "lf_title": "qTox",
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
 
-    "nv_home": "Főoldal",
-    "nv_about": "A projektről",
-    "nv_features": "Jellemzők",
-    "nv_contribute": "Részvétel",
+    "Home": "Főoldal",
+    "About": "A projektről",
+    "Features": "Jellemzők",
+    "Contribute": "Részvétel",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
 
-    "sect1_slogan": "Biztonságos üzenetküldés mindenkinek.",
-  "sect1_description": "A kormányzati megfigyelésekkel szembeszállva a qTox egy könnyen használható alkalmazás, mely segít kapcsolatot tartani barátaiddal és szereteiddel anélkül, hogy bárki lehallgatna.",
-    "sect1_learnmore": "Tudj meg többet!",
-    "sect1_download": "Letöltés",
+    "A New Kind of Instant Messaging": "Biztonságos üzenetküldés mindenkinek.",
+    "sect1_description": "A kormányzati megfigyelésekkel szembeszállva a qTox egy könnyen használható alkalmazás, mely segít kapcsolatot tartani barátaiddal és szereteiddel anélkül, hogy bárki lehallgatna.",
+    "Learn more": "Tudj meg többet!",
+    "Download": "Letöltés",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
 
-
-    "sect2_aboutqtox": "A qTox-ról",
+    "About qTox": "A qTox-ról",
+    "About Tox": "A Tox-ról",
 
     "sect2_aboutbody": "A qTox arra az eszmére épül, hogy beszélgethess a barátaiddal és a családoddal a magánéleted megsértése nélkül.\n Amíg más nagynevű szolgáltatásoknál fizetned kell bizonyos funkciókért, a qTox teljesen ingyenes és szabad.\n A qTox-szal szabadon azt teszel, amit szeretnél.",
 
 
-    "sect3_coolfeatures": "Néhány nagyszerű funkció",
+    "Instant messaging, video conferencing, and more": "Azonnali üzenetküldés, videókonferencia, és sok más",
 
-    "sect3_messages": "Üzenetek",
+    "Messages": "Üzenetek",
     "sect3_messages_blurb": "Mindig kéznél vannak..\n Gyorsan kapcsolatba léphetsz másokkal a titkosított üzenetküldés segítségével.",
 
-    "sect3_voice": "Hívások",
+    "Calls": "Hívások",
     "sect3_voice_blurb": "Maradj kapcsolatban!\n Hívj más qTox felhasználókat ingyenesen és biztonságosan.",
 
-    "sect3_video": "Videó",
+    "Video": "Videó",
     "sect3_video_blurb": "Hiszed, ha látod?\n Biztonságos videóhívás qTox felhasználók között.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_principles": "Azonnali üzenetküldés, videókonferencia, és sok más",
-
-    "sect4_security": "Biztonság",
+    "Security": "Biztonság",
     "sect4_security_blurb": "A qTox komolyan veszi a magánéleted.<br/>Az <span class=\"text bold\">erős titkosítás</span> biztosíték arra, hogy csak azok olvassák az üzeneted, akiknek eredetileg címezted őket.",
 
-    "sect4_easy": "Egyszerű használat",
+    "Ease of Use": "Egyszerű használat",
     "sect4_easy_blurb": "Más biztonságos üzenetküldőkkel ellentétben a qTox használatához nem szükséges, hogy programozó legyél. A qTox-ot <span class=\"text bold\">könnyű használni</span>, felületén egyszerűen tudsz a beszélgetésekre fókuszálni.",
 
-    "sect4_freedom": "Szabadság",
+    "Freedom": "Szabadság",
     "sect4_freedom_blurb": "A qTox-ot szabadon használhatod és szabadon módosíthatod. Továbbá <span class=\"text bold\">a qTox nem fog téged reklámokkal zaklatni, és nem fog tőled pénzt kérni</span>.",
 
-
-    "sect5_contribute": "Járulj hozzá",
+    "Free Software": "Szabad szoftver",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Jó arcok vagyunk a <span class=\"text normal\">világ minden tájáról</span>.",
 
     "sect5_github": "Szeretnél segíteni? A <span class=\"text normal color white\">GitHub</span>-on megtalálsz minket.\n Nem szükséges programozói tapasztalat.",
-    "sect5_sourceongithub": "A forráskód GitHub-on",
+    "Source on GitHub": "A forráskód GitHub-on",
 
-    "sect6_freesoftware": "Szabad szoftver",
-    "sect6_developers": "Jó arcok vagyunk a <span class=\"text normal\">világ minden tájáról</span>.",
+    "Keep in the loop": "Keep in the loop",
+    "sect6_mailinglist": "Subscribe to our mailing list for updates about qTox's progress.",
+    "email address": "email address",
 
-    "sect6_jointheteam": "Csatlakozz a csapathoz",
-    "sect6_joinongithub": "Segíts a TOX fejlesztésében a <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>-on.",
+    "Need some help?": "Segítségre van szükséged?",
+    "sect6_githubtoirc": "Indítsd el a saját projekted és kérdezz tőlünk <span class=\"text normal\">GitHub</span>-on, vagy <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>-en!",
 
-    "sect6_needhelp": "Segítségre van szükséged?",
-    "sect6_githubtoirc": "Indítsd el a saját projekted és kérdezz tőlünk <span class=\"text normal\">GitHub</span>-on, vagy <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>-en!"
+    "Developer Links": "Developer Links",
+    "Development blog": "Development blog",
+    "Documentation": "Documentation",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

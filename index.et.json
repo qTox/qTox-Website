@@ -1,69 +1,73 @@
 {
     "_author": "Pakatsui",
-    "_language": "Eesti",
+    "Language": "Eesti",
     "_comment": "Free to edit. Quick translation.",
     "_ind": 0,
- 
-    "lf_title": "qTox",
-   
-    "nv_home": "Kodu",
-    "nv_about": "qToxist",
-    "nv_features": "Funktsioonid",
-    "nv_contribute": "Panusta",
-    "nv_wiki": "Wiki",
-   
-    "sect1_slogan": "Uutmoodi Kiirsõnumid",
+
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+
+    "Home": "Kodu",
+    "About": "qToxist",
+    "Features": "Funktsioonid",
+    "Contribute": "Panusta",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
+
+    "A New Kind of Instant Messaging": "Uutmoodi Kiirsõnumid",
     "sect1_description": "Laiaulatusliku valitsuste nuhkimistega on qTox kergesti kasutatav programm, millega saad sõprade ja tuttavatega suhelda ilma, et keegi pealt kuulaks. ",
-    "sect1_learnmore": "Loe veel",
-    "sect1_download": "Laadi alla",
-    "download_nightly": "Nightly-d",
+    "Learn more": "Loe veel",
+    "Download": "Laadi alla",
+    "Nightlies": "Nightly-d",
     "download_warning": "Nightly-d pole nõrganärvilistele, sest selles võivad olla vead, crash-id ja suures koguses frustratsiooni. Teid on hoiatatud!",
-    "download_distro": "Palun valige oma distributsioon",
-   
-    "sect2_aboutqtox": "qToxist",
-   
+    "Please choose your distribution": "Palun valige oma distributsioon",
+
+    "About qTox": "qToxist",
+    "About Tox": "Toxist",
+
     "sect2_aboutbody": "qTox on loodud põhimõttega, et saaksid oma tuttavate ja perekonnaga suhelda, ilma et sinu privaatsust rikutaks.\n Teised suurenimelised teenused tahavad, et sa maksaksid nende teenuse kasutamise eest, aga qTox on tasuta kui ka avatud lähtekoodiga.\n See tähendab seda, et sul on vabadus teha qToxiga kõike, mida soovid.",
-   
-   
-    "sect3_coolfeatures": "Mõned lahedad funktsioonid",
-   
-    "sect3_messages": "Sõnumid",
+
+
+    "Instant messaging, video conferencing, and more": "Kiirsõnumid, videokonverentsid ja veel",
+
+    "Messages": "Sõnumid",
     "sect3_messages_blurb": "Sinu käeulatuses on krüpteeritud kiirsõnumid.",
-   
-    "sect3_voice": "Kõned",
+
+    "Calls": "Kõned",
     "sect3_voice_blurb": "Tee teiste qToxi kasutajatega tasuta ja turvalisi kõnesid.",
-   
-    "sect3_video": "Video",
+
+    "Video": "Video",
     "sect3_video_blurb": "Suhte tuttavatega näost näkku läbi turvalise videokõne.",
-   
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-   
-    "sect4_principles": "Kiirsõnumid, videokonverentsid ja veel",
-   
-    "sect4_security": "Turvalisus",
+
+    "Security": "Turvalisus",
     "sect4_security_blurb": "qTox hindab su turvalisust tõsiselt.<br/><span class=\"text bold\">Juhtiv-klassi krüpteerimisega</span> võid olla kindel, et ainukesed inimesed, kes su kirju saavad lugeda on need, kellele sa neid saadad.",
-   
-    "sect4_easy": "Kasutusmugavus",
+
+    "Ease of Use": "Kasutusmugavus",
     "sect4_easy_blurb": "qToxi kasutamiseks ei pea olema programmeerija, nagu teiste turvaliste sõnumivahetuse lahendustega. qTox on <span class=\"text bold\">kergesti kasutatava</span> liidesega, mis lubab sul vestlusele keskenduda.",
-   
-    "sect4_freedom": "Vabadus",
+
+    "Freedom": "Vabadus",
     "sect4_freedom_blurb": "qTox on tasuta ja sul on vabadus seda muuta. <span class=\"text bold\">qTox ei hakka sind kunagi reklaamiga ahistama ega nõua sult raha funktsioonide kasutamiseks.</span>",
-   
-    "sect6_freesoftware": "Vaba tarkvara",
-    "sect6_developers": "Me oleme lahedad inimesed <span class=\"text normal\">kogu maailmast</span>.",
-   
-    "sect6_mailinglist_title": "Käi uudistega kaasas",
+
+    "Free Software": "Vaba tarkvara",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Me oleme lahedad inimesed <span class=\"text normal\">kogu maailmast</span>.",
+
+    "sect5_github": "Tahad aidata? Me oleme <span class=\"text normal color white\">GitHubis</span>.\n Kodeerimise kogemus ei ole vajalik.",
+    "Source on GitHub": "Allikas GitHubis",
+
+    "Keep in the loop": "Käi uudistega kaasas",
     "sect6_mailinglist": "Ühine meie meililistiga ja saad endale uudiseid qToxi progressist.",
-    "sect6_email": "meiliaadress",
-    
-    "sect6_needhelp": "Vajad abi?",
+    "email address": "meiliaadress",
+
+    "Need some help?": "Vajad abi?",
     "sect6_githubtoirc": "Alusta oma projekt ja küsi meilt <span class=\"text normal\">GitHubis</span> või <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRCs</a>!",
-    
-    "links": "Arendaja lingid", "_comment_": "← TODO: update",
-    "dev_blog": "Arendamise blogi",
-    "dev_docs": "Dokumentatsioon",
-    "about_tox": "About Tox",
- 
-    "donate_header": "Anneta",
+
+    "Developer Links": "Arendaja lingid",
+    "Development blog": "Arendamise blogi",
+    "Documentation": "Dokumentatsioon",
+
+    "Donate": "Anneta",
     "donate_about": "Et näha, kuidas sa saad annetades aidata, palun külasta meie <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">annetuste</a> wiki artiklit. Aitäh!"
 }

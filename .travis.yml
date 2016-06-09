@@ -10,6 +10,7 @@ notifications:
     channels:
       - "chat.freenode.net#qtox"
     template: "%{repository} (%{commit}): %{message} Build: %{build_url} / Changes: %{compare_url}"
+    skip_join: true
 
 after_success:
   - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash ./deploy-gh-pages.sh

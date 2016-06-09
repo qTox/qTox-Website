@@ -1,73 +1,76 @@
 {
     "_author": "Proplex, stal, anonymous translator, sharydow, chaf, Calinou et al.",
-    "_language": "Français",
+    "Language": "Français",
     "_comment": "French version 1.3, add strings that were recently added, update the outdated strings.",
     "_ind": 0,
 
-    "lf_title": "qTox: la messagerie sécurisée pour tous",
+    "qTox: A New Kind of Instant Messaging": "qTox: la messagerie sécurisée pour tous",
 
-    "nv_home": "Accueil",
-    "nv_about": "À propos",
-    "nv_features": "Fonctionnalités",
-    "nv_contribute": "Contribuer",
-    "nv_wiki": "Wiki",
+    "Home": "Accueil",
+    "About": "À propos",
+    "Features": "Fonctionnalités",
+    "Contribute": "Contribuer",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
 
-    "sect1_slogan": "La messagerie sécurisée pour tous",
+    "A New Kind of Instant Messaging": "La messagerie sécurisée pour tous",
     "sect1_description": "Alors que les programmes de surveillance gouvernementaux étendent leur influence, qTox est une application facile à utiliser qui vous permet de contacter vos amis et vos proches sans que quelqu'un d'autre soit à l'écoute. Alors que les autres grands noms de la messagerie instantanée font payer certaines fonctionnalités, qTox est (et restera) toujours gratuit, tout en étant dépourvu de publicités.",
-    "sect1_learnmore": "En savoir plus",
-    "sect1_download": "Télécharger",
-    "download_nightly": "Versions nocturnes",
+    "Learn more": "En savoir plus",
+    "Download": "Télécharger",
+    "Nightlies": "Versions nocturnes",
     "download_warning": "Les versions dites « nocturnes » ne sont pas destinées à une utilisation en production, vous rencontrerez peut-être des bogues, des plantages et beaucoup de frustration. Vous avez été prévenu !",
-    "download_distro": "Veuillez chosir votre distribution",
+    "Please choose your distribution": "Veuillez chosir votre distribution",
 
-    "sect2_aboutqtox": "À propos de qTox",
+    "About qTox": "À propos de qTox",
+    "About Tox": "À propos de Tox",
 
     "sect2_aboutbody": "Ces jours-ci, tous les gouvernements semblent être intéressés par ce que nous disons sur l'Internet. qTox suit un modèle « la vie privée d'abord » sans compromis. Votre sécurité est notre priorité et rien ne changera cela.",
 
 
-    "sect3_coolfeatures": "Messagerie instantanée, vidéoconférence et bien plus",
+    "Instant messaging, video conferencing, and more": "Messagerie instantanée, vidéoconférence et bien plus",
 
-    "sect3_messages": "Messages",
+    "Messages": "Messages",
     "sect3_messages_blurb": "À portée de main.\n Vous êtes toujours à jour avec la messagerie instantanée chiffrée.",
 
-    "sect3_voice": "Appels",
+    "Calls": "Appels",
     "sect3_voice_blurb": "Gardez le contact.\n Bénéficiez d'appels gratuits et sécurisés entre clients qTox.",
 
-    "sect3_video": "Vidéo",
+    "Video": "Vidéo",
     "sect3_video_blurb": "Il faut le voir pour le croire.\n Maintenez le contact avec des appels vidéo sécurisés.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_security": "Sécurité",
+    "Security": "Sécurité",
     "sect4_security_blurb": "qTox prend votre intimité à cœur.<br/>Avec <span class=\"text bold\">un chiffrement fort</span>, vous êtes assurés que seuls vos destinataires seront de la conversation.",
 
-    "sect4_easy": "Facile à utiliser",
+    "Ease of Use": "Facile à utiliser",
     "sect4_easy_blurb": "Contrairement aux autres logiciels de messagerie sécurisée, qTox ne s'attend pas à ce que vous soyez programmeur. qTox vous offre une interface <span class=\"text bold\">facile à utiliser</span> par défaut qui vous permet de vous concentrer sur vos conversations.",
 
-    "sect4_freedom": "Liberté",
+    "Freedom": "Liberté",
     "sect4_freedom_blurb": "qTox est libre et gratuit. Vous êtes complètement libre d'utiliser et de modifier qTox. De plus, <span class=\"text bold\">qTox ne vous embêtera jamais avec des publicités, et ne vous fera jamais payer pour des fonctionnalités</span>.",
 
-    "sect6_freesoftware": "Logiciel libre",
-    "sect6_developers": "Nous sommes une équipe sympa avec des membres situés <span class=\"text normal\">partout dans le monde</span>.",
+    "Free Software": "Logiciel libre",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Nous sommes une équipe sympa avec des membres situés <span class=\"text normal\">partout dans le monde</span>.",
 
-    "sect6_mailinglist_title": "Restez informé",
+    "sect5_github": "Vous voulez aider ? Nous sommes sur <span class=\"text normal color white\">GitHub</span>.\n Aucune expérience de programmation nécessaire.",
+    "Source on GitHub": "Source sur GitHub",
+
+    "Keep in the loop": "Restez informé",
     "sect6_mailinglist": "Abonnez-vous par courriel afin de vous tenir au courant des nouveautés.",
-    "sect6_email": "adresse électronique",
+    "email address": "adresse électronique",
 
-    "sect6_needhelp": "Besoin d'aide ?",
+    "Need some help?": "Besoin d'aide ?",
     "sect6_githubtoirc": "Lancez votre propre projet et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou sur notre <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> !",
 
-    "links": "Liens pour développeurs", "_comment_": "← TODO: update",
-    "dev_blog": "Blog des développeurs",
-    "dev_docs": "Documentation",
-    "about_tox": "About Tox",
+    "Developer Links": "Liens pour développeurs",
+    "Development blog": "Blog des développeurs",
+    "Documentation": "Documentation",
 
-    "donate_header": "Faire un don",
+    "Donate": "Faire un don",
     "donate_about": "Pour voir comment vous pouvez aider en faisant un don, consultez notre <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">page sur les dons</a>. Merci !",
 
     "missedplatform": "Autres systèmes",
     "connect": "pour"
-
-
-
 }

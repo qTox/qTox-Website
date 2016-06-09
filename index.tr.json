@@ -1,67 +1,75 @@
 {
     "_author": "Xistance",
-    "_language": "Türkçe",
+    "Language": "Türkçe",
     "_comment": "v1.3",
     "_ind": 1,
 
-    "lf_title": "qTox",
-    
-    "nv_home": "Ana Sayfa",
-    "nv_about": "Hakkında",
-    "nv_features": "Özellikler",
-    "nv_contribute": "Katkıda Bulun",
-    "nv_wiki": "Wiki",
-    
-    "sect1_notavail": "qTox yakında hizmetinizde olacaktır!",
-    
-    "sect1_slogan": "Herkes için güvenilir mesajlaşma.",
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+
+    "Home": "Ana Sayfa",
+    "About": "Hakkında",
+    "Features": "Özellikler",
+    "Contribute": "Katkıda Bulun",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
+
+    "A New Kind of Instant Messaging": "Herkes için güvenilir mesajlaşma.",
     "sect1_description": "Hükümetin takibi ile birlikte, qTox arkadaşlarınızla, ailenizle ya da sevdiklerinizle güvenli bir şekilde, kimsenin izleyemeyeceği şekilde kolayca kullanılabilen bir uygulamadır.",
-    "sect1_learnmore": "Daha fazla öğren",
-    "sect1_download": "İndir",
-    
-    
-    "sect2_aboutqtox": "qTox Hakkında",
-    
+    "Learn more": "Daha fazla öğren",
+    "Download": "İndir",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
+
+    "About qTox": "qTox Hakkında",
+    "About Tox": "Tox Hakkında",
+
     "sect2_aboutbody": "qTox arkadaşlarınızla ve ailenizle gizli ve güvenli bir şekilde konuşabilmek amacıyla kurulmuştur.\n Diğer büyük çaplı servisler, özelliklerini kullanabilmek için belli bir miktar para isterken, qTox hem ücret bakımından, hem de kullanış bakımından bedavadır.\n qTox ile istediğinizi yapabileceğiniz anlamına gelir.",
-    
-    
-    "sect3_coolfeatures": "Bazı özellikler",
-    
-    "sect3_messages": "Mesajlar",
+
+    "Instant messaging, video conferencing, and more": "Anında mesajlaşma, video konferansı, ve daha fazlası",
+
+    "Messages": "Mesajlar",
     "sect3_messages_blurb": "Elinizin altında.\n Anlık şifreli mesajlaşma ile her zaman bu döngünun içerisinde olabilirsiniz.",
-    
-    "sect3_voice": "Aramalar",
+
+    "Calls": "Aramalar",
     "sect3_voice_blurb": "Bağınızı koparmayın.\n qTox kullanıcıları arasında bedava ve güvenli aramalar yapın.",
-    
-    "sect3_video": "Video",
+
+    "Video": "Video",
     "sect3_video_blurb": "Görmek inanmaktır.\n Yüz yüze konuşmalardan hiçbir zaman eksik kalmayın.",
-    
+
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-    
-    "sect4_principles": "Anında mesajlaşma, video konferansı, ve daha fazlası",
-    
-    "sect4_security": "Güvenlik",
+
+    "Security": "Güvenlik",
     "sect4_security_blurb": "qTox gizliliğinizi ciddiye alır.<br/><span class=\"text bold\">Önde gelen şifreleme</span> ile, yazdıklarınızı ve konuşmalarınızı bir tek gönderdiğiniz kişilerin okuyabileceğinden emin olabilirsiniz.",
-    
-    "sect4_easy": "Kullanım Kolaylığı",
+
+    "Ease of Use": "Kullanım Kolaylığı",
     "sect4_easy_blurb": "Diğer güvenli mesajlaşma servislerinden farklı olarak qTox, onu kullanmak için bir bilgisayar yazılımcısı olmanızı gerektirmez. qTox elinize ulaştığı şekilde <span class=\"text bold\">kolayca kullanılabilen</span> bir arayüz ile konuşmalarınıza dikkatinizi rahatça verebilirsiniz.",
-    
-    "sect4_freedom": "Özgürlük",
+
+    "Freedom": "Özgürlük",
     "sect4_freedom_blurb": "qTox hem kullanılması bedava, hem de değiştirilmesi serbest. Siz qTox'ı istediğiniz gibi kullanmak ve değistirmekle özgürsünüz. Bunun yanında, <span class=\"text bold\">qTox reklamlardan özgürdür ve hiçbir zaman özellikleri kullanmak için paranızı istemez.</span>",
-    
-    
-    "sect5_contribute": "Katkıda Bulun",
-    
+
     "sect5_github": "Yardım etmek ister misiniz? Bizi <span class=\"text normal color white\">GitHub</span>'da bulabilirsiniz.\n Herhangi yazılım tecrübesi gerektirmez.",
-    "sect5_sourceongithub": "GitHub",
-    
-    "sect6_freesoftware": "Özgür Yazılım",
-    "sect6_developers": "Bizler <span class=\"text normal\">Dünya'nın her yerinden</span> insanlarız.",
-    
-    "sect6_mailinglist_title": "Güncel kal",
+    "Source on GitHub": "GitHub",
+
+    "Free Software": "Özgür Yazılım",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Bizler <span class=\"text normal\">Dünya'nın her yerinden</span> insanlarız.",
+
+    "Keep in the loop": "Güncel kal",
     "sect6_mailinglist": "qTox'ın gelişimi ile ilgili haberdar olmak isterseniz posta listesine abone olun.",
-    "sect6_email": "email adresi",
-    
-    "sect6_needhelp": "Yardıma ihtiyacınız var mı?",
-    "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>'dir!"
+    "email address": "email adresi",
+
+    "Need some help?": "Yardıma ihtiyacınız var mı?",
+    "sect6_githubtoirc": "Bize ulaşabileceğiniz yerler <span class=\"text normal\">GitHub</span> ve <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>'dir!",
+
+    "Developer Links": "Developer Links",
+    "Development blog": "Development blog",
+    "Documentation": "Documentation",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }

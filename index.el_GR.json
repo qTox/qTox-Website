@@ -1,67 +1,75 @@
 {
     "_author": "andisthejackass",
-    "_language": "Ελληνικά",
+    "Language": "Ελληνικά",
     "_comment": "0",
     "_ind": 0,
 
-    "lf_title": "qTox",
+    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
 
-    "nv_home": "Αρχική",
-    "nv_about": "Σχετικά",
-    "nv_features": "Χαρακτηριστικά",
-    "nv_contribute": "Συμβάλλετε",
-    "nv_wiki": "Wiki",
-    "nv_blog": "Blog",
+    "Home": "Αρχική",
+    "About": "Σχετικά",
+    "Features": "Χαρακτηριστικά",
+    "Contribute": "Συμβάλλετε",
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Source": "Source",
+    "User manual": "User manual",
 
-    "sect1_slogan": "Ασφαλής επικοινωνία για όλους, σύντομα κοντά σας",
+    "A New Kind of Instant Messaging": "Ασφαλής επικοινωνία για όλους, σύντομα κοντά σας",
     "sect1_description": "Με τα προγράμματα παρακολούθησης απο την κυβέρνηση, το qTox είναι μια εύκολη εφαρμογή που σας επιτρέπει να έρθετε σε επαφή με φίλους και αγαπημένους σας χωρίς κάποιος άλλος να σας παρακολουθεί.",
-    "sect1_learnmore": "Μάθετε περισσότερα",
-    "sect1_download": "Κατεβάστε",
-    "sect1_notavail": "Το qTox δεν είναι έτοιμο ακόμα, θα μπορείτε να το κατεβάσετε σύντομα!",
+    "Learn more": "Μάθετε περισσότερα",
+    "Download": "Κατεβάστε",
+    "Nightlies": "Nightlies",
+    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Please choose your distribution": "Please choose your distribution",
 
-
-    "sect2_aboutqtox": "Σχετικά με το qTox",
+    "About qTox": "Σχετικά με το qTox",
+    "About Tox": "Σχετικά με το Tox",
 
     "sect2_aboutbody": "Το qTox είναι φτιαγμένο πάνω στη φιλοσοφία του να επικοινωνείτε με τους φίλους και την οικογένειά σας χωρίς να παραβιάζεται η ιδιοτικότητά σας.\n Ενώ άλλες μεγάλες υπηρεσίες απαιτούν χρήματα για να ξεκλειδώσουν λειτουργίες, το qTox είναι δωρεάν και ελεύθερο.\n Αυτό σημαίνει ότι είστε ελεύθεροι να κάνετε ό,τι θέλετε με το qTox",
 
+    "Instant messaging, video conferencing, and more": "Άμεσα μηνύματα, συνδιάσκεψη με βίντεο, και πολλά άλλα",
 
-    "sect3_coolfeatures": "Μερικά ωραία χαρακτηριστικά",
-
-    "sect3_messages": "Μηνύματα",
+    "Messages": "Μηνύματα",
     "sect3_messages_blurb": "Πανεύκολα.\n Είστε συνέχεια σε επαφή με άμεσα κρυπτογραφημένα μηνύματα.",
 
-    "sect3_voice": "Κλήσεις",
+    "Calls": "Κλήσεις",
     "sect3_voice_blurb": "Κρατήστε επαφή.\n Κάντε δωρεάν και ασφαλείς κλήσεις απο qTox σε qTox",
 
-    "sect3_video": "Βίντεο",
+    "Video": "Βίντεο",
     "sect3_video_blurb": "Δείτε το με τα μάτια σας.\n Μιλήστε πρόσωπο με πρόσωπο με μια ασφαλή βιντεοκλήση.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
-    "sect4_principles": "Άμεσα μηνύματα, συνδιάσκεψη με βίντεο, και πολλά άλλα",
-
-    "sect4_security": "Ασφάλεια",
+    "Security": "Ασφάλεια",
     "sect4_security_blurb": "Το qTox παίρνει την ιδιοτηκότητά σας στα σοβαρά.<br/>Με <span class=\"text bold\">τελευταίας τεχνολογίας κρυπτογραφίας</span> μπορείτε να είστε σίγουροι ότι αυτοί που διαβάζουν τα μηνύματά σας είναι αυτοί στους οποίους τα στέλνετε.",
 
-    "sect4_easy": "Ευκολία Χρήσης",
+    "Ease of Use": "Ευκολία Χρήσης",
     "sect4_easy_blurb": "Σε αντίθεση με άλλα προγράμματα ασφαλούς επικοινωνίας, δεν χρειάζεται να είστε προγραμματιστής για να χρησιμοποιήσετε το qTox. To qTox έρχεται στο κουτί του με <span class=\"text bold\">εύκολη προς χρήση</span> διεπαφή που σας επιτρέπει να εστιάσετε στις συνομιλίες σας.",
 
-    "sect4_freedom": "Ελευθερία",
+    "Freedom": "Ελευθερία",
     "sect4_freedom_blurb": "Το qTox ελεύθερο για χρήση και ελεύθερο για τροποποιήση. Είστε απόλυτα ελέυθεροι να χρησιμοποιήσετε και να τροποποιήσετε το qTox. Επιπλέον, <span class=\"text bold\">το qTox δεν θα σας παρενοχλήσει με διαφημίσεις, ούτε θα απαιτήσει να πληρώσετε για λειτουργίες</span>.",
 
-
-    "sect5_contribute": "Συμβάλλετε",
-
     "sect5_github": "Θέλετε να βοηθήσετε; Είμαστε στο <span class=\"text normal color white\">GitHub</span>.\n Δεν είναι απαραίτητη η εμπειρία με κώδικα.",
-    "sect5_sourceongithub": "Κώδικας στο GitHub",
+    "Source on GitHub": "Κώδικας στο GitHub",
 
-    "sect6_freesoftware": "Ελευθερο Λογισμικό",
-    "sect6_developers": "Είμαστε ωραία τυπάκια <span class=\"text normal\">απο όλο τον κόσμο</span>.",
+    "Free Software": "Ελευθερο Λογισμικό",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Είμαστε ωραία τυπάκια <span class=\"text normal\">απο όλο τον κόσμο</span>.",
 
-    "sect6_mailinglist_title": "Μείνετε ενημερωμένοι",
+    "Keep in the loop": "Μείνετε ενημερωμένοι",
     "sect6_mailinglist": "Εγγραφείτε στην mailing list για ενημερώσεις σχετικά με την πρόοδο του qTox.",
-    "sect6_email": "διευθυνση email",
+    "email address": "διευθυνση email",
 
-    "sect6_needhelp": "Θέλετε βοήθεια;",
-    "sect6_githubtoirc": "Ξεκινήστε το δικό σας project και ρωτήστε μας στο <span class=\"text normal\">GitHub</span>, ή στο <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!"
+    "Need some help?": "Θέλετε βοήθεια;",
+    "sect6_githubtoirc": "Ξεκινήστε το δικό σας project και ρωτήστε μας στο <span class=\"text normal\">GitHub</span>, ή στο <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+
+    "Developer Links": "Developer Links",
+    "Development blog": "Development blog",
+    "Documentation": "Documentation",
+
+    "Donate": "Donate",
+    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+
+    "missedplatform": "Not your platform?",
+    "connect": "for"
 }
