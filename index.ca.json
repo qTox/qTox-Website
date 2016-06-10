@@ -4,24 +4,24 @@
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "Inici",
     "About": "Sobre",
     "Features": "Característiques",
     "Contribute": "Contribuir",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Missatgeria segura per a tothom.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Amb l'auge de programes de vigilància governamental generalitzats, qTox és una aplicació fàcil d'usar que et permet connectar-te amb amics i persones estimades sense que ningú més hi tingui accés.",
     "Learn more": "Aprendre'n més",
     "Download": "Baixar",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
 
     "About qTox": "Sobre qTox",
@@ -60,19 +60,19 @@
     "Free Software": "Programari Lliure",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Som bons xicots <span class=\"text normal\">d'arreu del món</span>.",
 
-    "Keep in the loop": "Keep in the loop",
-    "Subscribe to our mailing list for updates about qTox's progress.": "Subscribe to our mailing list for updates about qTox's progress.",
-    "email address": "email address",
+    "Keep in the loop": "",
+    "Subscribe to our mailing list for updates about qTox's progress.": "",
+    "email address": "",
 
     "Need some help?": "Necessites ajuda?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Comença el teu propi projecte y fes-nos preguntes a <span class=\"text normal\">GitHub</span>, o a l'<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
-    "Developer Links": "Developer Links",
-    "Development blog": "Development blog",
-    "Documentation": "Documentation",
+    "Developer Links": "",
+    "Development blog": "",
+    "Documentation": "",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

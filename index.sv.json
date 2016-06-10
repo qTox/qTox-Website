@@ -9,16 +9,16 @@
     "About": "Om",
     "Features": "Funktioner",
     "Contribute": "Bidra",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "En Ny Sorts Chatt",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Med en ökning av statlig övervakning är qTox ett användarvänligt program som tillåter dig att kommunicera med vänner och familj utan att någon spionerar på er. Medans andra kända tjänster kräver att du betalar för funktioner så är qTox helt gratis, och kommer utan reklam.",
     "Learn more": "Lär dig mer",
     "Download": "Ladda ner",
-    "Nightlies": "Nightlies",
+    "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies är inte för de svaghjärtade, du kan stöta på buggar, krashar, och höga doser frustraton. Du har blivit varnad!",
     "Please choose your distribution": "Var vänlig och välj din distribution",
 
@@ -36,7 +36,7 @@
     "Calls": "Samtal",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Håll kontakten.<br> Ring gratis och säkra qTox-till-qTox samtal.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Att se är att tro. <br> Prata ansikte mot ansikte med ett säkret videosamtal.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",

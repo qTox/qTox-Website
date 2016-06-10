@@ -4,25 +4,25 @@
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "Domov",
     "About": "O qToxu",
     "Features": "Zmožnosti",
     "Contribute": "Prispevajte",
-    "Wiki": "Wiki",
+    "Wiki": "",
     "nv_blog": "Blog",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Varno sporočanje za vsakogar, kmalu na voljo",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Ob globalnem porastu vladnih nadzorov komunikacij vam qTox, enostaven program za rabo, omogoča varno komuniciranje z vašimi prijatelji in najbližjimi, tako da vam nihče ne more prisluškovati.",
     "Learn more": "Izvedite več",
     "Download": "Prenesite qTox",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "O qToxu",
     "About Tox": "O Toxu",
@@ -37,7 +37,7 @@
     "Calls": "Klici",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Ostanite v stiku.<br> Brezplačno in varno kličite druge qTox uporabnike.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Videti pomeni verjeti.<br> Pogovarjajte se iz oči v oči prek varnega videoklica.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
@@ -64,12 +64,12 @@
     "Need some help?": "Potrebujete pomoč?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Začnite s svojim projektom in nam zastavite svoja vprašanja na <span class=\"text normal\">GitHubu</span> ali na <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">omrežju IRC</a>!",
 
-    "Developer Links": "Developer Links",
-    "Development blog": "Development blog",
-    "Documentation": "Documentation",
+    "Developer Links": "",
+    "Development blog": "",
+    "Documentation": "",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

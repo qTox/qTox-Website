@@ -10,16 +10,16 @@
     "About": "Giới thiệu",
     "Features": "Tính năng",
     "Contribute": "Đóng góp",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Một kiểu nhắn tin nhanh mới",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Với sự gia tăng của các chương trình giám sát từ chính phủ, qTox cung cấp một ứng dụng dễ dùng cho phép bạn kết nối với bạn và gia đình mà không sợ nghe lén. Trong khi các dịch vụ tên tuổi khác yêu cầu bạn trả tiền, qTox hoàn toàn miễn phí và không có quảng cáo.",
     "Learn more": "Tìm hiểu thêm",
     "Download": "Tải xuống",
-    "Nightlies": "Nightlies",
+    "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Các bản nightly không dành cho người dùng thông thường, bạn có thể gặp lỗi, bị treo, và bực mình. Bạn đã được cảnh báo rồi đấy!",
     "Please choose your distribution": "Chọn bản phân phối",
 
@@ -37,7 +37,7 @@
     "Calls": "Gọi điện",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Luôn giữ liện lạc.<br> Tạo các cuộc gọi miễn phí và bảo mật từ qTox tới qTox.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Thấy mới tin.<br> Gặp gỡ mặt đối mặt với một cuộc gọi video bảo mật.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
@@ -54,8 +54,8 @@
     "Free Software": "Phần mềm tự do",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Chúng tôi đến từ <span class=\"text normal\">mọi nơi trên thế giới</span>.",
 
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.",
-    "Source on GitHub": "Source on GitHub",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "",
+    "Source on GitHub": "",
 
     "Keep in the loop": "Luôn được cập nhât",
     "Subscribe to our mailing list for updates about qTox's progress.": "Đăng kí vào danh sách gửi thư để được cập nhật về quá trình phát triển qTox.",

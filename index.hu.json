@@ -4,24 +4,24 @@
     "_comment": "1.0",
     "_ind": 1,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "Főoldal",
     "About": "A projektről",
     "Features": "Jellemzők",
     "Contribute": "Részvétel",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Biztonságos üzenetküldés mindenkinek.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "A kormányzati megfigyelésekkel szembeszállva a qTox egy könnyen használható alkalmazás, mely segít kapcsolatot tartani barátaiddal és szereteiddel anélkül, hogy bárki lehallgatna.",
     "Learn more": "Tudj meg többet!",
     "Download": "Letöltés",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "A qTox-ról",
     "About Tox": "A Tox-ról",
@@ -57,19 +57,19 @@
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Szeretnél segíteni? A <span class=\"text normal color white\">GitHub</span>-on megtalálsz minket.<br> Nem szükséges programozói tapasztalat.",
     "Source on GitHub": "A forráskód GitHub-on",
 
-    "Keep in the loop": "Keep in the loop",
-    "Subscribe to our mailing list for updates about qTox's progress.": "Subscribe to our mailing list for updates about qTox's progress.",
-    "email address": "email address",
+    "Keep in the loop": "",
+    "Subscribe to our mailing list for updates about qTox's progress.": "",
+    "email address": "",
 
     "Need some help?": "Segítségre van szükséged?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Indítsd el a saját projekted és kérdezz tőlünk <span class=\"text normal\">GitHub</span>-on, vagy <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>-en!",
 
-    "Developer Links": "Developer Links",
-    "Development blog": "Development blog",
-    "Documentation": "Documentation",
+    "Developer Links": "",
+    "Development blog": "",
+    "Documentation": "",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

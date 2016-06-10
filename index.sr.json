@@ -11,17 +11,17 @@
     "Features": "Садржај",
     "Contribute": "Допринеси",
     "Wiki": "Вики",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Безбедна комуникација за нас остале.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "С порастом раширених државних програма праћења комуникација, qTox (чита се: токс) је апликација лака за употребу која Вам омогућује да се повежете са пријатељима и вољеним особама без страха од прислушкивања.",
     "Learn more": "Сазнај више",
     "Download": "Преузми",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "О qTox-у",
     "About Tox": "О Tox-у",
@@ -67,8 +67,8 @@
     "Development blog": "Блог зачетника",
     "Documentation": "Документациja",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

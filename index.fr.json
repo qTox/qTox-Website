@@ -10,10 +10,10 @@
     "About": "À propos",
     "Features": "Fonctionnalités",
     "Contribute": "Contribuer",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "La messagerie sécurisée pour tous",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Alors que les programmes de surveillance gouvernementaux étendent leur influence, qTox est une application facile à utiliser qui vous permet de contacter vos amis et vos proches sans que quelqu'un d'autre soit à l'écoute. Alors que les autres grands noms de la messagerie instantanée font payer certaines fonctionnalités, qTox est (et restera) toujours gratuit, tout en étant dépourvu de publicités.",
@@ -31,7 +31,7 @@
 
     "Instant messaging, video conferencing, and more": "Messagerie instantanée, vidéoconférence et bien plus",
 
-    "Messages": "Messages",
+    "Messages": "",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "À portée de main.<br> Vous êtes toujours à jour avec la messagerie instantanée chiffrée.",
 
     "Calls": "Appels",
@@ -66,7 +66,7 @@
 
     "Developer Links": "Liens pour développeurs",
     "Development blog": "Blog des développeurs",
-    "Documentation": "Documentation",
+    "Documentation": "",
 
     "Donate": "Faire un don",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Pour voir comment vous pouvez aider en faisant un don, consultez notre <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">page sur les dons</a>. Merci !",

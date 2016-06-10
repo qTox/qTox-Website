@@ -4,24 +4,24 @@
     "_comment": "Only translate from this file, not the others!",
     "_ind": 0,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "Voorblad",
     "About": "Agtergrond",
     "Features": "Eienskappe",
     "Contribute": "Dra By",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Beskermde kletsprogram vir ons almal.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Met die oog op die opkoms van wydverspreide beheerprogramme van regerings, is qTox 'n gebruikersvriendelike program wat jou toelaat om met vriende en geliefdes te klets sonder dat iemand anders kan inluister.",
     "Learn more": "Leer meer",
     "Download": "Laai af",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "qTox Agtergrond",
     "About Tox": "Tox Agtergrond",
@@ -33,7 +33,7 @@
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Altyd op jou vingerpunte.<br> Jy is altyd deel van die geselskap met beskermde (geïnkripteerde) boodskappe.",
     "Calls": "Oproepe",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Hou kontak.<br> Maak vry en veilige qTox-tot-qTox oproepe.",
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Sien is glo.<br> Gesels van aangesig tot aangesig deur 'n veilige video-oproep.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
@@ -64,8 +64,8 @@
     "Development blog": "Ontwikkelings blog",
     "Documentation": "Dokumentasie",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

@@ -4,7 +4,7 @@
     "_comment": "Translation in Korean. Some modification may be needed later.",
     "_ind": 0,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "홈",
     "About": "qTox란",
@@ -13,7 +13,7 @@
     "Wiki": "위키",
     "Support": "고객센터",
     "Source": "소스코드",
-    "User manual": "User manual",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "완전히 새로운 방식의 인스턴트 메세지",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "국가 기관들의 메세지 앱 감시가 심해지는 가운데, qTox는 그 누구의 감시도 받지 않고 친구나 가족과 연락할 수 있는 쉬운 방법을 제시합니다. 다른 큰 회사들의 메세지 서비스가 여러 기능들을 유료로 제공하고 있지만, qTox는 완전히 무료입니다! 광고도 물론 없죠.",
@@ -54,8 +54,8 @@
     "Free Software": "자유 소프트웨어",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "우리는 <span class=\"text normal\">전 세계에서 모인</span> 멋진 사람들입니다.",
 
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.",
-    "Source on GitHub": "Source on GitHub",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "",
+    "Source on GitHub": "",
 
     "Keep in the loop": "최신 소식을 확인하세요!",
     "Subscribe to our mailing list for updates about qTox's progress.": "qTox의 업데이트 등을 확인하시려면 메일링 리스트를 구독해보세요.",

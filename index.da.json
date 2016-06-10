@@ -3,22 +3,22 @@
     "Language": "Dansk",
     "_ind": 0,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "Hjem",
     "About": "Om",
     "Features": "Funktioner",
     "Contribute": "Bidrag",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Sikker kommunikation for alle.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Med den stigende grad af statslig overvågning er qTox et brugervenligt program, som der gør dig i stand til at kommunikere med dine venner og bekendte - uden at andre følger med i samtalen.",
     "Learn more": "Lær mere",
     "Download": "Hent",
-    "Nightlies": "Nightlies",
+    "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies er ikke for alle. Du kan komme til at støde på bugs, crashes, og en masse frustration. Du er nu advaret!",
     "Please choose your distribution": "Vælg din distribution",
 
@@ -35,7 +35,7 @@
     "Calls": "Opkald",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Hold kontakten.<br> Foretag gratis og sikkert qTox til qTox opkald.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Ansigt til ansigt.<br> Se personen du taler med, i et sikkert videoopkald.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
@@ -63,12 +63,12 @@
     "Need some help?": "Brug for hjælp?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start dit eget projekt og spørg os på <span class=\"text normal\">GitHub</span>, eller på <a href=\"ircs://irc.freenode.net/qTox\" class=\"text bold underline color theme\">IRC</a>!",
 
-    "Developer Links": "Developer Links",
-    "Development blog": "Development blog",
-    "Documentation": "Documentation",
+    "Developer Links": "",
+    "Development blog": "",
+    "Documentation": "",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

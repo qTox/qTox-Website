@@ -10,16 +10,16 @@
     "About": "Sobre",
     "Features": "Características",
     "Contribute": "Contribúe",
-    "Wiki": "Wiki",
+    "Wiki": "",
     "Support": "Soporte",
     "Source": "Fontes",
-    "User manual": "User manual",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Un Novo Xeito de Mensaxería Instantánea",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Co incremento de porgramas de monitorización dos gobernos, qTox ofrece un aplicativo doado de usar que che permite conectar cos teus amigos e familiares sen ninguén á espreita. Nametres outros servizos de renome requiren pagos por funcionalidades, qTox é absolutamente de balde e sen publicidade.",
     "Learn more": "Aprender máis",
     "Download": "Descarregar",
-    "Nightlies": "Nightlies",
+    "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "As 'nightlies' non son para doentes do corazón! Poderás topar fallas, peches inesperados e grandes doses de frustración. Estás avisado!",
     "Please choose your distribution": "Por favor, escolle a túa distribución",
 
@@ -53,8 +53,8 @@
     "Free Software": "Software Libre",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Somos xentiña de <span class=\"text normal\">todo o mundo</span>.",
 
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.",
-    "Source on GitHub": "Source on GitHub",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "",
+    "Source on GitHub": "",
 
     "Keep in the loop": "Fica informado",
     "Subscribe to our mailing list for updates about qTox's progress.": "Suscribete á nosa lista de correo para informareste sobre o progreso de qTox.",

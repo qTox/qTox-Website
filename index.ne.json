@@ -10,18 +10,18 @@
     "About": "बारे",
     "Features": "फीचर",
     "Contribute": "दिनुहोस",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "सुरक्षित बार्ता सबैलाई",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "संसारभरिका सरकारहरुले तपाईहरुको प्राइभेसी हस्तक्षेप गर्न थालेको बेलामा, टाकश एउटा सजिलै प्रयोग गर्न मिल्ने प्रोग्राम हो जसबाट तपाई कसैले सुन्न नसक्ने गरि आफ्नो परिवार र साथीभाई संग कुरा गर्न सक्नु हुनेछ ।",
     "Learn more": "थप सिक्नुहोस",
     "Download": "डाउनलोड",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "qTox बारे",
     "About Tox": "Tox बारे",
@@ -57,19 +57,19 @@
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "मदत गर्न चाहनुहुन्छ ? हामी <span class=\"text normal color white\">GitHub</span>मा छौं । <br> पैला कोड गरेको हुनु पर्दैन ।",
     "Source on GitHub": "GitHub मा स्वोर्स ",
 
-    "Keep in the loop": "Keep in the loop",
-    "Subscribe to our mailing list for updates about qTox's progress.": "Subscribe to our mailing list for updates about qTox's progress.",
-    "email address": "email address",
+    "Keep in the loop": "",
+    "Subscribe to our mailing list for updates about qTox's progress.": "",
+    "email address": "",
 
     "Need some help?": "मदत चाहिएको छ?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "आफ्नै प्रोजेक्ट सुरु गर्नुहोस र हामीलाई सोध्नुहोस <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> मा !",
 
-    "Developer Links": "Developer Links",
-    "Development blog": "Development blog",
-    "Documentation": "Documentation",
+    "Developer Links": "",
+    "Development blog": "",
+    "Documentation": "",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

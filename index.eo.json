@@ -12,8 +12,8 @@
     "Contribute": "Kontributi",
     "Wiki": "Viki",
     "Support": "Bontenado",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Source": "",
+    "User manual": "",
     
     "A New Kind of Instant Messaging": "Sekura babilo por ĉiuj",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Per la kresko de ŝtataj kaŝeaŭskultoj, qTox provizas tre facilan aplikaĵon ke allasas babili kun amikoj kaj la familio sen aliaj aŭskultas. Dum aliaj popularaj servoj postulas monon por funkcioj, qTox estas plene senkosta sen reklamado.",
@@ -37,7 +37,7 @@
     "Calls": "Vokoj",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Daŭre konas.<br> Vokoj estas senkosta kaj sekura kun aliaj qTox uzantoj.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Kion vi vidas estas vera.<br> Renkonti kun sekura videokonversacio.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
@@ -54,8 +54,8 @@
     "Free Software": "Libera programaro",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Ni estas imponaj popoloj el <span class=\"text normal\">la tuta mondo</span>.",
 
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.",
-    "Source on GitHub": "Source on GitHub",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "",
+    "Source on GitHub": "",
 
     "Keep in the loop": "Subteni informita",
     "Subscribe to our mailing list for updates about qTox's progress.": "Abonu al mian dissendoliston por ĝisdatigoj pri qTox.",

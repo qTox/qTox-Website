@@ -6,20 +6,20 @@
 
     "qTox: A New Kind of Instant Messaging": "qTox: Un Nuovo Tipo di Messaggistica Istantanea",
 
-    "Home": "Home",
+    "Home": "",
     "About": "Chi siamo",
     "Features": "Caratteristiche",
     "Contribute": "Contribuisci",
-    "Wiki": "Wiki",
+    "Wiki": "",
     "Support": "Supporto",
     "Source": "Codice sorgente",
-    "User manual": "User manual",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Messaggistica sicura per tutti, presto in arrivo",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Con l'aumentare dei programmi di monitoraggio da parte del governo, qTox è un'applicazione facile da usare che ti permette di connetterti con gli amici e le persone amate senza nessuno che stia a spiarvi.",
     "Learn more": "Di più",
-    "Download": "Download",
-    "Nightlies": "Nightlies",
+    "Download": "",
+    "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Le nightlies non sono per i deboli di cuore, potresti incontrare bug, crash, e grandi dosi di frustrazione. Sei stato avvisato!",
     "Please choose your distribution": "Scegli la tua distribuzione",
 
@@ -37,7 +37,7 @@
     "Calls": "Chiamate",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Resta in contatto.<br> Effettua chiamate gratuite e sicure da qTox a qTox.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Guardare per credere.<br> Parla faccia a faccia con le videochiamate sicure.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",

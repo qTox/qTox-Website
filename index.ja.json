@@ -4,24 +4,24 @@
     "_comment": "NEEDS REVISION by someone with better Japanese ability",
     "_ind": 0,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "ホーム",
     "About": "qToxについて",
     "Features": "特長",
     "Contribute": "貢献する",
     "Wiki": "ウィキ",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "皆のためのセキュアなメッセージング、まもなく登場",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "政府からの監視が増加している中、qToxアプリケーションを使用すれば簡単かつ安全に友達や家族とメッセージすることができます。誰もあなたの会話を盗み聞きすることはできません。",
     "Learn more": "詳細はこちら",
     "Download": "ダウンロード",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "qToxとは",
     "About Tox": "Toxとは",
@@ -63,12 +63,12 @@
     "Need some help?": "助けが必要ですか？",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>上で問い合わせてください。もしくは<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>で！",
 
-    "Developer Links": "Developer Links",
-    "Development blog": "Development blog",
-    "Documentation": "Documentation",
+    "Developer Links": "",
+    "Development blog": "",
+    "Documentation": "",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "あなたのプラットフォームではない?",
     "connect": "向け"

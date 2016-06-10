@@ -3,25 +3,25 @@
     "Language": "Norsk Nynorsk",
     "_ind": 0,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "Heim",
     "About": "Om",
     "Features": "Funksjonar",
     "Contribute": "Bidra",
-    "Wiki": "Wiki",
+    "Wiki": "",
     "nv_blog": "Blogg",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Sikker meldingsteneste for resten av oss, kjem snart.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Med framveksten av omfattande overvakingsplanar er qTox eit brukarvenleg program som lét deg kommunisere med kjente og kjære uten at uvedkomande avlyttar dykk.",
     "Learn more": "Lær meir",
     "Download": "Last ned",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "Om qTox",
     "About Tox": "Om Tox",
@@ -36,7 +36,7 @@
     "Calls": "Anrop",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Hald kontakta.<br>Ring gratis og trygt frå qTox til qTox.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Andlet til andlet.<br>Hald dykk oppdatert med sikre videosamtalar.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
@@ -66,12 +66,12 @@
     "Need some help?": "Treng du hjelp?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start ditt eige prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
-    "Developer Links": "Developer Links",
-    "Development blog": "Development blog",
-    "Documentation": "Documentation",
+    "Developer Links": "",
+    "Development blog": "",
+    "Documentation": "",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

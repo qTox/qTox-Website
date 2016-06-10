@@ -4,16 +4,16 @@
     "_comment": "This is a fairly rough and raw translation. Feel free to edit",
     "_ind": 6,
 
-    "qTox: A New Kind of Instant Messaging": "qTox: A New Kind of Instant Messaging",
+    "qTox: A New Kind of Instant Messaging": "",
 
     "Home": "Koti",
     "About": "Tietoa",
     "Features": "Ominaisuudet",
     "Contribute": "Osallistu",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "Turvallista viestittelyä kaikille",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Lisääntyneen hallituksien harjoittaman urkkimisen vuoksi päätettiin kehittää qTox. qTox on helppokäyttöinen ohjelma, joka mahdollistaa yhteydenpidon ystäviesi ja läheistesi kanssa, yksityisesti kenenkään urkkimatta. Muut nimekkäät palvelut laskuttavat palveluistaan. qTox on täysin ilmainen ja vapaa mainoksista.",
@@ -37,7 +37,7 @@
     "Calls": "Puhelut",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Ole yhteydessä.<br> Soita ilmaisia ja turvallisia qTox-puheluita.",
 
-    "Video": "Video",
+    "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Näkeminen on uskomista.<br> Tavoita kasvotusten suojatulla videopuhelulla.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",

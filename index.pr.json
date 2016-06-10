@@ -10,18 +10,18 @@
     "About": "Inquirin'",
     "Features": "Do-a-do's",
     "Contribute": "Pitch in",
-    "Wiki": "Wiki",
-    "Support": "Support",
-    "Source": "Source",
+    "Wiki": "",
+    "Support": "",
+    "Source": "",
     "User manual": "Book o' knowin'",
 
     "A New Kind of Instant Messaging": "Secret messagin' bottles for the crew.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Now that the King be eyein' us all, qTox is a simple method o' pipsquawkin' so's you can have a gar with the lads, without any suspicious sort o' peepin' by spies.",
     "Learn more": "Get edumacated",
     "Download": "Try 'er out",
-    "Nightlies": "Nightlies",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
-    "Please choose your distribution": "Please choose your distribution",
+    "Nightlies": "",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
+    "Please choose your distribution": "",
 
     "About qTox": "Idears o' qTox",
     "About Tox": "Idears o' Tox",
@@ -55,7 +55,7 @@
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "We're cool guys from <span class=\"text normal\">all around the seas</span>.",
 
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Want to pitch in? We're on <span class=\"text normal color white\">GitHub</span>.<br> No voodoo wizardin' experience is necessitated.",
-    "Source on GitHub": "Source on GitHub",
+    "Source on GitHub": "",
 
     "Keep in the loop": "Message in ye' Bottle!",
     "Subscribe to our mailing list for updates about qTox's progress.": "Keep yer scurvy crew up ta' date!",
@@ -68,8 +68,8 @@
     "Development blog": "Captain's log",
     "Documentation": "Ship instructions",
 
-    "Donate": "Donate",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "Donate": "",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

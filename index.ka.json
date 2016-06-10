@@ -11,9 +11,9 @@
     "Features": "მახასიათებლები",
     "Contribute": "ხელის შეწყობა",
     "Wiki": "ვიკიპედია",
-    "Support": "Support",
-    "Source": "Source",
-    "User manual": "User manual",
+    "Support": "",
+    "Source": "",
+    "User manual": "",
 
     "A New Kind of Instant Messaging": "ახალი ტიპის ინტერნეტ მესენჯერი",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "მთავრობის მონიტორინგის პროგრამების ზრდასთან ერთად, ტოქსი საშუალებას გაძლევს გამოიყენო მარტივი აპლიკაცია, რათა დაუკავშირდე მეგობრებს და ოჯახის წევრებს, უცხო პირთა მოსმენის გარეშე. როდესაც სხვა დიდი კომპანიები მოითხოვენ თანხას მათი პროგრამული უზრუნველყოფისთვის, ტოქსი სრულებით უფასოა და არ შეიცავს რეკლამებს.",
@@ -54,8 +54,8 @@
     "Free Software": "უფასო პროგრამული უზრუნველყოფა",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "ჩვენ ვართ ხალხი <span class=\"text normal\">მსოფლიოს სხვადასხვა წერტილიდან</span>.",
 
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.",
-    "Source on GitHub": "Source on GitHub",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "",
+    "Source on GitHub": "",
 
     "Keep in the loop": "დარჩი ჩვენთან",
     "Subscribe to our mailing list for updates about qTox's progress.": "გამოიწერე სიახლეები რათა მიიღო განახლებები ტოქსის შესახებ.",
