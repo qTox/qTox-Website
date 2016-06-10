@@ -9,7 +9,12 @@ Building the site
 =================
 
 Building the site requires Python 2 or Python 3 and the pystache library.
-In the main directory run ``python buildsite.py``
+
+Also requires [`sterminator`](https://github.com/zetok/sterminator).
+To get it, run `bash get_sterminator.sh`.
+
+To build website, run in the main directory ``bash buildsite.sh``.
+
 
 To make the folder layout do the following:
 Move in to the site folder ``cd site``

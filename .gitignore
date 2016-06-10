@@ -152,6 +152,9 @@ ClientBin/
 *.publishsettings
 .viminfo
 
+# string replacement tool
+sterminator*
+
 # RIA/Silverlight projects
 Generated_Code/
 

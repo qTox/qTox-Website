@@ -4,7 +4,9 @@ python:
   - "3.3"
 install:
   - "pip install simplejson pystache --use-mirrors"
-script: "python buildsite.py"
+script:
+- ./get_sterminator.sh
+- ./buildsite.sh
 notifications:
   irc:
     channels:
