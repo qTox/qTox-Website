@@ -17,59 +17,59 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Saugus susirašinėjimas mums visiems.",
-    "sect1_description": "Su žinia, kad vyriausybė mus stebi, qTox yra lengvai naudojama programa, kuri leidžia Tau susisiekti su draugais ir mylimaisiais privačiai.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Su žinia, kad vyriausybė mus stebi, qTox yra lengvai naudojama programa, kuri leidžia Tau susisiekti su draugais ir mylimaisiais privačiai.",
     "Learn more": "Sužinok daugiau",
     "Download": "Atsisiųsti",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "Apie qTox",
     "About Tox": "Apie Tox",
 
-    "sect2_aboutbody": "qTox siekis - padėti Tau susisiekti su draugais ir šeima taip, kad Jūsų privatumas būtų išsaugotas.\n Kol kitos populiarios paslaugos reikalauja mokėti už papildomas paslaugas, qTox yra nemokamas kainoje ir laisvėje.\n Tai reiškia, kad tu gali daryti bet ką su qTox.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox siekis - padėti Tau susisiekti su draugais ir šeima taip, kad Jūsų privatumas būtų išsaugotas.<br> Kol kitos populiarios paslaugos reikalauja mokėti už papildomas paslaugas, qTox yra nemokamas kainoje ir laisvėje.<br> Tai reiškia, kad tu gali daryti bet ką su qTox.",
 
     "Instant messaging, video conferencing, and more": "Susirašinėjimai, video konferencijos ir daugiau",
 
     "Messages": "Pranešimai",
-    "sect3_messages_blurb": "Ant tavo pirštų galiukių.\n Tu visą laiką esi užkoduotų žinucių cikle.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Ant tavo pirštų galiukių.<br> Tu visą laiką esi užkoduotų žinucių cikle.",
 
     "Calls": "Pokalbiai",
-    "sect3_voice_blurb": "Būk pasiekiamas.\n Naudokis saugiais ir nemokamais qTox į qTox pokalbiais.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Būk pasiekiamas.<br> Naudokis saugiais ir nemokamais qTox į qTox pokalbiais.",
 
     "Video": "Vaizdo pokalbiai",
-    "sect3_video_blurb": "Matymas tai tikėjimas.\n Bendrauk akis į akį per saugius vaizdo skambučius.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Matymas tai tikėjimas.<br> Bendrauk akis į akį per saugius vaizdo skambučius.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "Apsauga",
-    "sect4_security_blurb": "qTox į Jūsų privatumą žvelgia rimtai.<br/>Su <span class=\"text bold\">aukščiausios klasės šifravimu</span>, tu gali atsipalaiduoti žinodamas, kad tavo pranešimus skaito tik tie, kuriems juos siunčiate.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox į Jūsų privatumą žvelgia rimtai.<br/>Su <span class=\"text bold\">aukščiausios klasės šifravimu</span>, tu gali atsipalaiduoti žinodamas, kad tavo pranešimus skaito tik tie, kuriems juos siunčiate.",
 
     "Ease of Use": "Paprastumas",
-    "sect4_easy_blurb": "Priešingai nei kiti saugaus susirašinėjimo sprendimai, qTox nereikalauja būti kompiuterių programuotoju, kad gelėtumėte naudotis. qTox pateikiamas kartu su <span class=\"text bold\">lengvai naudojama</span> vartotojo sąsaja, kuri leidžia tau susitelkti ties bendravimu.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Priešingai nei kiti saugaus susirašinėjimo sprendimai, qTox nereikalauja būti kompiuterių programuotoju, kad gelėtumėte naudotis. qTox pateikiamas kartu su <span class=\"text bold\">lengvai naudojama</span> vartotojo sąsaja, kuri leidžia tau susitelkti ties bendravimu.",
 
     "Freedom": "Laisvė",
-    "sect4_freedom_blurb": "qTox yra nemokama naudojimui, ir laisva pakeitimams. Tu gali bet kada nautotis ir modifikuoti qTox. Taip pat, <span class=\"text bold\">qTox niekada nebandys rodyti įkyrių reklamų, ar reikalaus pinigų už papildomas galimybes.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox yra nemokama naudojimui, ir laisva pakeitimams. Tu gali bet kada nautotis ir modifikuoti qTox. Taip pat, <span class=\"text bold\">qTox niekada nebandys rodyti įkyrių reklamų, ar reikalaus pinigų už papildomas galimybes.</span>",
 
-    "sect5_github": "Nori dalyvauti kūrime? Mes jau esame <span class=\"text normal color white\">GitHub</span> tinklapyje.\n Programavimo patirtis nebūtina.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Nori dalyvauti kūrime? Mes jau esame <span class=\"text normal color white\">GitHub</span> tinklapyje.<br> Programavimo patirtis nebūtina.",
     "Source on GitHub": "Išeities kodas GitHub tinklapyje",
 
     "Free Software": "Laisva programinė įranga",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Mes esame patyrę žmonės iš <span class=\"text normal\">viso pasaulio</span>.",
 
     "Keep in the loop": "Būk informuotas",
-    "sect6_mailinglist": "Prisijunk prie mūsų laiškų konferencijos ir sužinok apie tolimesnius qTox atnaujinimus ir progresą.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Prisijunk prie mūsų laiškų konferencijos ir sužinok apie tolimesnius qTox atnaujinimus ir progresą.",
     "email address": "el. pašto adresas",
 
     "Need some help?": "Reikia pagalbos?",
-    "sect6_githubtoirc": "Pradėk savo nuosavą projektą ir klausk mūsų <span class=\"text normal\">GitHub</span> tinklapyje, arba <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> kanale!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Pradėk savo nuosavą projektą ir klausk mūsų <span class=\"text normal\">GitHub</span> tinklapyje, arba <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> kanale!",
 
     "Developer Links": "Developer Links",
     "Development blog": "Development blog",
     "Documentation": "Documentation",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

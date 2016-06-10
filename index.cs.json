@@ -16,59 +16,59 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Bezpečná komunikace pro všechny, již brzy.",
-    "sect1_description": "Rozsáhlé vládní monitorovací programy se čím dál tím více rozmáhají. qTox je aplikace co se snadno používá a umožní Vám spojit se s přáteli a blízkými, aniž by Vás poslouchal kdokoli jiný.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Rozsáhlé vládní monitorovací programy se čím dál tím více rozmáhají. qTox je aplikace co se snadno používá a umožní Vám spojit se s přáteli a blízkými, aniž by Vás poslouchal kdokoli jiný.",
     "Learn more": "Zjistěte více",
     "Download": "Stáhnout",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "O projektu qTox",
     "About Tox": "O projektu Tox",
 
-    "sect2_aboutbody": "qTox je postavený na myšlence, že byste měli mít možnost kontaktovat své známé a rodinu bez toho, aby bylo narušeno vaše soukromí.\n Zatímco ostatní \"velké\" služby po Vás požadují poplatky pro zpřístupnění některých funkcí, qTox je naprosto zdarma a svobodný.\n To znamená, že si můžete s qTox dělat cokoli chcete.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox je postavený na myšlence, že byste měli mít možnost kontaktovat své známé a rodinu bez toho, aby bylo narušeno vaše soukromí.<br> Zatímco ostatní \"velké\" služby po Vás požadují poplatky pro zpřístupnění některých funkcí, qTox je naprosto zdarma a svobodný.<br> To znamená, že si můžete s qTox dělat cokoli chcete.",
 
     "Instant messaging, video conferencing, and more": "Chat, videokonference, a mnohem více",
 
     "Messages": "Zprávy",
-    "sect3_messages_blurb": "Soukromé šifrované zprávy na dosah ruky.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Soukromé šifrované zprávy na dosah ruky.",
 
     "Calls": "Volání",
-    "sect3_voice_blurb": "Volejte zdarma a bezpečně ostatním uživatelům qTox.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Volejte zdarma a bezpečně ostatním uživatelům qTox.",
 
     "Video": "Videohovory",
-    "sect3_video_blurb": "Mluvte spolu tváří v tvář přes bezpečný videohovor.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Mluvte spolu tváří v tvář přes bezpečný videohovor.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "Bezpečnost",
-    "sect4_security_blurb": "qTox bere vaše soukromí vážně.<br/>Díky <span class=\"text bold\">nejmodernějším šifrovacím technologím</span> si můžete být jisti, že jediní lidé co čtou Vaše zprávy jsou ti, kterým jste je zaslali.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox bere vaše soukromí vážně.<br/>Díky <span class=\"text bold\">nejmodernějším šifrovacím technologím</span> si můžete být jisti, že jediní lidé co čtou Vaše zprávy jsou ti, kterým jste je zaslali.",
 
     "Ease of Use": "Jednoduchost používání",
-    "sect4_easy_blurb": "Na rozdíl od ostatních šifrovacích aplikací, qTox po Vás nevyžaduje abyste byli programátoři když jej chcete používat. qTox má hned po instalaci <span class=\"text bold\">jednoduché rozhraní</span>, díky kterému se můžete radši věnovat tomu, s kým mluvíte.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Na rozdíl od ostatních šifrovacích aplikací, qTox po Vás nevyžaduje abyste byli programátoři když jej chcete používat. qTox má hned po instalaci <span class=\"text bold\">jednoduché rozhraní</span>, díky kterému se můžete radši věnovat tomu, s kým mluvíte.",
 
     "Freedom": "Svoboda",
-    "sect4_freedom_blurb": "qTox je a vždy bude zdarma, a budete si jej moct upravit jak se vám zlíbí. Můžete jej úplně volně používat i modifikovat. Navíc Vás <span class=\"text bold\">nikdy nebude otravovat reklamami, nebo vyžadovat poplatky</span>.",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox je a vždy bude zdarma, a budete si jej moct upravit jak se vám zlíbí. Můžete jej úplně volně používat i modifikovat. Navíc Vás <span class=\"text bold\">nikdy nebude otravovat reklamami, nebo vyžadovat poplatky</span>.",
 
-    "sect5_github": "Chcete pomoct? Jsme na <span class=\"text normal color white\">GitHubu</span>.\n Nejsou potřeba žádné zkušenosti s programováním.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Chcete pomoct? Jsme na <span class=\"text normal color white\">GitHubu</span>.<br> Nejsou potřeba žádné zkušenosti s programováním.",
     "Source on GitHub": "Zdrojový kód na GitHubu",
 
     "Free Software": "Svobodný Software",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Jsme skvělý tým z <span class=\"text normal\">celého světa</span>.",
 
     "Keep in the loop": "Buďte v obraze",
-    "sect6_mailinglist": "Odebírejte náš mailing list a dostávejte tak novinky o qTox",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Odebírejte náš mailing list a dostávejte tak novinky o qTox",
     "email address": "e-mailová adresa",
 
     "Need some help?": "Potřebujete pomoc?",
-    "sect6_githubtoirc": "Začněte vlastní projekt a zeptejte se nás na <span class=\"text normal\">GitHubu</span>, nebo na <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Začněte vlastní projekt a zeptejte se nás na <span class=\"text normal\">GitHubu</span>, nebo na <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "Developer Links",
     "Development blog": "Development blog",
     "Documentation": "Documentation",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

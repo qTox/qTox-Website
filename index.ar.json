@@ -17,59 +17,59 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "مراسلة آمنة لبقيتنا.",
-    "sect1_description": "مع تعاظم الرقابة الحكومية على شبكة الإنترنت، توكس هو برنامج سهل الاستخدام يسمح لك بالتواصل مع أصدقائك وأحبائك من دون التنصت عليك",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "مع تعاظم الرقابة الحكومية على شبكة الإنترنت، توكس هو برنامج سهل الاستخدام يسمح لك بالتواصل مع أصدقائك وأحبائك من دون التنصت عليك",
     "Learn more": "تعلم المزيد",
     "Download": "حمل",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "حول توكس",
     "About Tox": "حول توكس",
 
-    "sect2_aboutbody": "الفكرة وراء توكس هي تمكينك من البقاء على اتصال مع الأصدقاء والعائلة من دون التنازل عن خصوصيتك.\n وبينما بعض الخدمات أخرى المعروفة في هذا المجال تشترط منك الدفع لتفعيل بعض الخدمات، توكس برنامج حر ومجاني.\n إذ بإمكانك استعماله و تعديله كما يحلو لك وبدون رسوم",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "الفكرة وراء توكس هي تمكينك من البقاء على اتصال مع الأصدقاء والعائلة من دون التنازل عن خصوصيتك.<br> وبينما بعض الخدمات أخرى المعروفة في هذا المجال تشترط منك الدفع لتفعيل بعض الخدمات، توكس برنامج حر ومجاني.<br> إذ بإمكانك استعماله و تعديله كما يحلو لك وبدون رسوم",
 
     "Instant messaging, video conferencing, and more": "مراسلة فورية، مؤتمرات فيديو، وغيرها المزيد",
 
     "Messages": "المراسلة",
-    "sect3_messages_blurb": "في متناول أصابعك.\n ستكون دائما في حلقة مراسلة مشفرة",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "في متناول أصابعك.<br> ستكون دائما في حلقة مراسلة مشفرة",
 
     "Calls": "المكالمات",
-    "sect3_voice_blurb": "إبقى على اتصال.\n قم بإجراء مكالمات مجانية بينك و بين أي مستخدم توكس آخر",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "إبقى على اتصال.<br> قم بإجراء مكالمات مجانية بينك و بين أي مستخدم توكس آخر",
 
     "Video": "مكالمات مرئية",
-    "sect3_video_blurb": "رب صورة خير من ألف مقال.\n كلّم أحباءك بالصوت و الصورة من دون قلق من مختلسي النظر",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "رب صورة خير من ألف مقال.<br> كلّم أحباءك بالصوت و الصورة من دون قلق من مختلسي النظر",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "الأمان",
-    "sect4_security_blurb": "توكس يأخذ أمن بياناتك بمحمل الجد<br/>باستخدام <span class=\"text bold\"> تقنية تشفير متطورة</span>, بإمكانك أن تريح بالك عالما بأن لا أحد سيقرأ رسائلك غير الذين أرسلتها لهم",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "توكس يأخذ أمن بياناتك بمحمل الجد<br/>باستخدام <span class=\"text bold\"> تقنية تشفير متطورة</span>, بإمكانك أن تريح بالك عالما بأن لا أحد سيقرأ رسائلك غير الذين أرسلتها لهم",
 
     "Ease of Use": "سهولة الإستخدام",
-    "sect4_easy_blurb": "على عكس وسائل مراسلة آمنة أخرى، توكس لايتطلب خبرة باستعمال الحاسوب لاستخدامه. توكس ياتي مع واجهة مستخدم <span class=\"text bold\">سهلة الاستخدام</span> وتسمح لك بالتركيز على محادثاتك",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "على عكس وسائل مراسلة آمنة أخرى، توكس لايتطلب خبرة باستعمال الحاسوب لاستخدامه. توكس ياتي مع واجهة مستخدم <span class=\"text bold\">سهلة الاستخدام</span> وتسمح لك بالتركيز على محادثاتك",
 
     "Freedom": "الحرية",
-    "sect4_freedom_blurb": "توكس يمنحك الحرية الكاملة لتستعمله مجانآ وأن تعدل فيه كما يخدم احتياجاتك. والأكثر من ذلك, <span class=\"text bold\">توكس لن يزعجك بالإعلانات و لن يشترط الدفع لتفعيل أي مميزات</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "توكس يمنحك الحرية الكاملة لتستعمله مجانآ وأن تعدل فيه كما يخدم احتياجاتك. والأكثر من ذلك, <span class=\"text bold\">توكس لن يزعجك بالإعلانات و لن يشترط الدفع لتفعيل أي مميزات</span>",
 
     "Free Software": "البرمجيات الحرة",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "نحن مجموعة من الأشخاص المهتمين <span class=\"text normal\">من جميع أنحاء العالم</span>",
 
     "Keep in the loop": "اعرف المستجدات" ,
-    "sect6_mailinglist": "انضم إلى قائمة المراسلة الخاصة بتوكس للحصول على آخر الأخبار والتطورات" ,
+    "Subscribe to our mailing list for updates about qTox's progress.": "انضم إلى قائمة المراسلة الخاصة بتوكس للحصول على آخر الأخبار والتطورات" ,
     "email address": "عنوان البريد الإلكتروني" ,
 
-    "sect5_github": "<span class=\"text normal color white\">GitHub</span> تحتاج المساعدة؟ نحن على <br/>\n الخبرة بالبرمجة غير ضرورية",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "<span class=\"text normal color white\">GitHub</span> تحتاج المساعدة؟ نحن على <br/><br> الخبرة بالبرمجة غير ضرورية",
     "Source on GitHub": "GitHub المصدر على",
 
     "Need some help?": "تحتاج إلى المساعدة؟",
-    "sect6_githubtoirc": "إبدأ مشروعك الخاص و اسألنا على <span class=\"text normal\">GitHub</span>، أو على <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "إبدأ مشروعك الخاص و اسألنا على <span class=\"text normal\">GitHub</span>، أو على <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "Developer Links",
     "Development blog": "Development blog",
     "Documentation": "Documentation",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

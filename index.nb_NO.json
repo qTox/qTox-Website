@@ -16,61 +16,61 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Sikker meldingstjeneste for resten av oss.",
-    "sect1_description": "Med fremveksten av omfattende statlige overvåkningsprogrammer er qTox et brukervennlig program som lar deg kommunisere med kjente og kjære uten at andre lytter i samtalene",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Med fremveksten av omfattende statlige overvåkningsprogrammer er qTox et brukervennlig program som lar deg kommunisere med kjente og kjære uten at andre lytter i samtalene",
     "Learn more": "Lær mer",
     "Download": "Last ned",
     "Nightlies": "Nattlig",
-    "download_warning": "Nattlig er ikke for de med svakt hjerte, du kan møte på feil, kræsj, og mye frustrasjon. Du er blitt advart!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nattlig er ikke for de med svakt hjerte, du kan møte på feil, kræsj, og mye frustrasjon. Du er blitt advart!",
     "Please choose your distribution": "Velg din distribusjon",
 
     "About qTox": "Om qTox",
     "About Tox": "Om Tox",
 
-    "sect2_aboutbody": "qTox er bygget rundt idÃ©en om at du kan holde deg oppdatert med kjente og familie uten å ha ditt privatliv krenket. Mens andre store aktører krever at du betaler for å få funksjoner er qTox både gratis og frihetsrespekterende. Det vil si at du er fri til å gjøre hva du vil med qTox.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox er bygget rundt idÃ©en om at du kan holde deg oppdatert med kjente og familie uten å ha ditt privatliv krenket. Mens andre store aktører krever at du betaler for å få funksjoner er qTox både gratis og frihetsrespekterende. Det vil si at du er fri til å gjøre hva du vil med qTox.",
 
     "Instant messaging, video conferencing, and more": "Direktemeldinger, videokonferanser og mer",
 
     "Messages": "Meldinger",
-    "sect3_messages_blurb": "Umiddelbar krypert meldingsutveksling på dine fingerspisser.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Umiddelbar krypert meldingsutveksling på dine fingerspisser.",
 
     "Calls": "Anrop",
-    "sect3_voice_blurb": "Hold kontakten.\n Foreta gratis og sikre samtaler fra qTox til qTox.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Hold kontakten.<br> Foreta gratis og sikre samtaler fra qTox til qTox.",
 
     "Video": "Video",
-    "sect3_video_blurb": "Ansikt mot ansikt.\n Hold dere oppdatert med sikre videosamtaler.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Ansikt mot ansikt.<br> Hold dere oppdatert med sikre videosamtaler.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "Sikkerhet",
-    "sect4_security_blurb": "qTox tar ditt privatliv seriøst.<br/>Med <span class=\"text bold\">ledende kryptering</span> kan du være sikker på at de eneste personene som får lese dine meldinger er de du sender meldingene til.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox tar ditt privatliv seriøst.<br/>Med <span class=\"text bold\">ledende kryptering</span> kan du være sikker på at de eneste personene som får lese dine meldinger er de du sender meldingene til.",
 
     "Ease of Use": "Enkelt i bruk",
-    "sect4_easy_blurb": "I motsetning til andre sikre direktemeldingsprogram må du ikke være en dataprogrammerer for å bruke qTox. qTox kommer ut av boksen med et grensesnitt som er <span class=\"text bold\">enkelt i bruk</span> og som vil gjøre deg i stand til å fokusere på samtalene dine.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "I motsetning til andre sikre direktemeldingsprogram må du ikke være en dataprogrammerer for å bruke qTox. qTox kommer ut av boksen med et grensesnitt som er <span class=\"text bold\">enkelt i bruk</span> og som vil gjøre deg i stand til å fokusere på samtalene dine.",
 
     "Freedom": "Frihet",
-    "sect4_freedom_blurb": "qTox er både gratis for deg å bruke og gratis for deg å endre. Du står helt fritt til å både bruke og modifisere qTox. Dessuten <span class=\"text bold\">vil qTox aldri plage deg med annonser, eller kreve betaling for funksjoner.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox er både gratis for deg å bruke og gratis for deg å endre. Du står helt fritt til å både bruke og modifisere qTox. Dessuten <span class=\"text bold\">vil qTox aldri plage deg med annonser, eller kreve betaling for funksjoner.</span>",
 
     "Free Software": "Fri programvare",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Vi er kule folk fra <span class=\"text normal\">hele verden.</span>.",
 
-    "sect5_github": "Ønsker du å bidra? Vi er på <span class=\"text normal color white\">GitHub</span>.\n Ingen programmeringserfaring er nødvendig.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Ønsker du å bidra? Vi er på <span class=\"text normal color white\">GitHub</span>.<br> Ingen programmeringserfaring er nødvendig.",
     "Source on GitHub": "Kildekoden er på GitHub",
 
     "Keep in the loop": "Hold deg oppdatert",
-    "sect6_mailinglist": "Meld deg på epostlisten for oppdateringer om qTox's fremgang.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Meld deg på epostlisten for oppdateringer om qTox's fremgang.",
     "email address": "epostadresse",
 
     "sect6_jointheteam": "Bli med på laget",
     "sect6_joinongithub": "Hjelp til med å bygge qTox på <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     "Need some help?": "Trenger du hjelp?",
-    "sect6_githubtoirc": "Start ditt eget prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start ditt eget prosjekt og spør oss på <span class=\"text normal\">GitHub</span>, eller på <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "Utviklerlenker",
     "Development blog": "Utviklerblog",
     "Documentation": "Dokumentasjon",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

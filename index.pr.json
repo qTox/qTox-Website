@@ -16,60 +16,60 @@
     "User manual": "Book o' knowin'",
 
     "A New Kind of Instant Messaging": "Secret messagin' bottles for the crew.",
-    "sect1_description": "Now that the King be eyein' us all, qTox is a simple method o' pipsquawkin' so's you can have a gar with the lads, without any suspicious sort o' peepin' by spies.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Now that the King be eyein' us all, qTox is a simple method o' pipsquawkin' so's you can have a gar with the lads, without any suspicious sort o' peepin' by spies.",
     "Learn more": "Get edumacated",
     "Download": "Try 'er out",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "Idears o' qTox",
     "About Tox": "Idears o' Tox",
 
-    "sect2_aboutbody": "qTox is constructed so's you can keep up with yer mates 'n' close ones, without havin' any sort o' privacy violations.\n While other shipmakers are beggin' a pretty pence for their services, qTox is free both gold-wise, and as in runnin'-free freedom.\n That is, yer free to do whatever you wish like with qTox.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox is constructed so's you can keep up with yer mates 'n' close ones, without havin' any sort o' privacy violations.<br> While other shipmakers are beggin' a pretty pence for their services, qTox is free both gold-wise, and as in runnin'-free freedom.<br> That is, yer free to do whatever you wish like with qTox.",
 
 
     "Instant messaging, video conferencing, and more": "Speedy letterin', view-talkin' with all yer mates, and plenty a more",
 
     "Messages": "Parchment Bottles",
-    "sect3_messages_blurb": "No sort o' drink in these, laddies, but they be the best of the secure communicatin' these days.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "No sort o' drink in these, laddies, but they be the best of the secure communicatin' these days.",
 
     "Calls": "Hollerin'",
-    "sect3_voice_blurb": "Keep track of yer crew, with free long-talkin's to all yer mates.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Keep track of yer crew, with free long-talkin's to all yer mates.",
 
     "Video": "Crystals o' Far-Seein'",
-    "sect3_video_blurb": "I know not what manner o' witch they done tricked into givin' up her secrets, but they done did it. ",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "I know not what manner o' witch they done tricked into givin' up her secrets, but they done did it. ",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "Secured Rightwise",
-    "sect4_security_blurb": "qTox be's solemnly meditatin' on yer securin'.<br/>With <span class=\"text bold\">Royal-Quality encryption</span>, you can sleep easy knowin' that the only lads eyein' yer messages are the ones you send them off at.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox be's solemnly meditatin' on yer securin'.<br/>With <span class=\"text bold\">Royal-Quality encryption</span>, you can sleep easy knowin' that the only lads eyein' yer messages are the ones you send them off at.",
 
     "Ease of Use": "Ease o' Usin'",
-    "sect4_easy_blurb": "Not like other methods o' secure messagin', qTox don't necessitate learnin' all sort o' witchcraft and witchery to use it. qTox comes fresh out o' the shipyard with <span class=\"text bold\">simple-like</span> workin' board, so you can be focusin' on your conversations.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Not like other methods o' secure messagin', qTox don't necessitate learnin' all sort o' witchcraft and witchery to use it. qTox comes fresh out o' the shipyard with <span class=\"text bold\">simple-like</span> workin' board, so you can be focusin' on your conversations.",
 
     "Freedom": "Freedom!",
-    "sect4_freedom_blurb": "qTox is both free for you to make a use of, and free for you to change. Yer completely free to both use and modify qTox to yer needins. And tackin' on, <span class=\"text bold\">qTox will never harass you an' yer crew with adverrrtisements, or require you to pay up for features.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox is both free for you to make a use of, and free for you to change. Yer completely free to both use and modify qTox to yer needins. And tackin' on, <span class=\"text bold\">qTox will never harass you an' yer crew with adverrrtisements, or require you to pay up for features.</span>",
 
     "Free Software": "Free Softwares!",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "We're cool guys from <span class=\"text normal\">all around the seas</span>.",
 
-    "sect5_github": "Want to pitch in? We're on <span class=\"text normal color white\">GitHub</span>.\n No voodoo wizardin' experience is necessitated.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Want to pitch in? We're on <span class=\"text normal color white\">GitHub</span>.<br> No voodoo wizardin' experience is necessitated.",
     "Source on GitHub": "Source on GitHub",
 
     "Keep in the loop": "Message in ye' Bottle!",
-    "sect6_mailinglist": "Keep yer scurvy crew up ta' date!",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Keep yer scurvy crew up ta' date!",
     "email address": "message@bottle.in",
 
     "Need some help?": "Needin' some assistance?",
-    "sect6_githubtoirc": "Start yer own project and ask us on <span class=\"text normal\">GitHub</span>, or in the <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start yer own project and ask us on <span class=\"text normal\">GitHub</span>, or in the <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "Portal fer' creators",
     "Development blog": "Captain's log",
     "Documentation": "Ship instructions",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

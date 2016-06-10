@@ -16,59 +16,59 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Сигурни съобщения за всеки, очаквайте скоро.",
-    "sect1_description": "С възходът на масово разпространени програми за правителствено наблюдение, qTox е лесно за употреба приложение, което ви позволява да се свържите с приятели и близки без някой друг да ви подслушва.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "С възходът на масово разпространени програми за правителствено наблюдение, qTox е лесно за употреба приложение, което ви позволява да се свържите с приятели и близки без някой друг да ви подслушва.",
     "Learn more": "Научете повече",
     "Download": "Изтеглете",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "За qTox",
     "About Tox": "За Tox",
 
-    "sect2_aboutbody": "qTox е разработен с идеята, че можете да поддържате връзки със семейството и приятелите ви без вашата конфиденциалност да бъде нарушавана.\n Докато други големи услуги изискват платеж за отключване на допълнителни функции, qTox е както безплатен, така и свободен.\n С други думи, вие сте свободни да правите каквото желаете с qTox.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox е разработен с идеята, че можете да поддържате връзки със семейството и приятелите ви без вашата конфиденциалност да бъде нарушавана.<br> Докато други големи услуги изискват платеж за отключване на допълнителни функции, qTox е както безплатен, така и свободен.<br> С други думи, вие сте свободни да правите каквото желаете с qTox.",
 
     "Instant messaging, video conferencing, and more": "Чат, видео конференции, и още",
 
     "Messages": "Съобщения",
-    "sect3_messages_blurb": "Под пръстите ви.\n Винаги сте в кръга с мигновени криптирани съобщения и чат.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Под пръстите ви.<br> Винаги сте в кръга с мигновени криптирани съобщения и чат.",
 
     "Calls": "Обаждания",
-    "sect3_voice_blurb": "Поддържайте връзка.\n Правете безплатни и сигурни обаждания в мрежата на qTox.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Поддържайте връзка.<br> Правете безплатни и сигурни обаждания в мрежата на qTox.",
 
     "Video": "Видео",
-    "sect3_video_blurb": "Да видиш е да повярваш.\n Стигнете лице в лице със сигурно видео обаждане.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Да видиш е да повярваш.<br> Стигнете лице в лице със сигурно видео обаждане.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "Сигурност",
-    "sect4_security_blurb": "qTox взима вашата конфиденциалност на сериозно.<br/>Със <span class=\"text bold\">свръх-класово криптиране</span>, можете да сте сигурни, знаейки че единствените хора, четящи съобщенията ви, са тези към които ги пращате.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox взима вашата конфиденциалност на сериозно.<br/>Със <span class=\"text bold\">свръх-класово криптиране</span>, можете да сте сигурни, знаейки че единствените хора, четящи съобщенията ви, са тези към които ги пращате.",
 
     "Ease of Use": "Лесна употреба",
-    "sect4_easy_blurb": "За разлика от други платформи за сигурни съобщения, не трябва да сте компютърен програмист, за да употребявате qTox. qTox идва по подразбиране с <span class=\"text bold\">лесен за употреба</span> интерфейс, който ви позволява да фокусирате върху вашите разговори.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "За разлика от други платформи за сигурни съобщения, не трябва да сте компютърен програмист, за да употребявате qTox. qTox идва по подразбиране с <span class=\"text bold\">лесен за употреба</span> интерфейс, който ви позволява да фокусирате върху вашите разговори.",
 
     "Freedom": "Свобода",
-    "sect4_freedom_blurb": "qTox е безплатен за вас както и да го употребявате, така и да го променяте. Вие сте напълно свободни да използвате и модифицирате qTox. Освен това, <span class=\"text bold\">qTox никога няма да ви тормози с реклами, или да ви принуждава да плащате за функции.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox е безплатен за вас както и да го употребявате, така и да го променяте. Вие сте напълно свободни да използвате и модифицирате qTox. Освен това, <span class=\"text bold\">qTox никога няма да ви тормози с реклами, или да ви принуждава да плащате за функции.</span>",
 
     "Free Software": "Свободен софтуер",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Ние сме готини хора от <span class=\"text normal\">целия свят</span>.",
 
     "Keep in the loop": "Бъдете информирани",
-    "sect6_mailinglist": "Абонирайте се за нашия списък, за да получавате новини относно състоянието на qTox.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Абонирайте се за нашия списък, за да получавате новини относно състоянието на qTox.",
     "email address": "въведете имейл адрес",
 
-    "sect5_github": "Искате да помогнете? Ние сме в <span class=\"text normal color white\">GitHub</span>.\n Никакъв опит с програмиране не е необходим.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Искате да помогнете? Ние сме в <span class=\"text normal color white\">GitHub</span>.<br> Никакъв опит с програмиране не е необходим.",
     "Source on GitHub": "Изходен код в GitHub",
 
     "Need some help?": "Трябва ви помощ?",
-    "sect6_githubtoirc": "Започнете вашия проект и ни попитайте в <span class=\"text normal\">GitHub</span>, или на <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Започнете вашия проект и ни попитайте в <span class=\"text normal\">GitHub</span>, или на <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "Developer Links",
     "Development blog": "Development blog",
     "Documentation": "Documentation",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

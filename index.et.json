@@ -16,58 +16,58 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Uutmoodi Kiirsõnumid",
-    "sect1_description": "Laiaulatusliku valitsuste nuhkimistega on qTox kergesti kasutatav programm, millega saad sõprade ja tuttavatega suhelda ilma, et keegi pealt kuulaks. ",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Laiaulatusliku valitsuste nuhkimistega on qTox kergesti kasutatav programm, millega saad sõprade ja tuttavatega suhelda ilma, et keegi pealt kuulaks. ",
     "Learn more": "Loe veel",
     "Download": "Laadi alla",
     "Nightlies": "Nightly-d",
-    "download_warning": "Nightly-d pole nõrganärvilistele, sest selles võivad olla vead, crash-id ja suures koguses frustratsiooni. Teid on hoiatatud!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightly-d pole nõrganärvilistele, sest selles võivad olla vead, crash-id ja suures koguses frustratsiooni. Teid on hoiatatud!",
     "Please choose your distribution": "Palun valige oma distributsioon",
 
     "About qTox": "qToxist",
     "About Tox": "Toxist",
 
-    "sect2_aboutbody": "qTox on loodud põhimõttega, et saaksid oma tuttavate ja perekonnaga suhelda, ilma et sinu privaatsust rikutaks.\n Teised suurenimelised teenused tahavad, et sa maksaksid nende teenuse kasutamise eest, aga qTox on tasuta kui ka avatud lähtekoodiga.\n See tähendab seda, et sul on vabadus teha qToxiga kõike, mida soovid.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox on loodud põhimõttega, et saaksid oma tuttavate ja perekonnaga suhelda, ilma et sinu privaatsust rikutaks.<br> Teised suurenimelised teenused tahavad, et sa maksaksid nende teenuse kasutamise eest, aga qTox on tasuta kui ka avatud lähtekoodiga.<br> See tähendab seda, et sul on vabadus teha qToxiga kõike, mida soovid.",
 
 
     "Instant messaging, video conferencing, and more": "Kiirsõnumid, videokonverentsid ja veel",
 
     "Messages": "Sõnumid",
-    "sect3_messages_blurb": "Sinu käeulatuses on krüpteeritud kiirsõnumid.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Sinu käeulatuses on krüpteeritud kiirsõnumid.",
 
     "Calls": "Kõned",
-    "sect3_voice_blurb": "Tee teiste qToxi kasutajatega tasuta ja turvalisi kõnesid.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Tee teiste qToxi kasutajatega tasuta ja turvalisi kõnesid.",
 
     "Video": "Video",
-    "sect3_video_blurb": "Suhte tuttavatega näost näkku läbi turvalise videokõne.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Suhte tuttavatega näost näkku läbi turvalise videokõne.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "Turvalisus",
-    "sect4_security_blurb": "qTox hindab su turvalisust tõsiselt.<br/><span class=\"text bold\">Juhtiv-klassi krüpteerimisega</span> võid olla kindel, et ainukesed inimesed, kes su kirju saavad lugeda on need, kellele sa neid saadad.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox hindab su turvalisust tõsiselt.<br/><span class=\"text bold\">Juhtiv-klassi krüpteerimisega</span> võid olla kindel, et ainukesed inimesed, kes su kirju saavad lugeda on need, kellele sa neid saadad.",
 
     "Ease of Use": "Kasutusmugavus",
-    "sect4_easy_blurb": "qToxi kasutamiseks ei pea olema programmeerija, nagu teiste turvaliste sõnumivahetuse lahendustega. qTox on <span class=\"text bold\">kergesti kasutatava</span> liidesega, mis lubab sul vestlusele keskenduda.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "qToxi kasutamiseks ei pea olema programmeerija, nagu teiste turvaliste sõnumivahetuse lahendustega. qTox on <span class=\"text bold\">kergesti kasutatava</span> liidesega, mis lubab sul vestlusele keskenduda.",
 
     "Freedom": "Vabadus",
-    "sect4_freedom_blurb": "qTox on tasuta ja sul on vabadus seda muuta. <span class=\"text bold\">qTox ei hakka sind kunagi reklaamiga ahistama ega nõua sult raha funktsioonide kasutamiseks.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox on tasuta ja sul on vabadus seda muuta. <span class=\"text bold\">qTox ei hakka sind kunagi reklaamiga ahistama ega nõua sult raha funktsioonide kasutamiseks.</span>",
 
     "Free Software": "Vaba tarkvara",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Me oleme lahedad inimesed <span class=\"text normal\">kogu maailmast</span>.",
 
-    "sect5_github": "Tahad aidata? Me oleme <span class=\"text normal color white\">GitHubis</span>.\n Kodeerimise kogemus ei ole vajalik.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Tahad aidata? Me oleme <span class=\"text normal color white\">GitHubis</span>.<br> Kodeerimise kogemus ei ole vajalik.",
     "Source on GitHub": "Allikas GitHubis",
 
     "Keep in the loop": "Käi uudistega kaasas",
-    "sect6_mailinglist": "Ühine meie meililistiga ja saad endale uudiseid qToxi progressist.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Ühine meie meililistiga ja saad endale uudiseid qToxi progressist.",
     "email address": "meiliaadress",
 
     "Need some help?": "Vajad abi?",
-    "sect6_githubtoirc": "Alusta oma projekt ja küsi meilt <span class=\"text normal\">GitHubis</span> või <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRCs</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Alusta oma projekt ja küsi meilt <span class=\"text normal\">GitHubis</span> või <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRCs</a>!",
 
     "Developer Links": "Arendaja lingid",
     "Development blog": "Arendamise blogi",
     "Documentation": "Dokumentatsioon",
 
     "Donate": "Anneta",
-    "donate_about": "Et näha, kuidas sa saad annetades aidata, palun külasta meie <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">annetuste</a> wiki artiklit. Aitäh!"
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Et näha, kuidas sa saad annetades aidata, palun külasta meie <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">annetuste</a> wiki artiklit. Aitäh!"
 }

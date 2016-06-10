@@ -16,60 +16,60 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Pesan terjamin aman untuk semua orang.",
-    "sect1_description": "Dengan munculnya program pemantauan pemerintah yang meluas, qTox adalah aplikasi yang mudah digunakan dan memungkinkan kamu menghubungi teman-teman dan orang tercinta tanpa orang lain mendengarkan.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Dengan munculnya program pemantauan pemerintah yang meluas, qTox adalah aplikasi yang mudah digunakan dan memungkinkan kamu menghubungi teman-teman dan orang tercinta tanpa orang lain mendengarkan.",
     "Learn more": "Pelajari lebih lanjut",
     "Download": "Unduh",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "Tentang qTox",
     "About Tox": "Tentang Tox",
 
-    "sect2_aboutbody": "qTox dibangun atas gagasan bahwa kamu bisa tetap menghubungi teman-teman dan keluarga tanpa kerahasiaan pribadimu dilanggar.\n Layanan terkenal lain mengharuskan kamu membayar untuk fitur-fitur terkunci, sedangkan qTox gratis dan bebas.\n Artinya kamu bebas melakukan apa saja yang kamu inginkan dengan qTox.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox dibangun atas gagasan bahwa kamu bisa tetap menghubungi teman-teman dan keluarga tanpa kerahasiaan pribadimu dilanggar.<br> Layanan terkenal lain mengharuskan kamu membayar untuk fitur-fitur terkunci, sedangkan qTox gratis dan bebas.<br> Artinya kamu bebas melakukan apa saja yang kamu inginkan dengan qTox.",
 
 
     "Instant messaging, video conferencing, and more": "Pesan instan, video konferensi, dan lainnya",
 
     "Messages": "Pesan",
-    "sect3_messages_blurb": "Di ujung jarimu.\n Kamu selalu terupdate dengan pesan instan terenkripsi.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Di ujung jarimu.<br> Kamu selalu terupdate dengan pesan instan terenkripsi.",
 
     "Calls": "Panggilan",
-    "sect3_voice_blurb": "Tetap terhubung.\n Menelpon gratis dan aman dengan panggilan qTox ke qTox",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Tetap terhubung.<br> Menelpon gratis dan aman dengan panggilan qTox ke qTox",
 
     "Video": "Video",
-    "sect3_video_blurb": "Penglihatan adalah kepercayaan.\n Bertatap muka dengan panggilan video yang aman.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Penglihatan adalah kepercayaan.<br> Bertatap muka dengan panggilan video yang aman.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "Keamanan",
-    "sect4_security_blurb": "qTox menjamin kerahasiaan pribadi kamu dengan sebenarnya.<br/>Dengan <span class=\"text bold\">enkripsi mutakhir</span>, kamu bisa yakin bahwa orang yang membaca pesanmu hanyalah mereka yang kamu kirimkan pesan.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox menjamin kerahasiaan pribadi kamu dengan sebenarnya.<br/>Dengan <span class=\"text bold\">enkripsi mutakhir</span>, kamu bisa yakin bahwa orang yang membaca pesanmu hanyalah mereka yang kamu kirimkan pesan.",
 
     "Ease of Use": "Kemudahan penggunaan",
-    "sect4_easy_blurb": "Tidak seperti pesan aman lainnya, qTox tidak mengharuskan kamu menjadi ahli komputer untuk menggunakannya. qTox keluar dari kotak dengan antarmuka<span class=\"text bold\">yang mudah digunakan</span> dan memungkinkan kamu fokus pada percakapan.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Tidak seperti pesan aman lainnya, qTox tidak mengharuskan kamu menjadi ahli komputer untuk menggunakannya. qTox keluar dari kotak dengan antarmuka<span class=\"text bold\">yang mudah digunakan</span> dan memungkinkan kamu fokus pada percakapan.",
 
     "Freedom": "Kebebasan",
-    "sect4_freedom_blurb": "TOX bebas dipakai dan diubah. Kamu bebas untuk memakai dan mengubah qTox. Selain itu, <span class=\"text bold\">qTox tidak akan mengganggu kamu dengan iklan, atau mengharuskan kamu membayar untuk fitur-fiturnya.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "TOX bebas dipakai dan diubah. Kamu bebas untuk memakai dan mengubah qTox. Selain itu, <span class=\"text bold\">qTox tidak akan mengganggu kamu dengan iklan, atau mengharuskan kamu membayar untuk fitur-fiturnya.</span>",
 
     "Free Software": "Perangkat lunak bebas",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Kami adalah orang-orang keren <span class=\"text normal\">dari seluruh dunia</span>.",
 
-    "sect5_github": "Ingin membantu? Kami berada di <span class=\"text normal color white\">GitHub</span>.\n Tidak perlu pengalaman tentang kode.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Ingin membantu? Kami berada di <span class=\"text normal color white\">GitHub</span>.<br> Tidak perlu pengalaman tentang kode.",
     "Source on GitHub": "Kode sumber di GitHub",
 
     "Keep in the loop": "Keep in the loop",
-    "sect6_mailinglist": "Subscribe to our mailing list for updates about qTox's progress.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Subscribe to our mailing list for updates about qTox's progress.",
     "email address": "email address",
 
     "Need some help?": "Perlu bantuan?",
-    "sect6_githubtoirc": "Mulailah proyekmu sendiri dan bertanya kepada kami di <span class=\"text normal\">GitHub</span>, atau di <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Mulailah proyekmu sendiri dan bertanya kepada kami di <span class=\"text normal\">GitHub</span>, atau di <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "Developer Links",
     "Development blog": "Development blog",
     "Documentation": "Documentation",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

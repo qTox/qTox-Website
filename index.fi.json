@@ -16,59 +16,59 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Turvallista viestittelyä kaikille",
-    "sect1_description": "Lisääntyneen hallituksien harjoittaman urkkimisen vuoksi päätettiin kehittää qTox. qTox on helppokäyttöinen ohjelma, joka mahdollistaa yhteydenpidon ystäviesi ja läheistesi kanssa, yksityisesti kenenkään urkkimatta. Muut nimekkäät palvelut laskuttavat palveluistaan. qTox on täysin ilmainen ja vapaa mainoksista.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Lisääntyneen hallituksien harjoittaman urkkimisen vuoksi päätettiin kehittää qTox. qTox on helppokäyttöinen ohjelma, joka mahdollistaa yhteydenpidon ystäviesi ja läheistesi kanssa, yksityisesti kenenkään urkkimatta. Muut nimekkäät palvelut laskuttavat palveluistaan. qTox on täysin ilmainen ja vapaa mainoksista.",
     "Learn more": "Lisätietoja",
     "Download": "Lataa",
     "Nightlies": "Nightlyt",
-    "download_warning": "Nightlyt eivät ole heikkosydämisille, voit kohdata bugeja, kaatumisia ja suurta turhautumista. Sinua on varoitettu!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlyt eivät ole heikkosydämisille, voit kohdata bugeja, kaatumisia ja suurta turhautumista. Sinua on varoitettu!",
     "Please choose your distribution": "Valitse jakelusi",
 
     "About qTox": "Tietoa qToxista",
     "About Tox": "Tietoa Toxista",
 
-    "sect2_aboutbody": "Nykyään jokaista hallitusta tuntuu kiinnostavan, mitä me sanomme netissä. qToxille yksityisyys on tärkeintä, emmekä tee kompromisseja. Asetamme turvallisuutesi tärkeimmäksi tavoitteeksemme, eikä mikään asia maailmassa voi muuttaa tätä.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Nykyään jokaista hallitusta tuntuu kiinnostavan, mitä me sanomme netissä. qToxille yksityisyys on tärkeintä, emmekä tee kompromisseja. Asetamme turvallisuutesi tärkeimmäksi tavoitteeksemme, eikä mikään asia maailmassa voi muuttaa tätä.",
 
 
     "Instant messaging, video conferencing, and more": "Pikaviestintää, videokokouksia, ja enemmän",
 
     "Messages": "Viestit",
-    "sect3_messages_blurb": "Lähettyvilläsi.\n Olet aina ajan tasalla salatulla pikaviestinnällä.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Lähettyvilläsi.<br> Olet aina ajan tasalla salatulla pikaviestinnällä.",
 
     "Calls": "Puhelut",
-    "sect3_voice_blurb": "Ole yhteydessä.\n Soita ilmaisia ja turvallisia qTox-puheluita.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Ole yhteydessä.<br> Soita ilmaisia ja turvallisia qTox-puheluita.",
 
     "Video": "Video",
-    "sect3_video_blurb": "Näkeminen on uskomista.\n Tavoita kasvotusten suojatulla videopuhelulla.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Näkeminen on uskomista.<br> Tavoita kasvotusten suojatulla videopuhelulla.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
 
     "Security": "Turvallisuus",
-    "sect4_security_blurb": "qTox ottaa yksityisyytesi erittäin vakavasti.\nVoit olla varma siitä, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. qTox hyödyntää <span class=\"text bold\">luokassaan parhainta salausta</span>.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox ottaa yksityisyytesi erittäin vakavasti.<br>Voit olla varma siitä, että ainoat ihmiset jotka lukevat viestejäsi ovat ne joille lähetät ne. qTox hyödyntää <span class=\"text bold\">luokassaan parhainta salausta</span>.",
 
     "Ease of Use": "Helppokäyttöisyys",
-    "sect4_easy_blurb": "Toisin kuin muut viestintäohjelmat, qTox ei vaadi sinun olevan tietokone-ekspertti. qTox sisältää <span class=\"text bold\">helppokäyttöisen</span> käyttöliittymän, jolloin voit keskittyä keskustelemiseen etkä mihinkään ylimääräiseen.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Toisin kuin muut viestintäohjelmat, qTox ei vaadi sinun olevan tietokone-ekspertti. qTox sisältää <span class=\"text bold\">helppokäyttöisen</span> käyttöliittymän, jolloin voit keskittyä keskustelemiseen etkä mihinkään ylimääräiseen.",
 
     "Freedom": "Vapaus",
-    "sect4_freedom_blurb": "qTox on ilmainen ohjelma sekä vapaa filosofialtaan. Sinulla on täysi vapaus käyttää ja muokata qToxia miten haluat. Tämän lisäksi <span class=\"text bold\">qTox ei tule koskaan häiritsemään sinua mainoksilla tai vaatimaan maksua ominaisuuksista.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox on ilmainen ohjelma sekä vapaa filosofialtaan. Sinulla on täysi vapaus käyttää ja muokata qToxia miten haluat. Tämän lisäksi <span class=\"text bold\">qTox ei tule koskaan häiritsemään sinua mainoksilla tai vaatimaan maksua ominaisuuksista.</span>",
 
     "Free Software": "Vapaa ohjelmisto",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Me olemme siistejä tyyppejä <span class=\"text normal\">joka puolelta maailmaa</span>.",
 
-    "sect5_github": "Haluatko auttaa? Löydät meidät <span class=\"text normal color white\">GitHubista</span>.\n Ohjelmointiosaamista ei vaadita.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Haluatko auttaa? Löydät meidät <span class=\"text normal color white\">GitHubista</span>.<br> Ohjelmointiosaamista ei vaadita.",
     "Source on GitHub": "Lähdekoodi GitHubissa",
 
     "Keep in the loop": "Pysy mukana",
-    "sect6_mailinglist": "Ilmoittaudu postituslistalle saadaksesi tietää qToxin edistymisestä.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Ilmoittaudu postituslistalle saadaksesi tietää qToxin edistymisestä.",
     "email address": "sähköpostisi",
 
     "Need some help?": "Tarvitsetko apua?",
-    "sect6_githubtoirc": "Aloita oma projektisi ja kysy meiltä <span class=\"text normal\">GitHub:ssa</span>, tai <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC:ssä</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Aloita oma projektisi ja kysy meiltä <span class=\"text normal\">GitHub:ssa</span>, tai <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC:ssä</a>!",
 
     "Developer Links": "Kehittäjien linkit",
     "Development blog": "Kehitys-blogi",
     "Documentation": "Dokumentaatio",
 
     "Donate": "Lahjoita",
-    "donate_about": "Nähdäksesi miten voit auttaa lahjoituksillasi, vieraile <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">lahjoituksista</a> kertovassa wiki-artikkelissamme. Kiitos!"
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Nähdäksesi miten voit auttaa lahjoituksillasi, vieraile <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">lahjoituksista</a> kertovassa wiki-artikkelissamme. Kiitos!"
 }

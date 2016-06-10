@@ -16,60 +16,60 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "सुरक्षित बार्ता सबैलाई",
-    "sect1_description": "संसारभरिका सरकारहरुले तपाईहरुको प्राइभेसी हस्तक्षेप गर्न थालेको बेलामा, टाकश एउटा सजिलै प्रयोग गर्न मिल्ने प्रोग्राम हो जसबाट तपाई कसैले सुन्न नसक्ने गरि आफ्नो परिवार र साथीभाई संग कुरा गर्न सक्नु हुनेछ ।",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "संसारभरिका सरकारहरुले तपाईहरुको प्राइभेसी हस्तक्षेप गर्न थालेको बेलामा, टाकश एउटा सजिलै प्रयोग गर्न मिल्ने प्रोग्राम हो जसबाट तपाई कसैले सुन्न नसक्ने गरि आफ्नो परिवार र साथीभाई संग कुरा गर्न सक्नु हुनेछ ।",
     "Learn more": "थप सिक्नुहोस",
     "Download": "डाउनलोड",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "qTox बारे",
     "About Tox": "Tox बारे",
 
-    "sect2_aboutbody": "तपाईहरुको प्राइभेसी बचाई आफ्नो परिवार र साथीभाई संग सुरकक्षित तरिकाले कुराहरु गर्ने आइडीयाले बनाइएको हो । \n अरु ठुला कम्पनीहरुले पैसा लिएर थप फीचर दिन्चन भने, पैसामा र मोडीफाई गर्नमा फ्रे  छ । \n अरथात, तपाइले जे चाइयो  त्यो गर्न होस सबै गर्न फ्रे  छ ।",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "तपाईहरुको प्राइभेसी बचाई आफ्नो परिवार र साथीभाई संग सुरकक्षित तरिकाले कुराहरु गर्ने आइडीयाले बनाइएको हो । <br> अरु ठुला कम्पनीहरुले पैसा लिएर थप फीचर दिन्चन भने, पैसामा र मोडीफाई गर्नमा फ्रे  छ । <br> अरथात, तपाइले जे चाइयो  त्यो गर्न होस सबै गर्न फ्रे  छ ।",
 
     "Instant messaging, video conferencing, and more": "छीटो, छरिटो मेसेज, भीडीयो र अरु",
 
     "Messages": "मेसेजहरु",
-    "sect3_messages_blurb": "तपाईकै औंलाहरुमा । \n तपाईका सबै मेसेजहरु आफै एनऋपट हुनेछ ।",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "तपाईकै औंलाहरुमा । <br> तपाईका सबै मेसेजहरु आफै एनऋपट हुनेछ ।",
 
     "Calls": "कलहरु",
-    "sect3_voice_blurb": "सधै कुरा गर्नुहोस । \n फ्री र सुरकक्षित qTox बाट qToxमा कल गर्नुहोस । ",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "सधै कुरा गर्नुहोस । <br> फ्री र सुरकक्षित qTox बाट qToxमा कल गर्नुहोस । ",
 
     "Video": "भीडीयो",
-    "sect3_video_blurb": "हेर्नुनै विस्वाश गर्नु हो । \n मुहार हेरी  सुरकक्षित भीडीयो कल गर्नुहोस ।",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "हेर्नुनै विस्वाश गर्नु हो । <br> मुहार हेरी  सुरकक्षित भीडीयो कल गर्नुहोस ।",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
 
     "Security": "सुरकक्ष्या",
-    "sect4_security_blurb": "qTox ले तपाइको प्राइभेसी हलुका रुपले लिदैन । <br/><span class=\"text bold\">एकदम कडा encryption</span>भएकोले, तपाईको मेसेज पाउनु पर्नेले मात्र पाउन र पढन सक्ने भएकोले तपैहरु ढुक्क हुनु भए हुन्छ ।",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox ले तपाइको प्राइभेसी हलुका रुपले लिदैन । <br/><span class=\"text bold\">एकदम कडा encryption</span>भएकोले, तपाईको मेसेज पाउनु पर्नेले मात्र पाउन र पढन सक्ने भएकोले तपैहरु ढुक्क हुनु भए हुन्छ ।",
 
     "Ease of Use": "सजिलो प्रयोग",
-    "sect4_easy_blurb": "अरु प्राइभेट मेसेज गर्ने प्रोग्राम चलाउन गारो भए पनि, qTox चलाउन तपाई प्रोग्रामर हुनु पर्दैन । qTox सुरुदेखिनै <span class=\"text bold\">सजिलै चलाउन</span> मिल्ने interface दिन्छ जसले तपाइको बार्ता सजिलो र सफल बनाउछ ।",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "अरु प्राइभेट मेसेज गर्ने प्रोग्राम चलाउन गारो भए पनि, qTox चलाउन तपाई प्रोग्रामर हुनु पर्दैन । qTox सुरुदेखिनै <span class=\"text bold\">सजिलै चलाउन</span> मिल्ने interface दिन्छ जसले तपाइको बार्ता सजिलो र सफल बनाउछ ।",
 
     "Freedom": "स्वतन्त्रता",
-    "sect4_freedom_blurb": "qTox चलाउन र फरक गर्न फ्री हो । तपाईले qTox लाई मोडीफाई गर्न पनि फ्री हो । थप, <span class=\"text bold\">qTox ले आडबाट र अरु फीचरको लागि पैसा लिने भनेर  पनि सताउदैन ।</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox चलाउन र फरक गर्न फ्री हो । तपाईले qTox लाई मोडीफाई गर्न पनि फ्री हो । थप, <span class=\"text bold\">qTox ले आडबाट र अरु फीचरको लागि पैसा लिने भनेर  पनि सताउदैन ।</span>",
 
     "Free Software": "फ्री सोफ्टवेर",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "हामी <span class=\"text normal\">संसारभरिबाट आएका </span>रमाइलो मानिस हौँ ।",
 
-    "sect5_github": "मदत गर्न चाहनुहुन्छ ? हामी <span class=\"text normal color white\">GitHub</span>मा छौं । \n पैला कोड गरेको हुनु पर्दैन ।",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "मदत गर्न चाहनुहुन्छ ? हामी <span class=\"text normal color white\">GitHub</span>मा छौं । <br> पैला कोड गरेको हुनु पर्दैन ।",
     "Source on GitHub": "GitHub मा स्वोर्स ",
 
     "Keep in the loop": "Keep in the loop",
-    "sect6_mailinglist": "Subscribe to our mailing list for updates about qTox's progress.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Subscribe to our mailing list for updates about qTox's progress.",
     "email address": "email address",
 
     "Need some help?": "मदत चाहिएको छ?",
-    "sect6_githubtoirc": "आफ्नै प्रोजेक्ट सुरु गर्नुहोस र हामीलाई सोध्नुहोस <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> मा !",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "आफ्नै प्रोजेक्ट सुरु गर्नुहोस र हामीलाई सोध्नुहोस <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> मा !",
 
     "Developer Links": "Developer Links",
     "Development blog": "Development blog",
     "Documentation": "Documentation",
 
     "Donate": "Donate",
-    "donate_about": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!",
 
     "missedplatform": "Not your platform?",
     "connect": "for"

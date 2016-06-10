@@ -17,64 +17,64 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Veilig chatten voor iedereen",
-    "sect1_description": "Ondanks constante surveillantie door de overheid, is het mogelijk met qTox te chatten met iedereen zonder dat anderen het kunnen lezen.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Ondanks constante surveillantie door de overheid, is het mogelijk met qTox te chatten met iedereen zonder dat anderen het kunnen lezen.",
     "Learn more": "Lees Meer",
     "Download": "Download",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "Over qTox",
     "About Tox": "Over Tox",
 
-    "sect2_aboutbody": "qTox is gemaakt met het doel u met uw vrienden en familie te laten chatten zonder dat uw privacy wordt\n geschonden. Terwijl andere bekende diensten geld vragen voor bepaalde functies van het programma, is\n qTox gratis en compleet veilig. Dat betekent dat u vrij bent om qTox naar verlangen aan te passen.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox is gemaakt met het doel u met uw vrienden en familie te laten chatten zonder dat uw privacy wordt<br> geschonden. Terwijl andere bekende diensten geld vragen voor bepaalde functies van het programma, is<br> qTox gratis en compleet veilig. Dat betekent dat u vrij bent om qTox naar verlangen aan te passen.",
 
 
     "Instant messaging, video conferencing, and more": "Instant messaging, videogesprekken, en meer",
 
     "Messages": "Berichten",
-    "sect3_messages_blurb": "In de palm van uw hand.\n U kunt altijd chatten met een versleutelde verbinding.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "In de palm van uw hand.<br> U kunt altijd chatten met een versleutelde verbinding.",
 
     "Calls": "Gesprekken",
-    "sect3_voice_blurb": "Blijf in contact.\n Maak gratis en beveiligde telefoongesprekken naar andere qToxgebruikers.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Blijf in contact.<br> Maak gratis en beveiligde telefoongesprekken naar andere qToxgebruikers.",
 
     "Video": "Video",
-    "sect3_video_blurb": "Zien is geloven.\n Het is met qTox ook mogelijk om videogesprekken te maken.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Zien is geloven.<br> Het is met qTox ook mogelijk om videogesprekken te maken.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
 
     "Security": "Beveiliging",
-    "sect4_security_blurb": "qTox neemt uw privacy serieus.<br/>met <span class=\"text bold\">kwalitatief hoogstaande versleutelingsmethoden</span>, kunt u er zeker van zijn dat uw gesprekspartner ook de enige is die uw berichten kan lezen.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox neemt uw privacy serieus.<br/>met <span class=\"text bold\">kwalitatief hoogstaande versleutelingsmethoden</span>, kunt u er zeker van zijn dat uw gesprekspartner ook de enige is die uw berichten kan lezen.",
 
     "Ease of Use": "Gebruiksvriendelijkheid",
-    "sect4_easy_blurb": "Om qTox te gebruiken hoeft u geen professionele programmeur te zijn. Dankzij qTox's <span class=\"text bold\">gebruiksvriendelijke</span> uiterlijk kunt u zich compleet richten op de conversatie.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Om qTox te gebruiken hoeft u geen professionele programmeur te zijn. Dankzij qTox's <span class=\"text bold\">gebruiksvriendelijke</span> uiterlijk kunt u zich compleet richten op de conversatie.",
 
     "Freedom": "Vrijheid",
-    "sect4_freedom_blurb": "qTox is gratis te gebruiken en te modificeren, u kunt qTox compleet naar verlangen aanpassen zonder enige extra kosten. Bovendien, <span class=\"text bold\"> zal qTox u nooit advertenties tonen of geld vragen voor extra functies.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox is gratis te gebruiken en te modificeren, u kunt qTox compleet naar verlangen aanpassen zonder enige extra kosten. Bovendien, <span class=\"text bold\"> zal qTox u nooit advertenties tonen of geld vragen voor extra functies.</span>",
 
 
     "sect5_contribute": "Help mee",
 
-    "sect5_github": "Wilt u meehelpen? qTox staat op <span class=\"text normal color white\">GitHub</span>.\n Programmeringservaring is niet nodig om een contributie te leveren .",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Wilt u meehelpen? qTox staat op <span class=\"text normal color white\">GitHub</span>.<br> Programmeringservaring is niet nodig om een contributie te leveren .",
     "Source on GitHub": "Source op GitHub",
 
     "Free Software": "Gratis software",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Wij zijn programmeurs <span class=\"text normal\">van over de hele wereld</span>.",
 
     "Keep in the loop": "Blijf op de hoogte",
-    "sect6_mailinglist": "Geef uzelf nu op voor onze mailinglijst en ontvang updates over de voortgang van qTox",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Geef uzelf nu op voor onze mailinglijst en ontvang updates over de voortgang van qTox",
     "email address": "Emailadres",
 
     "Need some help?": "Hulp nodig?",
-    "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "Links voor developers",
     "Development blog": "Devblog",
     "Documentation": "Documentatie",
 
     "Donate": "Doneer",
-    "donate_about": "Als u wilt weten hoe u uw steentje bij kan dragen in de vorm van een donatie, zie het wiki-artikel <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">Donaties</a>. Bij voorbaat dank!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Als u wilt weten hoe u uw steentje bij kan dragen in de vorm van een donatie, zie het wiki-artikel <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">Donaties</a>. Bij voorbaat dank!",
 
     "missedplatform": "Niet uw besturingssysteem?",
     "connect": "voor"

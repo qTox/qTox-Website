@@ -17,60 +17,60 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "סוג חדש של מסרים מידיים",
-    "sect1_description": "עם העליה של תוכניות ניטור ממשלתיות בהיקף נרחב, qTox הינה תוכנת תקשורת פשוטה, אשר מאפשרת לכם להתחבר לחבריכם ויקיריכם, בלי מאזינים בלתי רצויים.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "עם העליה של תוכניות ניטור ממשלתיות בהיקף נרחב, qTox הינה תוכנת תקשורת פשוטה, אשר מאפשרת לכם להתחבר לחבריכם ויקיריכם, בלי מאזינים בלתי רצויים.",
     "Learn more": "מידע נוסף",
     "Download": "הורדה",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies אינן עבור בעלי לב חלש, אתם עלולים לחוות תקלות, קריסות, ומינון גדול של תסכול. ראו הוזהרתם!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies אינן עבור בעלי לב חלש, אתם עלולים לחוות תקלות, קריסות, ומינון גדול של תסכול. ראו הוזהרתם!",
     "Please choose your distribution": "אנא בחרו את ההפצה שלכם",
 
     "About qTox": "אודות qTox",
     "About Tox": "אודות Tox",
 
-    "sect2_aboutbody": "qTox נבנתה מתוך אמונה כי אתם כן יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.\n בעוד שירותים ידועים דורשים מכם תשלום על מנת לאפשר תכונות מסויימות, qTox הינה חופשית הן במחיר והן בחירות. כלומר, באפשרותכם לעשות עם qTox ככל העולה על רוחכם.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox נבנתה מתוך אמונה כי אתם כן יכולים לשמור על קשר עם חברים ומשפחה בלי פגיעה בפרטיותכם.<br> בעוד שירותים ידועים דורשים מכם תשלום על מנת לאפשר תכונות מסויימות, qTox הינה חופשית הן במחיר והן בחירות. כלומר, באפשרותכם לעשות עם qTox ככל העולה על רוחכם.",
 
 
     "Instant messaging, video conferencing, and more": "תכונות מגניבות",
 
     "Messages": "הודעות",
-    "sect3_messages_blurb": "בקצות אצבעותיכם.\n אתם תמיד מחוברים עם הודעות מיידיות מוצפנות.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "בקצות אצבעותיכם.<br> אתם תמיד מחוברים עם הודעות מיידיות מוצפנות.",
 
     "Calls": "שיחות",
-    "sect3_voice_blurb": "הישארו בקשר.\n שוחחו בחינם ובבטחה עם משתמשי qTox נוספים.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "הישארו בקשר.<br> שוחחו בחינם ובבטחה עם משתמשי qTox נוספים.",
 
     "Video": "וידאו",
-    "sect3_video_blurb": "לראות זה להאמין.\n התעדכנו פנים אל פנים בשיחת וידאו מאובטחת.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "לראות זה להאמין.<br> התעדכנו פנים אל פנים בשיחת וידאו מאובטחת.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
     "Security": "אבטחה",
-    "sect4_security_blurb": "qTox מתייחסת ברצינות לפרטיות שלכם.<br/>עם <span class=\"text bold\">הצפנה מהמתקדמות בעולם</span>, תוכלו להיות סמוכים ובטוחים כי ההודעות שלכם יקראו רק על ידי הנמענים המיועדים.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox מתייחסת ברצינות לפרטיות שלכם.<br/>עם <span class=\"text bold\">הצפנה מהמתקדמות בעולם</span>, תוכלו להיות סמוכים ובטוחים כי ההודעות שלכם יקראו רק על ידי הנמענים המיועדים.",
 
     "Ease of Use": "קלות שימוש",
-    "sect4_easy_blurb": "בניגוד לפתרונות תקשורת מאובטחים אחרים, qTox אינה דורשת מכם להיות מתכנתי מחשבים. qTox מגיעה עם <span class=\"text bold\">ממשק משתמש פשוט</span> אשר מאפשר לכם להתרכז בשיחה.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "בניגוד לפתרונות תקשורת מאובטחים אחרים, qTox אינה דורשת מכם להיות מתכנתי מחשבים. qTox מגיעה עם <span class=\"text bold\">ממשק משתמש פשוט</span> אשר מאפשר לכם להתרכז בשיחה.",
 
     "Freedom": "חופש",
-    "sect4_freedom_blurb": "qTox הינה גם חופשית לשימוש, וגם חופשית לשינוי. אתם חופשיים לחלוטין להשתמש ולשנות את qTox. מעבר לכך, <span class=\"text bold\">qTox לעולם לא תציק לכם עם פרסומות, או תדרוש מכם לשלם עבור תכונות.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox הינה גם חופשית לשימוש, וגם חופשית לשינוי. אתם חופשיים לחלוטין להשתמש ולשנות את qTox. מעבר לכך, <span class=\"text bold\">qTox לעולם לא תציק לכם עם פרסומות, או תדרוש מכם לשלם עבור תכונות.</span>",
 
     "Free Software": "תכנה חופשית",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "אנחנו חבר׳ה מגניבים <span class=\"text normal\">מכל רחבי העולם</span>.",
 
-    "sect5_github": "מעוניינים לעזור? אנו נמצאים ב־<span class=\"text normal color white\">GitHub</span>.\n אין צורך בנסיון תכנות.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "מעוניינים לעזור? אנו נמצאים ב־<span class=\"text normal color white\">GitHub</span>.<br> אין צורך בנסיון תכנות.",
     "Source on GitHub": "קוד מקור ב־GitHub",
 
     "Keep in the loop": "הישארו בעניינים",
-    "sect6_mailinglist": "הצטרפו לרשימת התפוצה שלנו לעדכונים על ההתקדמות של qTox.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "הצטרפו לרשימת התפוצה שלנו לעדכונים על ההתקדמות של qTox.",
     "email address": "כתובת דוא״ל",
 
     "Need some help?": "צריכים עזרה?",
-    "sect6_githubtoirc": "התחילו את הפרוייקט שלכם ושאלו אותנו ב־<span class=\"text normal\">GitHub</span>, או ב־<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "התחילו את הפרוייקט שלכם ושאלו אותנו ב־<span class=\"text normal\">GitHub</span>, או ב־<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Developer Links": "קישורי פיתוח",
     "Development blog": "בלוג פיתוח",
     "Documentation": "תיעוד",
 
     "Donate": "תרמו",
-    "donate_about": "כדי לראות כיצד אתם יכולים לעזור באמצעות תרומה, אנא בקרו במאמר ויקי <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">תרומות</a>. תודה לכם!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "כדי לראות כיצד אתם יכולים לעזור באמצעות תרומה, אנא בקרו במאמר ויקי <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">תרומות</a>. תודה לכם!",
 
     "missedplatform": "לא הפלטפורמה שלכם?",
     "connect": "עבור"

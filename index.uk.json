@@ -16,44 +16,44 @@
     "User manual": "User manual",
 
     "A New Kind of Instant Messaging": "Безпечне спілкування для кожного.",
-    "sect1_description": "Поки уряди багатьох країн по всьому світу впроваджують різноманітні програми спостереження, qTox дозволяє бути на зв’язку зі знайомими та близькими, не боячись підслуховування.",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Поки уряди багатьох країн по всьому світу впроваджують різноманітні програми спостереження, qTox дозволяє бути на зв’язку зі знайомими та близькими, не боячись підслуховування.",
     "Learn more": "Дізнатись більше",
     "Download": "Завантажити",
     "Nightlies": "Nightlies",
-    "download_warning": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!",
     "Please choose your distribution": "Please choose your distribution",
 
     "About qTox": "Про qTox",
     "About Tox": "Про Tox",
 
-    "sect2_aboutbody": "Головна мета qTox полягає в тому, щоб надати вам можливість спілкуватися з друзями та родиною без порушення конфіденційності.\n Інші знайомі сервіси потребують оплати додаткових можливостей, у той час як qTox є одночасно безкоштовним і вільним.\n Ви владні робити з qTox що забажаєте.",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Головна мета qTox полягає в тому, щоб надати вам можливість спілкуватися з друзями та родиною без порушення конфіденційності.<br> Інші знайомі сервіси потребують оплати додаткових можливостей, у той час як qTox є одночасно безкоштовним і вільним.<br> Ви владні робити з qTox що забажаєте.",
 
     "Instant messaging, video conferencing, and more": "Миттєві повідомлення, відео-конференції — і це ще не все",
 
     "Messages": "Повідомлення",
-    "sect3_messages_blurb": "Завжди під рукою.\n Будьте повсякчас у курсі справ завдяки захищеному шифрованому листуванню.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Завжди під рукою.<br> Будьте повсякчас у курсі справ завдяки захищеному шифрованому листуванню.",
 
     "Calls": "Дзвінки",
-    "sect3_voice_blurb": "Залишайтеся на зв’язку.\n Дзвінки іншим користувачам qTox безкоштовні та захищені.",
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Залишайтеся на зв’язку.<br> Дзвінки іншим користувачам qTox безкоштовні та захищені.",
 
     "Video": "Відео",
-    "sect3_video_blurb": "Хто чув, той ще не бачив.\n Спілкуйтеся через захищені відео-дзвінки.",
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "Хто чув, той ще не бачив.<br> Спілкуйтеся через захищені відео-дзвінки.",
 
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
 
 
     "Security": "Захищеність",
-    "sect4_security_blurb": "qTox серйозно ставиться до конфіденційності.<br/>З <span class=\"text bold\">довершеним шифруванням</span> можна бути впевненим, що ваші повідомлення прочитають лише адресати.",
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox серйозно ставиться до конфіденційності.<br/>З <span class=\"text bold\">довершеним шифруванням</span> можна бути впевненим, що ваші повідомлення прочитають лише адресати.",
 
     "Ease of Use": "Простота використання",
-    "sect4_easy_blurb": "На відміну від інших засобів захищеного листування, для користування qTox спеціальні знання не обов’язкові. qTox працює відразу та має <span class=\"text bold\">дружній інтерфейс</span>, що дозволяє зосередитися на розмовах.",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "На відміну від інших засобів захищеного листування, для користування qTox спеціальні знання не обов’язкові. qTox працює відразу та має <span class=\"text bold\">дружній інтерфейс</span>, що дозволяє зосередитися на розмовах.",
 
     "Freedom": "Свобода",
-    "sect4_freedom_blurb": "qTox безкоштовний та вільний. Ви можете використовувати й модифікувати qTox як забажаєте. На додаток, <span class=\"text bold\">qTox ніколи не турбуватиме вас рекламою та не забажає грошей.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox безкоштовний та вільний. Ви можете використовувати й модифікувати qTox як забажаєте. На додаток, <span class=\"text bold\">qTox ніколи не турбуватиме вас рекламою та не забажає грошей.</span>",
 
     "sect5_contribute": "Зробіть внесок",
 
-    "sect5_github": "Бажаєте допомогти? qTox на <span class=\"text normal color white\">GitHub</span>.\n Досвід у програмуванні не обов’язковий.",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Бажаєте допомогти? qTox на <span class=\"text normal color white\">GitHub</span>.<br> Досвід у програмуванні не обов’язковий.",
     "Source on GitHub": "Код на GitHub",
 
     "Free Software": "Вільне програмування",
@@ -63,10 +63,10 @@
     "sect6_joinongithub": "Допоможіть створити TOX на <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
 
     "Need some help?": "Потрібна допомога?",
-    "sect6_githubtoirc": "Розпочніть власний проект та завітайте до нас на <span class=\"text normal\">GitHub</span> або в <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Розпочніть власний проект та завітайте до нас на <span class=\"text normal\">GitHub</span> або в <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
 
     "Keep in the loop": "Тримаймось на зв’язку",
-    "sect6_mailinglist": "Підпишіться на нашу розсилку щоб слідкувати за новинами розробки qTox-у.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Підпишіться на нашу розсилку щоб слідкувати за новинами розробки qTox-у.",
     "email address": "електронна адреса",
 
     "Developer Links": "Посилання для розробників",
@@ -74,7 +74,7 @@
     "Documentation": "Документація",
 
     "Donate": "Пожертвувати",
-    "donate_about": "Дізнайтесь більше, як допомогти проекту на нашій вікі-сторінці про <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">пожертвування</a>. Дякуємо!",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Дізнайтесь більше, як допомогти проекту на нашій вікі-сторінці про <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">пожертвування</a>. Дякуємо!",
 
     "missedplatform": "Інші платформи",
     "connect": "для"
