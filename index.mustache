@@ -17,6 +17,7 @@
     @import url('./assets/css/tuktuk.theme.min.css');
     @import url('./assets/css/tuktuk.icons.min.css');
     @import url('./assets/css/font-awesome.css');
+    @import url('./assets/css/language-menu-top.css');
     </style>
 </head>
 
@@ -39,6 +40,7 @@
                 <a href="https://github.com/tux3/qTox/wiki#contributing">[[[Contribute]]]</a>
                 <a href="https://github.com/tux3/qTox/tree/master/doc">[[[Documentation]]]</a>
                 <a href="https://www.reddit.com/r/projecttox"><span class="fa fa-reddit-square" style="font-size: 16.5pt; margin-left:20px; margin-top: 10px; float: right;"></span></a>
+                <a href="#languages" id="langbutton"><img src="assets/imgs/flags/{{{lang_shortcode}}}.png" alt="" class="flag"> [[[Language]]]</a>
             </nav>
         </div>
     </header>
@@ -125,7 +127,7 @@
                 </div>
             </div>
         </section>
-        <section class="bck light padding text small">
+        <section class="bck light padding text small" id="languages">
             <div class="row margin-top margin-bottom">
                 {{#languages}}
                 <a href="{{{lang_shortcode}}}.html">{{{lang_name}}}</a>{{^last}}&nbsp; &middot; &nbsp;{{/last}}
