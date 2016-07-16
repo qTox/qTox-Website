@@ -10,7 +10,7 @@ nav
     -webkit-box-shadow: inset 0px 0px 20px -6px rgba(0,0,0,0.71);
     -moz-box-shadow: inset 0px 0px 20px -6px rgba(0,0,0,0.71);
     box-shadow: inset 0px 0px 20px -6px rgba(0,0,0,0.71);
-    padding: 0 .7em 0 .7em;
+    padding: .3em .3em .3em .3em;
     border-radius: .4em;
     width: 6em;
     text-align: center;
