@@ -43,8 +43,7 @@ def do_format_template(name, template):
             if isinstance(values[key], str):
                 values[key] = values[key].replace("\n", "<br>")
         lang_list.append({"lang_name": values["Language"],
-                          "lang_shortcode": language,
-                          "ind": values["_ind"]})
+                          "lang_shortcode": language})
 
         temp = main_values.copy()
         temp.update(values)
