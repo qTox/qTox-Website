@@ -1,80 +1,58 @@
 {
-    "_author": "wizardist",
+    "_author": "wizardist.",
     "Language": "Беларуская",
     "lang_shortcode": "be",
-    "_comment": "",
-
+    "_comment": "Перакладайце толькі гэты файл, не іншыя!",
     "qTox: A New Kind of Instant Messaging": "qTox: Новы спосаб абмену паведамленнямі",
-
     "Home": "Хатняя",
     "About": "Пра праект",
     "Features": "Магчымасьці",
     "Contribute": "Вазьміце ўдзел",
     "Wiki": "Вікі",
-    "Support": "",
-    "Source": "",
-    "User manual": "",
-    "Languages": "",
-
+    "Support": "Падтрымка",
+    "Source": "Зыходнікі",
+    "User manual": "Даведнік карыстальніка",
+    "Languages": "Мовы",
     "A New Kind of Instant Messaging": "Бясьпечная сувязь для кожнага",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Урады па ўсім сьвеце ствараюць праграмы сачэньня за людзьмі. qTox — лёгкая ў карыстаньні праграмма, якая дазволіць вам злучацца з сябрамі і блізкімі без староньніх вушэй.",
     "Learn more": "Больш зьвестак",
     "Download": "Спампаваць",
-    "Nightlies": "",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
-    "Please choose your distribution": "",
-
+    "Nightlies": "Начныя зборкі",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Начныя сборкі не для слабога сэрца. Вы можаце сутыкнуцца з хібамі, крушэннямі, і атрымаць вялікую дозу засмучэння. Будзьце асцярожнымі!",
+    "Please choose your distribution": "Калі ласка, выбераце ваш дыстрыбутыў",
     "About qTox": "Пра qTox",
     "About Tox": "Пра Tox",
-
     "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox (токс) створаны, каб даць вам магчымасьць падтрымліваць сувязь з сябрамі і сям’ёй без турботы пра вашую прыватнасьць.<br> qTox распаўсюджваецца вольна: і ў сэнсе грошаў, і ў сэнсе свабоды; цяперашнія ж лідэры рынку патрабуюць ад вас набыцьця ўсіх функцыяў за грошы.<br> Вы можаце рабіць з qTox усё, што пажадаеце.",
-
-
     "Instant messaging, video conferencing, and more": "Імгненныя паведамленьні, відэа-канфэрэнцыі і больш",
-
     "Messages": "Паведамленьні",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Заўсёды рукою дастаць.<br> Імгненная і бясьпечная перапіска.",
-
     "Calls": "Званкі",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Будзьце на сувязі.<br> Бясплатныя і бясьпечныя званкі паміж карыстальнікамі qTox.",
-
     "Video": "Відэа",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Верце ня сказу, а паказу.<br> Бясьпечныя відэавыклікі для перамоваў сам-насам.",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "Бясьпека",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox натуральна рупіцца пра вашую прыватнасьць.<br/>Дзякуючы <span class=\"text bold\">перадавым тэхнікам шыфраваньня</span> вы можаце быць упэўненыя, што вашыя паведамленьні прачытаюць толькі сапраўдныя адрасаты.",
-
     "Ease of Use": "Лёгкасьць",
     "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Ня трэба быць адмыслоўцам, каб карыстацца qTox, як гэта бывае з іншымі шыфравальнымі праграмамі. Працу з qTox можна пачаць адразу па ўсталяваньні, а <span class=\"text bold\">лёгкі ў карыстаньні</span> інтэрфэйс дапаможа сканцэнтравацца на вашых размовах.",
-
     "Freedom": "Свабода",
     "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox — свабоднае апраграмаваньне. Вы можаце як проста карыстацца qTox, гэтак і зьмяняць яго пад вашыя патрэбы. Пагатоў, <span class=\"text bold\">qTox ніколі не патурбуе вас рэклямай або патрабаваньнем заплаціць за паслугі.</span>",
-
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Жадаеце дапамагчы? Знаходзьце нас на <span class=\"text normal color white\">GitHub</span>.<br> Досьвед у распрацоўцы не патрабуецца.",
     "Source on GitHub": "Код на GitHub",
-
     "Free Software": "Вольнае апраграмаваньне",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Праект складаюць выдатныя людзі <span class=\"text normal\">з усяго сьвету</span>.",
-
     "sect6_jointheteam": "Далучайцеся да каманды",
     "sect6_joinongithub": "Дапамагайце рабіць TOX на <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
-
     "Need some help?": "Патрэбная дапамога?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Пачынайце ўласны праект і зьвяртайцеся да нас на <span class=\"text normal\">GitHub</span> або ў <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-
     "Keep in the loop": "Будзем на сувязі",
     "Subscribe to our mailing list for updates about qTox's progress.": "Падпішыцеся на нашу рассылку каб сачыць за навінамі распрацоўкі qTox-а.",
     "email address": "электронна пошта",
-
     "Developer Links": "Спасылкі для распрацоўнікаў",
     "Development blog": "Блог распрацоўнікаў",
     "Documentation": "Дакументацыя",
-
-    "Donate": "",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
-
-    "missedplatform": "Not your platform?",
-    "connect": "for"
+    "Donate": "Ахвяраваць",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Каб дазнацца, як вы можаце нам дапамагчы ахвяраваннем, калі ласка, наведайце нашу старонку <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">ахвяраванняў</a>. Дзякуй!",
+    "missedplatform": "Не ваша платформа?",
+    "connect": "для"
 }
