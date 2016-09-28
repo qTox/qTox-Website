@@ -1,5 +1,5 @@
 {
-    "_author": "notadecent, Martijnvdc, Ronald245",
+    "_author": "",
     "Language": "Nederlands",
     "lang_shortcode": "nl",
     "_comment": "v1.6",
@@ -50,10 +50,10 @@
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start je eigen project en praat mee op <span class=\"text normal\">GitHub</span> of op <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
     "Developer Links": "Links voor ontwikkelaars",
     "Doxygen": "Doxygen",
-    "Development blog": "Devblog",
+    "Development blog": "Ontwikkelaarsblog",
     "Documentation": "Documentatie",
     "Donate": "Doneer",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Als u wilt weten hoe u uw steentje bij kan dragen in de vorm van een donatie, zie het wiki-artikel <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">Donaties</a>. Bij voorbaat dank!",
-    "missedplatform": "Niet uw besturingssysteem?",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Als je wil weten hoe je je steentje bij kan dragen in de vorm van een donatie, zie het wiki-artikel <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">Donaties</a>. Dankjewel!",
+    "missedplatform": "Niet je besturingssysteem?",
     "connect": "voor"
 }
