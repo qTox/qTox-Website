@@ -3,82 +3,57 @@
     "Language": "Nederlands",
     "lang_shortcode": "nl",
     "_comment": "v1.6",
-
-    "qTox: A New Kind of Instant Messaging": "",
-
-    "Home": "",
+    "qTox: A New Kind of Instant Messaging": "qTox: een nieuw soort chatten",
+    "Home": "Start",
     "About": "Over",
     "Features": "Mogelijkheden",
     "Contribute": "Help mee",
-    "Wiki": "",
+    "Wiki": "Wiki",
     "nv_blog": "Blog",
-    "Support": "",
-    "Source": "",
-    "User manual": "",
-    "Languages": "",
-
-    "A New Kind of Instant Messaging": "Veilig chatten voor iedereen",
-    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Ondanks constante surveillantie door de overheid, is het mogelijk met qTox te chatten met iedereen zonder dat anderen het kunnen lezen.",
-    "Learn more": "Lees Meer",
-    "Download": "",
-    "Nightlies": "",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
-    "Please choose your distribution": "",
-
+    "Support": "Ondersteuning",
+    "Source": "Bron",
+    "User manual": "Gebruikershandleiding",
+    "Languages": "Talen",
+    "A New Kind of Instant Messaging": "Een nieuw soort chatten",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Tegen de opkomst van overheidstoezicht beidt qTox een eenvoudig te gebruiken toepassingen die je toelaat te verbinden met vrienden en familie zonder dat iemand anders kan meeluisteren. Terwijl andere bekende diensten vereisen dat je betaalt voor functies is qTox volledig vrij en gratis, en is er geen ingebouwde reclame.",
+    "Learn more": "Lees meer",
+    "Download": "Downloaden",
+    "Nightlies": "Nightlies",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies zijn niet voor de zwakkeren van hart. Je kan bugs, crashes en grote porties frustratie tegenkomen. Je bent gewaarschuwd!",
+    "Please choose your distribution": "Kies je distributie",
     "About qTox": "Over qTox",
     "About Tox": "Over Tox",
-
-    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox is gemaakt met het doel u met uw vrienden en familie te laten chatten zonder dat uw privacy wordt<br> geschonden. Terwijl andere bekende diensten geld vragen voor bepaalde functies van het programma, is<br> qTox gratis en compleet veilig. Dat betekent dat u vrij bent om qTox naar verlangen aan te passen.",
-
-
-    "Instant messaging, video conferencing, and more": "Instant messaging, videogesprekken, en meer",
-
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Het lijkt erop dat elke overheid geïnteresseerd is in wat we online zeggen. qTox bouwt op het \"privacy eerst\"-principe, en we sluiten geen compromissen. Je veiligheid is van het grootste belang, en niets in de wereld zal dat veranderen.",
+    "Instant messaging, video conferencing, and more": "Chatten, videogesprekken, en meer",
     "Messages": "Berichten",
-    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "In de palm van uw hand.<br> U kunt altijd chatten met een versleutelde verbinding.",
-
-    "Calls": "Gesprekken",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "In de palm van je hand.<br> Je kan altijd chatten met een versleutelde verbinding.",
+    "Calls": "Bellen",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Blijf in contact.<br> Maak gratis en beveiligde telefoongesprekken naar andere qToxgebruikers.",
-
-    "Video": "",
+    "Video": "Video",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Zien is geloven.<br> Het is met qTox ook mogelijk om videogesprekken te maken.",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
-
     "Security": "Beveiliging",
-    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox neemt uw privacy serieus.<br/>met <span class=\"text bold\">kwalitatief hoogstaande versleutelingsmethoden</span>, kunt u er zeker van zijn dat uw gesprekspartner ook de enige is die uw berichten kan lezen.",
-
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox neemt je privacy serieus.<br/>Met <span class=\"text bold\">kwalitatief hoogstaande versleutelingsmethoden</span> kan je er zeker van zijn dat je gesprekspartner ook de enige is die je berichten kan lezen.",
     "Ease of Use": "Gebruiksvriendelijkheid",
-    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Om qTox te gebruiken hoeft u geen professionele programmeur te zijn. Dankzij qTox's <span class=\"text bold\">gebruiksvriendelijke</span> uiterlijk kunt u zich compleet richten op de conversatie.",
-
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Om qTox te gebruiken hoef je geen professionele programmeur te zijn. Dankzij het <span class=\"text bold\">gebruiksvriendelijke</span> uiterlijk van qTox kan je je volledig richten op je gesprekken.",
     "Freedom": "Vrijheid",
-    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox is gratis te gebruiken en te modificeren, u kunt qTox compleet naar verlangen aanpassen zonder enige extra kosten. Bovendien, <span class=\"text bold\"> zal qTox u nooit advertenties tonen of geld vragen voor extra functies.</span>",
-
-
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox is vrij te gebruiken en te modificeren, je kan qTox volledig naar verlangen aanpassen zonder enige extra kosten. Bovendien <span class=\"text bold\"> zal qTox nooit advertenties tonen of geld vragen voor extra functies.</span>",
     "sect5_contribute": "Help mee",
-
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Wilt u meehelpen? qTox staat op <span class=\"text normal color white\">GitHub</span>.<br> Programmeringservaring is niet nodig om een contributie te leveren .",
-    "Source on GitHub": "Source op GitHub",
-
-    "Free Software": "Gratis software",
-    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Wij zijn programmeurs <span class=\"text normal\">van over de hele wereld</span>.",
-
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Wil je meehelpen? qTox staat op <span class=\"text normal color white\">GitHub</span>.<br> Programmeerervaring is niet nodig.",
+    "Source on GitHub": "Broncode op GitHub",
+    "Free Software": "Vrije software",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Wij zijn coole mensen <span class=\"text normal\">van over de hele wereld</span>.",
     "Keep in the loop": "Blijf op de hoogte",
-    "Subscribe to our mailing list for updates about qTox's progress.": "Geef uzelf nu op voor onze mailinglijst en ontvang updates over de voortgang van qTox",
-    "email address": "Emailadres",
-
+    "Subscribe to our mailing list for updates about qTox's progress.": "Schrijf je in voor onze mailinglijst en ontvang updates over de voortgang van qTox.",
+    "email address": "e-mailadres",
     "Need some help?": "Hulp nodig?",
-    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-
-    "Developer Links": "Links voor developers",
-    "Doxygen": "",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start je eigen project en praat mee op <span class=\"text normal\">GitHub</span> of op <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Developer Links": "Links voor ontwikkelaars",
+    "Doxygen": "Doxygen",
     "Development blog": "Devblog",
     "Documentation": "Documentatie",
-
     "Donate": "Doneer",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Als u wilt weten hoe u uw steentje bij kan dragen in de vorm van een donatie, zie het wiki-artikel <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">Donaties</a>. Bij voorbaat dank!",
-
     "missedplatform": "Niet uw besturingssysteem?",
     "connect": "voor"
-
 }
