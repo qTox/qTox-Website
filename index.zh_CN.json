@@ -1,11 +1,9 @@
 {
-    "_author": "Fivesheep,願い星",
+    "_author": "Fivesheep、願い星",
     "Language": "简体中文",
     "lang_shortcode": "zh_CN",
     "_comment": "",
-
     "qTox: A New Kind of Instant Messaging": "",
-
     "Home": "主页",
     "About": "关于",
     "Features": "特性",
@@ -15,7 +13,6 @@
     "Source": "",
     "User manual": "",
     "Languages": "",
-
     "A New Kind of Instant Messaging": "属于每个人的安全通信",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "qTox 是一个易于使用的软件，当你与亲人和朋友在网络上进行信息交流的时候，它能帮助你有效地避免日益加剧的来自各国政府的网络监控程序的偷窥",
     "Learn more": "了解更多",
@@ -23,54 +20,36 @@
     "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies 版本不是给心脏无力者使用，您可能会遇到 bug, crashes 和与很大的挫折。 您已经被警告过了！",
     "Please choose your distribution": "请选择您要的发行版本",
-
     "About qTox": "关于 qTox",
     "About Tox": "关于 Tox",
-
     "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox 的理念是防止你的个人隐私在你与亲人和朋友进行交流的时候受到侵犯。市面上也有一些提供类似功能的软件, 但基本上都是需要付费才能获得比较完整的体验。<br>而 qTox 则是分文不取，而且对用户也没有任何限制。你想用 qTox 做什么都是你的自由。",
-
-
     "Instant messaging, video conferencing, and more": "持续的消息，视频会议以及更多",
-
     "Messages": "文本通信",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "在你的指尖之上。你的消息将被完全加密。",
-
     "Calls": "通话",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "保持联系。使用 qTox 进行免费的加密语音通话。",
-
     "Video": "视频",
-    "Seeing is believing.<br> Catch up face to face with a secure video call.":  "眼见为实，现在就来体验面对面加密视频电话。",
-
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "眼见为实，现在就来体验面对面加密视频电话。",
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "安全问题",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox 为你严守隐私。<br/> 有了<span class=\"text bold\">顶尖加密程序</span>，除了你要联系的人。没有别人都窥探到你半点隐私。",
-
     "Ease of Use": "易于使用",
     "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "不像别的加密聊天程序，qTox 易于使用，任何人都能轻松上手. 这样你能把精力都集中在聊天之上。",
-
     "Freedom": "自由",
     "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox 是完全免费使用的自由软件，你可以任意修改和分发 qTox。qTox永远不会发广告骚扰你，也不会让你为了一些附加特性付钱。",
-
     "Free Software": "自由软体",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "我们是<span class=\"text normal\">来自全世界</span>的朋友",
-
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "想要提供帮助? 我们在这里 <span class=\"text normal color white\">GitHub</span>.<br> 你不需要有任何编程经验",
     "Source on GitHub": "Github上的源代码",
-
     "Keep in the loop": "成为圈内人",
     "Subscribe to our mailing list for updates about qTox's progress.": "订阅我们的邮件列表以取得关于 qTox 的进展",
     "email address": "email 地址",
-
     "Need some help?": "需要协助？",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "在<span class=\"text normal\"> GitHub </span>上建立您自己的项目并且让我们加入，或者加入这个<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\"> IRC </a>频道！",
-
     "Developer Links": "开发者连结",
     "Doxygen": "",
     "Development blog": "开发部落格",
     "Documentation": "文件",
-
     "Donate": "赞助",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "想瞭解我们如何运用你的捐款，请见我们的 <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">赞助</a> wiki 页。谢谢您！"
-
 }
