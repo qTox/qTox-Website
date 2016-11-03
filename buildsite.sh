@@ -19,8 +19,9 @@ translate_files() {
     do
         local lang_name=$(get_lang_name "$json_file")
         local web_file="site/$lang_name.html"
-        ./"$tool" "$web_file" "$json_file" & # muh parallel
+        ./"$tool" "$web_file" "$json_file" & # muh parallel, improvement up to 100ms
     done
+    wait # for parallel to finish
 }
 
 main() {
