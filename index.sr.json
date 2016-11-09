@@ -4,7 +4,7 @@
     "lang_shortcode": "sr",
     "_comment": "За превод у друге језике користити оригинални енглески превод (index.en.json)!",
 
-    "qTox: A New Kind of Instant Messaging": "qTox: Нова врста сланja истовремених порука",
+    "qTox: A New Kind of Instant Messaging": "qTox: Нова врста слањa истовремених порука",
 
     "Home": "Почетна",
     "About": "О пројекту",
@@ -74,6 +74,6 @@
     "Donate": "",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
 
-    "missedplatform": "Not your platform?",
-    "connect": "for"
+    "missedplatform": "Није ваша платформа?",
+    "connect": "за"
 }
