@@ -2,7 +2,7 @@
     "_author": "Proplex, stal, anonymous translator, sharydow, chaf, Calinou, AcidNinjaFWHR et al.",
     "Language": "Français",
     "lang_shortcode": "fr",
-    "_comment": "French version 1.3, add strings that were recently added, update the outdated strings.",
+    "_comment": "French - Français - version 1.4 !",
     "qTox: A New Kind of Instant Messaging": "qTox: la messagerie sécurisée pour tous",
     "Home": "Accueil",
     "About": "À propos",
@@ -49,11 +49,11 @@
     "Need some help?": "Besoin d'aide ?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Lancez votre propre projet et posez-nous vos questions sur <span class=\"text normal\">GitHub</span>, ou sur notre <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> !",
     "Developer Links": "Liens pour développeurs",
-    "Doxygen": "Documentation (Doxygen)",
+    "Doxygen": "Doxygen",
     "Development blog": "Blog des développeurs",
     "Documentation": "Documentation",
     "Donate": "Faire un don",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Pour voir comment vous pouvez aider en faisant un don, consultez notre <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">page sur les dons</a>. Merci !",
-    "missedplatform": "Autre système?",
+    "missedplatform": "Autre système ?",
     "connect": "pour"
 }
