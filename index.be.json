@@ -57,6 +57,6 @@
     "Documentation": "Дакументацыя",
     "Donate": "Ахвяраваць",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Каб дазнацца, як вы можаце нам дапамагчы ахвяраваннем, калі ласка, наведайце нашу старонку <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">ахвяраванняў</a>. Дзякуй!",
-    "missedplatform": "Не ваша платформа?",
+    "missedplatform": "missedplatform",
     "connect": "для"
 }
