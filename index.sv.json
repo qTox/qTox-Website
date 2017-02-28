@@ -2,21 +2,18 @@
     "_author": "LumenTeun, forsevin, Zarkann",
     "Language": "Svenska",
     "lang_shortcode": "sv",
-
     "qTox: A New Kind of Instant Messaging": "qTox: En Ny Sorts Chatt",
-
     "Home": "Hem",
     "About": "Om",
     "Features": "Funktioner",
-    "Help us": "",
+    "Help us": "Hjälp oss",
     "Contribute": "Bidra",
-    "Wiki": "",
-    "Support": "",
-    "Blog": "",
-    "Source": "",
-    "User manual": "",
-    "Languages": "",
-
+    "Wiki": "Wiki",
+    "Support": "Support",
+    "Blog": "Blogg",
+    "Source": "Källa",
+    "User manual": "Användarhandbok",
+    "Languages": "Språk",
     "A New Kind of Instant Messaging": "En Ny Sorts Chatt",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Med en ökning av statlig övervakning är qTox ett användarvänligt program som tillåter dig att kommunicera med vänner och familj utan att någon spionerar på er. Medans andra kända tjänster kräver att du betalar för funktioner så är qTox helt gratis, och kommer utan reklam.",
     "Learn more": "Lär dig mer",
@@ -24,54 +21,37 @@
     "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nightlies är inte för de svaghjärtade, du kan stöta på buggar, krashar, och höga doser frustraton. Du har blivit varnad!",
     "Please choose your distribution": "Var vänlig och välj din distribution",
-
     "About qTox": "Om qTox",
     "About Tox": "Om Tox",
-
     "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Nu för tiden verkar det som att varenda regering är intresserad av vad du pratar om online. qTox är skapat med en \"privatliv går först\" agenda, och vi kompromissar inte. Din säkerhet är våran högsta prioritet, och det finns ingenting här i världen som kan ändra på det.",
-
-
     "Instant messaging, video conferencing, and more": "Några coola funktioner",
-
     "Messages": "Meddelanden",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Nära till hands.<br> Du kommer lätt igång med automatiskt krypterade meddelanden.",
-
     "Calls": "Samtal",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Håll kontakten.<br> Ring gratis och säkra qTox-till-qTox samtal.",
-
-    "Video": "",
+    "Video": "Video",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Att se är att tro. <br> Prata ansikte mot ansikte med ett säkret videosamtal.",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "Säkerhet",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox ser allvarligt på din rätt till privatliv.<br/>Med <span class=\"text bold\">världsklassig kryptering</span> kan du sova säkert med vetskapen att de enda som läser dina meddelandne är de som du skickar dem till.",
-
     "Ease of Use": "Användarvänlighet",
     "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Olikt andra alternativ för säker kommunikation kräver inte qTox att du är en dataingenjör för att användas. qTox kommer direkt med ett <span class=\"text bold\">användarvänligt</span> grafiskt gränssnitt vilket låter dig fokusera på dina konversationer.",
-
     "Freedom": "Frihet",
-    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox är både gratis att använda, och fritt att ändra på. Du är helt fri att både använda och modifera qTox. <span class=\"text bold\">qTox kommer heller aldrig störa dig med reklam, eller kräva dig att betala för funktionalitet.</span>",
-
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox är både gratis att använda och fritt att ändra på. Du är helt fri att både använda och modifera qTox. <span class=\"text bold\">qTox kommer heller aldrig störa dig med reklam, eller kräva dig att betala för funktionalitet.</span>",
     "Free Software": "Fri Programvara",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "qTox är gemensamt skapat av personer <span class=\"text normal\">runt hela jorden</span>.",
-
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Vill du hjälpa till? Vi finns på <span class=\"text normal color white\">GitHub</span>.<br> Ingen erfarenhet av programmering krävs.",
     "Source on GitHub": "Källkod på Github",
-
     "Keep in the loop": "Håll dig uppdaterad",
     "Subscribe to our mailing list for updates about qTox's progress.": "Anmäl dig till våran utskickslista för uppdateringar om qTox.",
     "email address": "e-postadress",
-
     "Need some help?": "Behöver du hjälp?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Starta ditt egna projekt och fråga oss på <span class=\"text normal\">GitHub</span>, eller på våran <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-
     "Developer Links": "Utvecklarlänkar",
     "Doxygen": "",
     "GitStats": "",
     "Development blog": "Utvecklingsblogg",
     "Documentation": "Dokumentation",
-
     "Donate": "Bidra",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "För att se hur du kan hjälpa till genom att bidra, besök våran <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donationer</a> wikiartikel. Tack!"
 }
