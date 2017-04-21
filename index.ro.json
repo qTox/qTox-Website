@@ -3,79 +3,58 @@
     "Language": "Română",
     "lang_shortcode": "ro",
     "_comment": "version 1.0",
-
-    "qTox: A New Kind of Instant Messaging": "",
-
+    "qTox: A New Kind of Instant Messaging": "qTox: Un nou tip de mesagerie instant",
     "Home": "Acasă",
     "About": "Despre",
     "Features": "Caracteristici",
-    "Help us": "",
+    "Help us": "Ajutor",
     "Contribute": "Contribuie",
-    "Wiki": "",
-    "Support": "",
-    "Blog": "",
-    "Source": "",
-    "User manual": "",
-    "Languages": "",
-
-    "A New Kind of Instant Messaging": "Mesaje securizate pentru toți, în curând.",
-
-    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "qTox este o aplicație care vine ca răspuns programelor guvernamentale de monitorizare a spațiului digital, ușor de utilizat, care îți permite să comunici cu prietenii și familia fără a fi ascultat de altcineva.",
+    "Wiki": "Wiki",
+    "Support": "Suport",
+    "Blog": "Blog",
+    "Source": "Sursă",
+    "User manual": "Manual utilizator",
+    "Languages": "Limbi",
+    "A New Kind of Instant Messaging": "Un nou tip de mesagerie instant",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Odată cu apariția programelor de monitorizare guvernamentală, qTox oferă o aplicație ușor de folosit, care vă permite să vă conectați cu prietenii și familia fără ca altcineva să asculte. În timp ce alte servicii de nume mari necesită plata pentru caracteristici, qTox este complet gratuit și vine fără publicitate.",
     "Learn more": "Află mai multe",
     "Download": "Descarcă",
-    "Nightlies": "",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
-    "Please choose your distribution": "",
-
+    "Nightlies": "Experimental",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Experimental nu sunt pentru cei slabi de inima, s-ar putea întâlni bug-uri, blocaje și mari doze de frustrare. Ați fost avertizați!",
+    "Please choose your distribution": "Alegeți distribuția dvs.",
     "About qTox": "Despre qTox",
     "About Tox": "Despre Tox",
-
-    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox este fondat pe ideea că putem ține legătura cu prietenii noștri și familia fără a risca să fim privați de <br> caracterul personal al acestui proces. În timp ce serviciile bine-cunoscute de comunicare electronică cer bani pentru a ne oferi acces la <br> posibilitățile lor, qTox este complet gratis și liber. Ești liber să faci tot ce dorești cu qTox.",
-
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "În prezent, fiecare guvern pare să fie interesat de ceea ce spunem online. qTox este construit pe o agenda de \"intimitate merge pe primul loc\", si nu facem compromisuri. Siguranța dvs. este prioritatea noastră principală, și nu există nimic în lume care să schimbe acest lucru.",
     "Instant messaging, video conferencing, and more": "Mesagerie instantanee, conferințe video și multe altele",
-
     "Messages": "Mesaje",
-    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Fii mereu pe fir. <br> Ești mereu la curent cu mesaje instantanee criptate.",
-
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "La vârful degetelor. <br> Sunteți mereu în buclă cu mesagerie instant criptată.",
     "Calls": "Apeluri",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Păstrează legătura. <br> Faci apeluri gratuite și sigure cu qTox.",
-
-    "Video": "",
+    "Video": "Video",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Ai incredere în ceea ce vezi. <br> Comunici față în față cu apeluri video sigure.",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "Securitate",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox ia în serios intimitatea ta.<br/>Cu <span class=\"text bold\">criptare de primă clasă</span>, poți fi sigur că doar cei cu care comunici vor vedea mesajele transmise.",
-
-    "Ease of Use": "Simplitate în utilizare",
-    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Spre deosebire de alte soluții de mesagerie securizată, cu qTox nu trebuie să fii programator pentru a-l folosi. qTox merge din prima, cu o interfață <span class=\"text bold\"> ușor de utilizat </ span>,  care îți permite să te concentrezi asupra conversațiilor. ",
-
+    "Ease of Use": "Ușor de folosit",
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Spre deosebire de alte soluții de mesagerie securizată, cu qTox nu trebuie să fii programator pentru a-l folosi. qTox merge din prima, cu o interfață <span class=\"text bold\"> ușor de utilizat </ span>,  care îți permite să te concentrezi asupra conversațiilor.",
     "Freedom": "Libertate",
-    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "Ești absolut liber în a utiliza qTox, cât și în a-l modifica. Și aceste posibilități sunt gratuite. Ba mai mult, <span class=\"text bold\"> qTox nu va face abuz de atenția ta cu anunțuri și nu va îți va cere să plătești pentru orice facilități adiționale. </ Span> ",
-
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox este liber atât pentru ca să-l utilizezi, cât și pentru ca să-l modifici.. Ești complet liber să folosești și să modifici qTox. În plus, <span class=\"text bold\"> qTox nu va face abuz de atenția ta cu anunțuri și nu va îți va cere să plătești pentru orice facilități adiționale. </ Span>",
     "Free Software": "Software liber",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Suntem băieți de treabă din <span class=\"text normal\">toată lumea.</span>.",
-
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Vrei să ajuți? Suntem pe <span class=\"text normal color white\">GitHub</span>.<br> Nu e necesar experiență de codificare.",
-    "Source on GitHub": "",
-
-    "Keep in the loop": "",
-    "Subscribe to our mailing list for updates about qTox's progress.": "",
-    "email address": "",
-
+    "Source on GitHub": "Sursă la GitHub",
+    "Keep in the loop": "Păstrați în buclă",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Abonați-vă la lista noastră de discuții pentru actualizări despre progresul qTox.",
+    "email address": "Adresă email",
     "Need some help?": "Ai nevoie de ajutor?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Începe propriul tău proiect și solicită-ne ajutorul pe <span class=\"text normal\">GitHub</span>, sau <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-
-    "Developer Links": "",
-    "Doxygen": "",
-    "GitStats": "",
-    "Development blog": "",
-    "Documentation": "",
-
-    "Donate": "",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
-
-    "missedplatform": "Not your platform?",
-    "connect": "for"
+    "Developer Links": "Link-uri dezvoltator",
+    "Doxygen": "Doxygen",
+    "GitStats": "GitStats",
+    "Development blog": "Blog dezvoltare",
+    "Documentation": "Documentație",
+    "Donate": "Donează",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Pentru a vedea cum puteți ajuta prin donație, vă rugăm vizitați-ne <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donații</a>pagină. Mulțumim!",
+    "missedplatform": "Platformă lipsă",
+    "connect": "conectați"
 }
