@@ -44,7 +44,7 @@
     "Free Software": "Вольнае апраграмаваньне",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Праект складаюць выдатныя людзі <span class=\"text normal\">з усяго сьвету</span>.",
     "sect6_jointheteam": "Далучайцеся да каманды",
-    "sect6_joinongithub": "Дапамагайце рабіць TOX на <a href=\"https://github.com/irungentoo/ProjectqTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
+    "sect6_joinongithub": "sect6_joinongithub",
     "Need some help?": "Патрэбна дапамога?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Пачынайце ўласны праект і зьвяртайцеся да нас на <span class=\"text normal\">GitHub</span> або ў <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
     "Keep in the loop": "Будзем на сувязі",
