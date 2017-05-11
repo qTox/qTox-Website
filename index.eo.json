@@ -3,9 +3,7 @@
     "Language": "Esperanto",
     "lang_shortcode": "eo",
     "_comment": "Initial Translation",
-
     "qTox: A New Kind of Instant Messaging": "qTox: Nova Tipo de Tuja Mesaĝo",
-
     "Home": "Ĉefpago",
     "About": "Pri",
     "Features": "Funkcioj",
@@ -17,65 +15,46 @@
     "Source": "",
     "User manual": "",
     "Languages": "",
-    
     "A New Kind of Instant Messaging": "Sekura babilo por ĉiuj",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Per la kresko de ŝtataj kaŝeaŭskultoj, qTox provizas tre facilan aplikaĵon ke allasas babili kun amikoj kaj la familio sen aliaj aŭskultas. Dum aliaj popularaj servoj postulas monon por funkcioj, qTox estas plene senkosta sen reklamado.",
     "Learn more": "Scii pli",
     "Download": "Elŝuti",
     "Nightlies": "Nokta elŝuto",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Nokta elŝutoj ne estas por la malforta, vi eble vidos cimojn, kraŝojn, kaj koleron. Vin avertas!",
-    "Please choose your distribution": "Bonvole, elektu vian distribuon.",
-
+    "Please choose your distribution": "Bonvole, elektu vian distribuon",
     "About qTox": "Pri qTox",
     "About Tox": "Pri Tox",
-
     "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Nuntempe, ĉiu registaro ŝajnas interesita pri nian vortojn je la interreto. qTox ekzistas laŭ \"privateco estas unua\" afero, kaj ni ne faras kompromison. Via sekuro estas nia plej celo. Neniu en la mondo ŝanĝos ĝin.",
-
-
     "Instant messaging, video conferencing, and more": "Kelkaj imponaj funkcioj",
-
     "Messages": "Mesaĝoj",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Je via direkto.<br> Vi ĉiam konscias la komunumon kun rapida sekura mesaĝado.",
-
     "Calls": "Vokoj",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Daŭre konas.<br> Vokoj estas senkosta kaj sekura kun aliaj qTox uzantoj.",
-
     "Video": "",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Kion vi vidas estas vera.<br> Renkonti kun sekura videokonversacio.",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "Sekureco",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox estas serioza pri via privateco. <br/>Kun <span class=\"text bold\">supra-kvalita ĉifrado</span>, vi povas dormi trankvile. Nur la ricevantoj povas legi vian mesaĝojn.",
-
     "Ease of Use": "Facileco",
     "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Malsimilas aliajn sekurajn mesaĝejojn, qTox ne bezonas programistojn por uzi. qTox komencas kun <span class=\"text bold\">facile-por-uzi</span> fasadon ke helpas vin je viaj babiladoj.",
-
     "Freedom": "Libereco",
-    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox estas senkosta por uzi, kaj senkosta por modifi. Ankaŭ, <span class=\"text bold\">qTox neniam atakados per anoncoj, aŭ bezonos monojn por funkcioj.</span>",
-
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox estas senkosta por uzi, kaj senkosta por modifi. Ankaŭ, <span class=\"text bold\">qTox neniam atakados per anoncoj, aŭ bezonos monojn por funkcioj.</span>.",
     "Free Software": "Libera programaro",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Ni estas imponaj popoloj el <span class=\"text normal\">la tuta mondo</span>.",
-
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "",
     "Source on GitHub": "",
-
     "Keep in the loop": "Subteni informita",
     "Subscribe to our mailing list for updates about qTox's progress.": "Abonu al mian dissendoliston por ĝisdatigoj pri qTox.",
     "email address": "Retpoŝtadreso",
-
     "Need some help?": "Ĉu vi volas helpon?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Komenci vian projekto kaj demandi ĉe <span class=\"text normal\">GitHub</span>, aŭ ĉe <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-    
     "Developer Links": "Programista ejoj",
     "Doxygen": "",
     "GitStats": "",
     "Development blog": "Programada blogo",
     "Documentation": "Dokumentado",
-    
     "Donate": "Donaci",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Vidi kiel vi povas helpi ekstere de donacanta, bonvolu viziti nian <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donacan</a> vikian artikolon. Dankonas Vi!",
-    
     "missedplatform": "Ne via platformo?",
     "connect": "por"
 }
