@@ -55,6 +55,6 @@
     "Documentation": "文档",
     "Donate": "赞助",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "想瞭解我们如何运用你的捐款，请见我们的 <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">赞助</a> wiki 页。谢谢您！",
-    "missedplatform": "没有你需要的平台？",
+    "missedplatform": "missedplatform",
     "connect": "为"
 }
