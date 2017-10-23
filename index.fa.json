@@ -3,79 +3,58 @@
     "Language": "فارسی",
     "lang_shortcode": "fa",
     "_comment": "This is a translation from the original English to Persian. For a better tranlsation meaning, 'privacy' was translated as 'government censorship'. Unfinished.",
-
     "qTox: A New Kind of Instant Messaging": "توكس",
-
     "Home": "صفحه نخست‬‬",
     "About": "در باره",
     "Features": "امکانات",
-    "Help us": "",
-    "Contribute": "همکاری و کمک کردن",
+    "Help us": "به ما کمک کنید",
+    "Contribute": "همکاری با ما",
     "Wiki": "ویکی",
-    "Support": "",
-    "Blog": "",
-    "Source": "",
-    "User manual": "",
-    "Languages": "",
-
-    "A New Kind of Instant Messaging": ".پیام های امن برای همه",
-    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": ".با افزایش برنامه های سانسور دولت، توكس برنامه هست که اجازه می دهد که شما را با دوستان و خانواده بدون سانسور تماس بگیرید",
+    "Support": "پشتیبانی",
+    "Blog": "وبلاگ",
+    "Source": "منبع",
+    "User manual": "راهنمای کاربر",
+    "Languages": "زبان ها",
+    "A New Kind of Instant Messaging": "روش جدید پیام رسانی",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "با افزایش برنامه های مانیتورینگ دولتی،تاکس برنامه ای کاربرپسند ایجاد کرده که به شما اجازه می دهد تا با دوستان و خانواده تان ارتباط برقرار کنید بدون اینکه توسط شخص سومی شنود شوید.در حالی که کمپانی های بزرگ دیگر شما را مجبور میکنند تا برای استفاده از سرویس هایشان مبلغی را پرداخت کنید تاکس کاملا رایگان است و بدون تبلیغات ارائه می شود",
     "Learn more": "بیشتر یاد بگیرید",
     "Download": "دانلود",
     "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
-    "Please choose your distribution": "",
-
-    "About qTox": "درباره توكس",
-    "About Tox": "درباره توكس",
-
-    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "<br> .توكس با این ایده درست شود که شما می توانید با دوستان و خانواده صحبت بکنید بدون در حال جاسوسی از دولت",
-
-
-    "Instant messaging, video conferencing, and more": "",
-
+    "Please choose your distribution": "لطفا توزیع خود را انتخاب کنید",
+    "About qTox": "درباره تاکس",
+    "About Tox": "درباره تاکس",
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "امروزه به نظر می رسد که همه ی دولت های جهان مشتاق هستند که بدانند مردمشان چه میگویند! تاکس بر اصل\"حریم شخصی از همه چیز مهمتر است\"ساخته شده است. و ما در این باره با کسی مذاکره نمیکنیم. امنیت شما اولویت اول ماست و در هیچ جای جهان چیزی نیست که این مورد را تغییر دهد",
+    "Instant messaging, video conferencing, and more": "ارسال پیام سریع،ویدئو کنفرانس و غیره",
     "Messages": "پیام ها",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "",
-
     "Calls": "تماس ها",
-    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "",
-
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "در ارتباط باشید. تماس های تاکس به تاکس رایگان برقرار کنید.",
     "Video": "ویدئو",
-    "Seeing is believing.<br> Catch up face to face with a secure video call.": "",
-
+    "Seeing is believing.<br> Catch up face to face with a secure video call.": "دیدن دلیل باور کردن است. ارتباط چهره به چهره برقرار کنید با تماس های ویدئویی امن.",
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "امنیت",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "",
-
     "Ease of Use": "",
     "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "",
-
     "Freedom": "آزادی",
     "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features.</span>",
-
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "",
     "Source on GitHub": "",
-
     "Free Software": "",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "We're cool guys from <span class=\"text normal\">all around the world</span>.",
-
     "Keep in the loop": "",
     "Subscribe to our mailing list for updates about qTox's progress.": "",
     "email address": "",
-
     "Need some help?": "",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!",
-
     "Developer Links": "",
     "Doxygen": "",
     "GitStats": "",
     "Development blog": "",
     "Documentation": "",
-
     "Donate": "",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
-
     "missedplatform": "Not your platform?",
     "connect": "for"
 }
