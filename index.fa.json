@@ -49,12 +49,12 @@
     "Need some help?": "آیا به کمک نیاز دارید؟",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!",
     "Developer Links": "لینک های مربوط به توسعه دهندگان",
-    "Doxygen": "Doxygen",
-    "GitStats": "",
-    "Development blog": "",
-    "Documentation": "",
-    "Donate": "",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
+    "Doxygen": "داکسیجن",
+    "GitStats": "آمار-گیت",
+    "Development blog": "وبلاگ توسعه",
+    "Documentation": "مستندات‌ و راهنما",
+    "Donate": "کمک مالی",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "برای اینکه بدانید چگونه میتوانید از طریق مالی به پیشرفت برنامه کمک کنید لطفا به صفحه <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\"> کمک مالی </a> مراجعه کنید. با تشکر!",
     "missedplatform": "Not your platform?",
     "connect": "for"
 }
