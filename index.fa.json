@@ -2,7 +2,7 @@
     "_author": "Deltabeard",
     "Language": "فارسی",
     "lang_shortcode": "fa",
-    "_comment": ".'Privacy' was translated as 'government censorship'. Translation from original.",
+    "_comment": "_'Privacy' was translated as 'government censorship'. Translation from original_",
     "qTox: A New Kind of Instant Messaging": "qTox: روشی نوین برای پیام رسانی آنلاین",
     "Home": "صفحه نخست‬‬",
     "About": "در باره",
@@ -55,6 +55,6 @@
     "Documentation": "مستندات‌ و راهنما",
     "Donate": "کمک مالی",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "برای اینکه بدانید چگونه میتوانید از طریق مالی به پیشرفت برنامه کمک کنید لطفا به صفحه <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\"> کمک مالی </a> مراجعه کنید. با تشکر!",
-    "missedplatform": "آیا این سیستم عامل شما نیست؟",
+    "missedplatform": "آیا این سیستم عامل شما نیست",
     "connect": "for"
 }
