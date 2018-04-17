@@ -2,7 +2,7 @@
     "_author": "Matija Krkač",
     "Language": "Slovenščina",
     "lang_shortcode": "sl",
-    "_comment": "Only translate from this file, not the others!",
+    "_comment": "Prevedite samo iz te datoteke, ne iz drugih",
     "qTox: A New Kind of Instant Messaging": "qTox: Nov način pošiljanja hipnih sporočil",
     "Home": "Domov",
     "About": "O qToxu",
@@ -55,6 +55,6 @@
     "Documentation": "Dokumentacija",
     "Donate": "Doniraj",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Za več informacij, o tem kako nam lahko pomagate z donacijam, prosim obiščite našo stran: <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donacije</a>. Hvala!",
-    "missedplatform": "Not your platform?",
+    "missedplatform": "Drug operativni sistem",
     "connect": "for"
 }
