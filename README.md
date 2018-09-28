@@ -8,22 +8,20 @@ Source code for the qTox website
 Translations
 ============
 
-As well as new translations, improvement of translations we already have is welcome too.
+As well as new translations, improvement of translations we already have is
+welcome too.
 
 ## Using weblate
 
-The easy way of translating is to use [**Weblate**]
-(https://hosted.weblate.org/projects/tox/website/).
+The easy way of translating is to use [**Weblate**].
 
 ## Manually
 
 Just copy ``index.en.json`` to ``index.??.json``, where ``??`` is your
-language's [Zend locale name]
-(http://framework.zend.com/manual/1.12/en/zend.locale.appendix.html).  If
-the language you are translating to has more than one dialect (for example:
-Brazilian Portuguese vs Portuguese Portuguese), you can add ``_??`` before
-``.json``, where ``??`` is a unique code for your dialect. A full example:
-``index.pt_BR.json`` Capitalization **does** matter!
+language's [Zend locale name]. If the language you are translating to has more
+than one dialect (for example: Brazilian Portuguese vs Portuguese Portuguese),
+you can add ``_??`` before ``.json``, where ``??`` is a unique code for your
+dialect. A full example: ``index.pt_BR.json`` Capitalization **does** matter!
 
 #### Please **use LF (Unix) line endings in your json files**. Even on Windows, a decent editor like Notepad++ will let you do this!
 
@@ -45,8 +43,7 @@ Building the site
 
 Building the site requires Python 2 or Python 3 and the pystache library.
 
-Also requires [`sterminator`](https://github.com/zetok/sterminator).
-To get it, run `bash get_sterminator.sh`.
+Also requires [`sterminator`]. To get it, run `bash get_sterminator.sh`.
 
 To build website, run in the main directory ``bash buildsite.sh``.
 
@@ -62,3 +59,7 @@ Change EN to a default language ``cat list | xargs -I % ln -s assets %``.
 <br/>
 Remove the list file ``rm list``
 
+
+[`sterminator`]: https://github.com/zetok/sterminator
+[**Weblate**]: https://hosted.weblate.org/projects/tox/website/
+[Zend locale name]: https://framework.zend.com/manual/1.12/en/zend.locale.appendix.html
