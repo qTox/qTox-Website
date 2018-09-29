@@ -5,8 +5,8 @@ python:
 install:
   - "pip install simplejson pystache"
 script:
-- ./get_sterminator.sh
-- ./buildsite.sh
+  - ./get_sterminator.sh
+  - ./buildsite.sh
 notifications:
   irc:
     channels:
@@ -15,4 +15,7 @@ notifications:
     skip_join: true
 
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash ./deploy-gh-pages.sh
+  - >
+    test $TRAVIS_PULL_REQUEST == "false"
+    && test $TRAVIS_BRANCH == "master"
+    && bash ./deploy-gh-pages.sh
