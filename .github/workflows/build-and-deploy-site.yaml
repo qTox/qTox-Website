@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install pip deps
-        run: pip install simplejson pystache
+        run: pip install pystache
       - name: Install sterminator
         run: ./get_sterminator.sh
       - name: Build site
