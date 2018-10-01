@@ -41,7 +41,7 @@ the script to build the bar of languages in the footer. The names are:
 Building the site
 =================
 
-Building the site requires Python 2 or Python 3 and the pystache library.
+Building the site requires Python 3 and the pystache library.
 
 Also requires [`sterminator`]. To get it, run `bash get_sterminator.sh`.
 
