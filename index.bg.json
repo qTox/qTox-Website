@@ -38,7 +38,7 @@
     "Ease of Use": "Лесна употреба",
     "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "За разлика от други платформи за сигурни съобщения, не трябва да сте компютърен програмист, за да употребявате qTox. qTox идва по подразбиране с <span class=\"text bold\">лесен за употреба</span> интерфейс, който ви позволява да фокусирате върху вашите разговори.",
     "Freedom": "Свобода",
-    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox е безплатен за вас както и да го употребявате, така и да го променяте. Вие сте напълно свободни да използвате и модифицирате qTox. Освен това, <span class=\"text bold\">qTox никога няма да ви тормози с реклами, или да ви принуждава да плащате за функции.</span>",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox е безплатен за вас както и да го употребявате, така и да го променяте. Вие сте напълно свободни да използвате и модифицирате qTox. Освен това, <span class=\"text bold\">qTox никога няма да ви тормози с реклами, или да ви принуждава да плащате за функции</span>.",
     "Free Software": "Свободен софтуер",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Ние сме готини хора от <span class=\"text normal\">целия свят</span>.",
     "Keep in the loop": "Бъдете информирани",
@@ -55,6 +55,6 @@
     "Documentation": "Документация",
     "Donate": "Даряване",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "За да видите как можете да помогнете чрез дарения, моля посетете страницата ни <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\"> за дарения</a>. Благодаря!",
-    "missedplatform": "Not your platform?",
+    "missedplatform": "missedplatform",
     "connect": "for"
 }
