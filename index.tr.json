@@ -27,7 +27,7 @@
     "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Günümüzde her hükümet çevrimiçiyken neler söylediğimizle ilgileniyor gibi görünüyor. qTox, \"gizlilik ilk önce gelir\" ilkesi üstüne inşa edilmiştir, ve hiçbir ödün vermeyiz. Güvenliğiniz bizim ilk önceliğimizdir, ve dünyada bunu değiştirecek bir şey yoktur.",
     "Instant messaging, video conferencing, and more": "Anında mesajlaşma, video konferans, ve dahası",
     "Messages": "İletiler",
-    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Parmaklarınızın ucunda.<br> Anlık şifrelenmiş mesajlaşma ile her zaman farkındasınız.",
+    "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Parmaklarınızın ucunda.<br> Anlık şifrelenmiş mesajlaşma ile her zaman iletişimdesiniz.",
     "Calls": "Aramalar",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Bağlantıda kalın.<br> qTox'tan qTox'a ücretsiz ve güvenli aramalar yapın.",
     "Video": "Video",
@@ -43,7 +43,7 @@
     "Source on GitHub": "GitHub'da Kaynak",
     "Free Software": "Özgür Yazılım",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Bizler <span class=\"text normal\">Dünya'nın her yerinden</span> serinkanlı insanlarız.",
-    "Keep in the loop": "Güncel kal",
+    "Keep in the loop": "İletişimde kalın",
     "Subscribe to our mailing list for updates about qTox's progress.": "qTox'un ilerleyişiyle ilgili haberler için eposta listemize abone olun.",
     "email address": "eposta adresi",
     "Need some help?": "Yardıma mı ihtiyacınız var?",
@@ -55,6 +55,6 @@
     "Documentation": "Belgeler",
     "Donate": "Bağış yap",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Bağış yaparak nasıl yardım edebileceğinizi görmek için, lütfen <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">bağışlar</a> sayfasını ziyaret edin. Teşekkürler!",
-    "missedplatform": "Not your platform?",
+    "missedplatform": "Platformunuz değil mi?",
     "connect": "bağlan"
 }
