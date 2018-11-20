@@ -49,12 +49,12 @@
     "Need some help?": "Трябва ви помощ?",
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Започнете вашия проект и ни попитайте в <span class=\"text normal\">GitHub</span>, или на <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
     "Developer Links": "Връзки за разработчици",
-    "Doxygen": "Doxygen",
-    "GitStats": "GitStats",
+    "Doxygen": "Доксижен",
+    "GitStats": "GitСтатистика",
     "Development blog": "Блог за разработката",
     "Documentation": "Документация",
     "Donate": "Даряване",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "За да видите как можете да помогнете чрез дарения, моля посетете страницата ни <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\"> за дарения</a>. Благодаря!",
-    "missedplatform": "missedplatform",
+    "missedplatform": "объркана платформа",
     "connect": "for"
 }
