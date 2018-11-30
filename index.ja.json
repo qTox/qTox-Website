@@ -1,80 +1,60 @@
 {
-    "_author": "Astonex",
+    "_author": "Astonex\nRyo Nakano",
     "Language": "日本語",
     "lang_shortcode": "ja",
-    "_comment": "NEEDS REVISION by someone with better Japanese ability",
-
-    "qTox: A New Kind of Instant Messaging": "",
-
+    "_comment": "",
+    "qTox: A New Kind of Instant Messaging": "qTox：新しいカタチのインスタントメッセージ",
     "Home": "ホーム",
     "About": "qToxについて",
     "Features": "特長",
-    "Help us": "",
-    "Contribute": "貢献する",
+    "Help us": "開発を支援",
+    "Contribute": "開発に貢献",
     "Wiki": "ウィキ",
-    "Support": "",
-    "Blog": "",
-    "Source": "",
-    "User manual": "",
-    "Languages": "",
-
-    "A New Kind of Instant Messaging": "皆のためのセキュアなメッセージング、まもなく登場",
-    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "政府からの監視が増加している中、qToxアプリケーションを使用すれば簡単かつ安全に友達や家族とメッセージすることができます。誰もあなたの会話を盗み聞きすることはできません。",
-    "Learn more": "詳細はこちら",
+    "Support": "サポート",
+    "Blog": "ブログ",
+    "Source": "ソース",
+    "User manual": "ユーザーマニュアル",
+    "Languages": "言語",
+    "A New Kind of Instant Messaging": "新しいカタチのインスタントメッセージ",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "政府からの監視が増加している中、qToxは盗聴されることなく友達や家族と連絡できる、簡単に使用可能なアプリケーションを提供します。他の著名なサービスは有料ですが、qToxは完全に無料です。広告もありません。",
+    "Learn more": "もっと知る",
     "Download": "ダウンロード",
-    "Nightlies": "",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
-    "Please choose your distribution": "",
-
+    "Nightlies": "ナイトリービルド",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "ナイトリービルドは一般の方向けではありません。バグやクラッシュに遭遇して、欲求不満がたまる可能性があります。利用は自己責任で！",
+    "Please choose your distribution": "ディストリビューションをお選びください",
     "About qTox": "qToxとは",
     "About Tox": "Toxとは",
-
-    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qToxはあなたのプライバシーを損なうことなく、お友達やご家族とコミュニケーションできるように作られました。<br>他のサービスと違い、qToxは完全に無料です。",
-
-    "Instant messaging, video conferencing, and more": "インスタントメッセージング、ビデオ会議、そして",
-
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "最近は、どの政府も大衆のオンラインでの発言に興味を示しているようです。qToxは「プライバシーを第一に」という目標のもとに構築されており、妥協は一切しません。皆さんの安全が私たちの第一の優先事項であり、その方針は絶対に変わりません。",
+    "Instant messaging, video conferencing, and more": "インスタントメッセージ・ビデオ会議などなど",
     "Messages": "メッセージ",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "指先一つで簡単に。<br>インスタントメッセージは常に暗号化されています。",
-
     "Calls": "電話",
-    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "いつも近くに。 <br>他のqToxユーザーに無料で電話を。",
-
+    "Stay in touch.<br> Make free and secure qTox to qTox calls.": "いつも近くに。<br>他のqToxユーザーに、無料かつ安全に電話を。",
     "Video": "ビデオ",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "百聞は一見にしかず。<br>安全なビデオ通話で顔を見ながら話すことができます。",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "セキュリティ",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qToxにとって重要なのはあなたのプライバシーを守ることです。<br/><span class=\"text bold\">強固な暗号化</span>で、あなたが送った相手以外は誰もあなたのメッセージを読むことができないので安心です。",
-
     "Ease of Use": "使い勝手の良さ",
-    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "他のセキュアなメッセージングソリューションとは異なり、qToxは、あなたがそれを使用するためにコンピュータープログラマーである必要はありません。qToxの使いやすいインタフェースはインストールしたその瞬間から手に馴染み、すぐに会話に集中することができます。",
-
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "他のセキュアなメッセージングソリューションとは異なり、qToxは利用する皆さんがコンピュータープログラマーである必要はありません。qToxの<span class=\"text bold\">使いやすい</span>インターフェースは、インストールしたその瞬間から手に馴染み、すぐに会話に集中することができます。",
     "Freedom": "自由",
-    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qToxは使うことも、変更することも自由です。完全に自由です。あなたは、qToxを変更することができます。さらに、<span class=\"text bold\">qToxは広告がありません。qToxには常に無料です。</span>",
-
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "力を貸してください！私たちは、<span class=\"text color normal white\">GitHub</span>で開発をしています。コーディング経験は必要ありません。",
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qToxを使うことも、変更することも自由です。皆さんは、qToxの使用と変更において完全に自由です。さらに、<span class=\"text bold\">qToxには広告がありません。そして、qToxは常に無料です</span>。",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "開発を支援したいですか？私たちは、<span class=\"text normal color white\">GitHub</span>で開発をしています。<br>コーディング経験は必要ありません。",
     "Source on GitHub": "GitHubの上のソース",
-
     "Free Software": "フリーソフトウェア",
-    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "私たちは、世界中からクールなメンバーを集っています。",
-
-    "Keep in the loop": "輪に加わってください",
-    "Subscribe to our mailing list for updates about qTox's progress.": "qToxの最新情報を得るにはメーリングリストに参加してください。",
+    "We're cool folks from <span class=\"text normal\">all around the world</span>.": "私たちは、<span class=\"text normal\">世界中</span>のクールなメンバーの集まりです。",
+    "Keep in the loop": "最新情報を取得",
+    "Subscribe to our mailing list for updates about qTox's progress.": "qToxの最新情報を得るには、メーリングリストに参加してください。",
     "email address": "メールアドレス",
-
     "Need some help?": "助けが必要ですか？",
-    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>上で問い合わせてください。もしくは<a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>で！",
-
-    "Developer Links": "",
-    "Doxygen": "",
-    "GitStats": "",
-    "Development blog": "",
-    "Documentation": "",
-
-    "Donate": "",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
-
-    "missedplatform": "あなたのプラットフォームではない?",
-    "connect": "向け"
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "独自のプロジェクトを開始し、<span class=\"text normal\">GitHub</span>上で問い合わせてください。もしくは<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>で！",
+    "Developer Links": "開発者向けリンク",
+    "Doxygen": "Doxygen",
+    "GitStats": "GitStats",
+    "Development blog": "開発ブログ",
+    "Documentation": "ドキュメンテーション",
+    "Donate": "寄付",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "寄付をすることでどのように開発を支援することができるかを知るには、<a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">寄付</a>ページをご覧ください。ありがとうございます！",
+    "missedplatform": "無効なプラットフォーム",
+    "connect": "接続"
 }
