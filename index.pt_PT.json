@@ -2,80 +2,59 @@
     "_author": "themadman, uncannycod, teclas",
     "Language": "Português (Portugal)",
     "lang_shortcode": "pt_PT",
-    "_comment": "",
-
-    "qTox: A New Kind of Instant Messaging": "",
-
-    "Home": "",
-    "About": "Acerca",
+    "_comment": "_comentário",
+    "qTox: A New Kind of Instant Messaging": "qTox: Um novo conceito de mensagem instantâneas",
+    "Home": "Início",
+    "About": "Sobre",
     "Features": "Funcionalidades",
-    "Help us": "",
-    "Contribute": "Contribuir",
-    "Wiki": "",
-    "Support": "",
-    "Blog": "",
-    "Source": "",
-    "User manual": "",
-    "Languages": "",
-
-    "A New Kind of Instant Messaging": "Mensagens seguras para todos, em breve.",
-    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Com o crescimento de programas de vigilância governamental, qTox é uma aplicação fácil de usar que lhe permite ligar-se à sua família e amigos sem ser espiado.",
-    "Learn more": "Saber mais",
-    "Download": "",
-    "Nightlies": "",
-    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "Os nightlies não são para os de coração fraco, pode encontrar erros e grandes doses de frustração. Você foi avisado!",
-    "Please choose your distribution": "Por favor escolha a sua distribuição",
-
+    "Help us": "Ajude-nos",
+    "Contribute": "Colaborar",
+    "Wiki": "Wiki",
+    "Support": "Ajuda",
+    "Blog": "Blogue",
+    "Source": "Código-fonte",
+    "User manual": "Manual do utilizador",
+    "Languages": "Idiomas",
+    "A New Kind of Instant Messaging": "Um Novo Conceito de Mensagens Instântaneas",
+    "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Com o crescimento de programas de vigilância governamental, qTox é uma aplicação fácil de usar que lhe permite ligar-se à sua família e amigos sem ser espiado. Enquanto que outros serviços conhecidos no mercado obrigam os utilizadores a pagar por funcionalidades adicionais ou com propagandas, o qTox é totalmente gratuito e não tem anúncios.",
+    "Learn more": "Mais informação",
+    "Download": "Descarregar",
+    "Nightlies": "Versões de teste diárias",
+    "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "As versões de teste diárias, denominadas nightlies, não são para os de coração fraco, pode encontrar erros e grandes doses de frustração. Não diga que não foi avisado!",
+    "Please choose your distribution": "Por favor escolha a sua plataforma",
     "About qTox": "Sobre o qTox",
     "About Tox": "Sobre o Tox",
-
-    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Hoje em dia todos os governos parecem estar interessados no que fazemos online. qTox é construído com base na ideia de manter contacto com amigos e família sem que a sua privacidade seja violada.<br> Enquanto que outros serviços exigem um pagamento para desbloquear funcionalidades, qTox é livre e gratuito.<br> O que significa que o utilizador é livre para fazer o que desejar com o software.",
-
-
+    "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "Hoje em dia todos os governos parecem estar interessados no que fazemos na Internet. O qTox é construído com base na ideia de manter contacto com amigos e família sem que a sua privacidade seja violada.<br> Enquanto que outros serviços exigem um pagamento para desbloquear funcionalidades, o qTox é livre e gratuito.<br> O que significa que o utilizador é livre para fazer o que desejar com o programa.",
     "Instant messaging, video conferencing, and more": "Mensagens instantâneas, videoconferências e mais",
-
     "Messages": "Mensagens",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "Na palma da sua mão.<br> Esteja sempre informado, com mensagens instantâneas e encriptadas.",
-
     "Calls": "Chamadas",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Mantenha-se em contacto.<br> Faça chamadas gratuitas e seguras de qTox para qTox.",
-
     "Video": "Vídeo",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Ver para crer.<br> Encontre-se cara a cara com videochamadas seguras.",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "Segurança",
-    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox leva a sua privacidade a sério.<br/>Com uma<span class=\"text bold\"> poderosa encriptação </span> pode relaxar sabendo que as suas mensagens são apenas vistas por quem você quer.",
-
+    "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "O qTox leva a sua privacidade a sério.<br/>Com uma<span class=\"text bold\">poderosa encriptação</span> pode assegurar-se que as suas mensagens são apenas vistas por quem você quer.",
     "Ease of Use": "Fácil de usar",
-    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Ao contrário de outras soluções de software do género, qTox não necessita que se seja um mestre dos computadores para o utilizar. qTox vem com um interface <span class=\"text bold\">fácil de usar</span> que lhe permite concentrar-se nas suas conversas.",
-
+    "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Ao contrário de outras soluções de software do género, o qTox não necessita que se seja um mestre dos computadores para o utilizar. O qTox tem uma interface <span class=\"text bold\">fácil de usar</span> que lhe permite concentrar-se nas suas conversas.",
     "Freedom": "Liberdade",
-    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox é gratuito para usar e livre para modificar. O utilizador é completamente livre para usar e modificar o software. Além disto, <span class=\"text bold\">qTox nunca o irá perturbar com anúncios ou exigir pagamento por funcionalidades.</span>",
-
+    "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "O qTox é gratuito para ser utilizado e livre para ser alterado. O utilizador é completamente livre para usar e alterar o qTox. Além disto, o <span class=\"text bold\">qTox nunca o irá perturbar com anúncios ou exigir pagamento por funcionalidades</span>.",
     "Free Software": "Software livre",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Somos boas pessoas do <span class=\"text normal\">mundo inteiro</span>.",
-
-    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Quer ajudar? Nós estamos no <span class=\"text normal color white\">GitHub</span>.<br> Experiência em programação não é necessária",
+    "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Quer ajudar? Nós estamos no <span class=\"text normal color white\">GitHub</span>.<br> Não é necessário experiência em programação.",
     "Source on GitHub": "Código-fonte no GitHub",
-
     "Keep in the loop": "Mantenha-se em contacto",
-    "Subscribe to our mailing list for updates about qTox's progress.": "Subscreva à nossa mailing list para ser notificado acerca das actualizações no progresso do qTox.",
+    "Subscribe to our mailing list for updates about qTox's progress.": "Subscreva a nossa lista de discussão para ser notificado sobre atualizações no progresso do qTox.",
     "email address": "endereço de email",
-
     "Need some help?": "Precisa de ajuda?",
-    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Comece o seu próprio projecto e contacte-nos no <span class=\"text normal\">GitHub</span> ou no <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Comece o seu próprio projeto e contacte-nos no <span class=\"text normal\">GitHub</span> ou no <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
     "Developer Links": "Links para programadores",
-    "Doxygen": "",
-    "GitStats": "",
-    "Development blog": "Blog de desenvolvimento",
+    "Doxygen": "Doxygen - gerar documentação",
+    "GitStats": "GitStats",
+    "Development blog": "Blogue de desenvolvimento",
     "Documentation": "Documentação",
-
-    "Donate": "",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
-
+    "Donate": "Fazer um donativo",
+    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Para ver como pode ajudar com donativos, aceda à nossa página de <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donativos</a>. Obrigado!",
     "connect": "para",
-    "missedplatform": "Não é a tua plataforma?"
+    "missedplatform": "Não é a plataforma que utiliza?"
 }
