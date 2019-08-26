@@ -3,9 +3,7 @@
     "Language": "Català",
     "lang_shortcode": "ca",
     "_comment": "Only translate from this file, not the others!",
-
     "qTox: A New Kind of Instant Messaging": "",
-
     "Home": "Inici",
     "About": "Sobre",
     "Features": "Característiques",
@@ -17,7 +15,6 @@
     "Source": "",
     "User manual": "",
     "Languages": "",
-
     "A New Kind of Instant Messaging": "Missatgeria segura per a tothom.",
     "With the rise of government monitoring programs, qTox provides an easy to use application that allows you to connect with friends and family without anyone else listening in. While other big-name services require you to pay for features, qTox is totally free, and comes without advertising.": "Amb l'auge de programes de vigilància governamental generalitzats, qTox és una aplicació fàcil d'usar que et permet connectar-te amb amics i persones estimades sense que ningú més hi tingui accés.",
     "Learn more": "Aprendre'n més",
@@ -25,60 +22,39 @@
     "Nightlies": "",
     "Nightlies aren't for the weak of heart, you may encounter bugs, crashes, and large doses of frustration. You've been warned!": "",
     "Please choose your distribution": "",
-
-
     "About qTox": "Sobre qTox",
     "About Tox": "Sobre Tox",
-
     "Nowadays, every government seems to be interested in what we're saying online. qTox is built on a \"privacy goes first\" agenda, and we make no compromises. Your safety is our top priority, and there isn't anything in the world that will change that.": "qTox està creat amb la idea de comunicar-te amb amics i família sense que la teva privacitat sigui violada.<br> Mentre altres serveis de renom t'exigeixen pagar per a desbloquejar característiques, qTox es gratuït i lliure.<br> Ets lliure de fer el que vulguis amb qTox.",
-
-
     "Instant messaging, video conferencing, and more": "Missatgeria instantània, vídeo-conferencies, i més",
-
-
     "Messages": "Missatges",
     "At your fingertips.<br> You're always in the loop with instant encrypted messaging.": "A l'abast de la ma.<br> Estàs sempre a l'ultima amb missatgeria instantània xifrada.",
-
     "Calls": "Trucades",
     "Stay in touch.<br> Make free and secure qTox to qTox calls.": "Estigues en contacte.<br> Fes trucades gratuïtes i segures de qTox a qTox.",
-
     "Video": "Vídeo",
     "Seeing is believing.<br> Catch up face to face with a secure video call.": "Veure es creure.<br> Posa't al dia cara a cara amb vídeo-trucades segures.",
-
     "LANG_ID": "##### DIVIDER -- DO NOT TRANSLATE",
-
     "Security": "Seguretat",
     "qTox takes your privacy seriously.<br/>With <span class=\"text bold\">leading-class encryption</span>, you can rest assured knowing that the only people reading your messages are the ones you send them to.": "qTox es pren la teva seguretat seriosament.<br/>Amb <span class=\"text bold\">xifratge lider en el seu tipus</span>, pots estar segur que la única gent que llegeix els teus missatges es la gent a qui els hi has enviat.",
-
     "Ease of Use": "Fàcil d'usar",
     "Unlike other secure messaging solutions, qTox does not require you to be a computer programmer to use it. qTox comes out-of-the-box with an <span class=\"text bold\">easy-to-use</span> interface that allows you to focus on your conversations.": "Al contrari que altres solucions de missatgeria instantània, no has de ser un programador informàtic per tal d'usar qTox. qTox te una interfície <span class=\"text bold\">fácil d'usar</span> que et permet concentrar-te en les teves converses.",
-
     "Freedom": "Llibertat",
     "qTox is both free for you to use, and free for you to change. You are completely free to both use and modify qTox. Furthermore, <span class=\"text bold\">qTox will never harass you with ads, or require you to pay for features</span>.": "qTox es a la vegada gratuït, i lliure d'utilitzar i de modificar. A més a més, <span class=\"text bold\">qTox no et molestarà mai amb anuncis, o et demanarà que paguis per tal de desbloquejar característiques.</span>",
-
-
     "Want to help? We're on <span class=\"text normal color white\">GitHub</span>.<br> No coding experience is necessary.": "Vols ajudar? Som a <span class=\"text normal color white\">GitHub</span>.<br> No es necessita experiència com a programador.",
     "Source on GitHub": "Codi font a GitHub",
-
     "Free Software": "Programari Lliure",
     "We're cool folks from <span class=\"text normal\">all around the world</span>.": "Som bons xicots <span class=\"text normal\">d'arreu del món</span>.",
-
     "Keep in the loop": "",
     "Subscribe to our mailing list for updates about qTox's progress.": "",
     "email address": "",
-
     "Need some help?": "Necessites ajuda?",
-    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Comença el teu propi projecte y fes-nos preguntes a <span class=\"text normal\">GitHub</span>, o a l'<a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
-
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Comença el teu propi projecte y fes-nos preguntes a <span class=\"text normal\">GitHub</span>, o a l'<a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
     "Developer Links": "",
     "Doxygen": "",
     "GitStats": "",
     "Development blog": "",
     "Documentation": "",
-
     "Donate": "",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "",
-
-    "missedplatform": "Not your platform?",
+    "missedplatform": "",
     "connect": "for"
 }
