@@ -48,11 +48,11 @@
     "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Započnite vlastiti projekt i pitajte nas na <span class=\"text normal\">GitHubu</span> ili na <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC-u</a>!",
     "Developer Links": "Linkovi za programere",
     "Doxygen": "Doxygen",
-    "GitStats": "GitStats",
-    "Development blog": "Blog programerâ",
+    "GitStats": "Git statistika",
+    "Development blog": "Blog programera",
     "Documentation": "Dokumentacija",
     "Donate": "Donirajte",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Posjetite stranicu <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donacije</a> na kojoj možete saznati kako pomoći. Hvala!",
-    "missedplatform": "missedplatform",
+    "missedplatform": "pomašena platforma",
     "connect": "poveži"
 }
