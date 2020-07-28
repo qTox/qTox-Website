@@ -1,8 +1,8 @@
 {
-    "_author": "TETYYS ir kt.",
+    "_author": "TETYYS ir kt",
     "Language": "Lietuvių",
     "lang_shortcode": "lt",
-    "_comment": "Verskite tik iš šio failo, ne iš kitų!",
+    "_comment": "Verskite tik iš šio failo, ne iš kitų",
     "qTox: A New Kind of Instant Messaging": "qTox: Nauja susirašinėjimų rūšis",
     "Home": "Pagrindinis",
     "About": "Apie",
@@ -55,6 +55,6 @@
     "Documentation": "Dokumentacija",
     "Donate": "Paaukoti",
     "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Norėdami pamatyti kaip jūs galite padėti savo paaukojimais, apsilankykite mūsų <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">paaukojimų</a> puslapyje. Ačiū!",
-    "missedplatform": "Ne jūsų platforma?",
+    "missedplatform": "Ne jūsų platforma",
     "connect": "skirta"
 }
