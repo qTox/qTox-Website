@@ -1,0 +1,17 @@
+name: Build and deploy site
+on: [pull_request, push]
+jobs:
+  build-and-deploy:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install pip deps
+        run: pip install simplejson pystache
+      - name: Install sterminator
+        run: ./get_sterminator.sh
+      - name: Build site
+        run: ./buildsite.sh
+      - name: Deploy site
+        if: github.ref == 'refs/heads/master'
+        run: ./deploy-gh-pages.sh
