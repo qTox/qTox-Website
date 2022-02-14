@@ -47,7 +47,7 @@
     "Subscribe to our mailing list for updates about qTox's progress.": "Zapisz się na naszą listę, aby otrzymywać najnowsze informacje o postępie prac.",
     "email address": "Adres e-mail",
     "Need some help?": "Potrzebujesz pomocy?",
-    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Rozpocznij własny projekt i zapytaj nas na <span class=\"text normal\">GitHub</span>, lub na <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Rozpocznij własny projekt i zapytaj nas na <span class=\"text normal\">GitHub</span>, lub na <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!",
     "Developer Links": "Linki dla deweloperów",
     "Doxygen": "Doxygen – generator dokumentacji dla języków C++, C, Java, Objective-C, Python, IDL, Fortran i inne",
     "GitStats": "GitStats - generator statystyk historii git",

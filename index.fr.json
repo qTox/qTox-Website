@@ -47,7 +47,7 @@
     "Subscribe to our mailing list for updates about qTox's progress.": "Abonnez-vous par courriel afin de vous tenir au courant des nouveautés.",
     "email address": "adresse électronique",
     "Need some help?": "Besoin d'aide ?",
-    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Démarrez votre propre projet et posez-nous vos questions sur <span class=\"text normal\">GitHub</span> ou sur notre <a href=\"https://webchat.freenode.net/#qtox\" class=\"text bold underline color theme\">IRC</a> !",
+    "Start your own project and ask us on <span class=\"text normal\">GitHub</span>, or in <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a>!": "Démarrez votre propre projet et posez-nous vos questions sur <span class=\"text normal\">GitHub</span> ou sur notre <a href=\"https://web.libera.chat/#qtox\" class=\"text bold underline color theme\">IRC</a> !",
     "Developer Links": "Liens pour les développeurs",
     "Doxygen": "Doxygen",
     "GitStats": "Statistiques de Git",
