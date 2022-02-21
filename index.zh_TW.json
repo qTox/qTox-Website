@@ -52,7 +52,5 @@
     "Doxygen": "Doxygen",
     "GitStats": "Git 統計",
     "Development blog": "開發部落格",
-    "Documentation": "文件",
-    "Donate": "贊助",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "想瞭解我們如何運用你的捐款，請見我們的 <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">贊助</a> wiki 頁面。謝謝您！"
+    "Documentation": "文件"
 }

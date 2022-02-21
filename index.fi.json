@@ -52,7 +52,5 @@
     "Doxygen": "Doxygen",
     "GitStats": "GitStats",
     "Development blog": "Kehitysblogi",
-    "Documentation": "Dokumentaatio",
-    "Donate": "Lahjoita",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Nähdäksesi miten voit auttaa lahjoituksillasi, vieraile <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">lahjoituksista</a> kertovassa wiki-artikkelissamme. Kiitos!"
+    "Documentation": "Dokumentaatio"
 }

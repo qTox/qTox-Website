@@ -53,8 +53,6 @@
     "GitStats": "GitStats",
     "Development blog": "Geliştirme günlüğü",
     "Documentation": "Belgeler",
-    "Donate": "Bağış yap",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Bağış yaparak nasıl yardım edebileceğinizi görmek için, lütfen <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">bağışlar</a> sayfasını ziyaret edin. Teşekkürler!",
     "missedplatform": "Platformunuz değil mi?",
     "connect": "bağlan"
 }

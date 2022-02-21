@@ -53,8 +53,6 @@
     "GitStats": "GitStats",
     "Development blog": "開発ブログ",
     "Documentation": "ドキュメンテーション",
-    "Donate": "寄付",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "寄付をすることでどのように開発を支援することができるかを知るには、<a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">寄付</a>ページをご覧ください。ありがとうございます！",
     "missedplatform": "無効なプラットフォーム",
     "connect": "接続"
 }

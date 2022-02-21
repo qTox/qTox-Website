@@ -52,7 +52,5 @@
     "Doxygen": "Doxygen",
     "GitStats": "Statistiche Git",
     "Development blog": "Blog sullo sviluppo",
-    "Documentation": "Documentazione",
-    "Donate": "Fai una donazione",
-    "To see how you can help out by donating, please visit our <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donations</a> page. Thank you!": "Per scoprire come puoi aiutarci, visita la nostra pagina sulle <a href=\"https://qtox.im/donate\" class=\"text bold underline color theme\">donazioni</a>. Grazie!"
+    "Documentation": "Documentazione"
 }
