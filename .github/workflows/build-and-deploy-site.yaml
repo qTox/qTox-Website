@@ -1,5 +1,5 @@
 name: Build and deploy site
-on: [pull_request, push]
+on: [pull_request, push, workflow_dispatch]
 jobs:
   build-and-deploy:
     name: Build and deploy
