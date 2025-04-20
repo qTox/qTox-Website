@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 # used in gh actions to deploy documentation to github pages
 
 
