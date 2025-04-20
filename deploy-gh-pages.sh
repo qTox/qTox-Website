@@ -9,6 +9,7 @@ cd site/
 cp en.html index.html
 
 git init
+git checkout -b master
 git config user.name "qTox bot"
 git config user.email "qTox@users.noreply.github.com"
 git add .
