@@ -13,5 +13,8 @@ git add .
 git commit -m "Deploy to GH pages."
 touch /tmp/access_key
 chmod 600 /tmp/access_key
-echo "$access_key" > /tmp/access_key
+echo "$WEBSITE_DEPLOY_KEY" > /tmp/access_key
 GIT_SSH_COMMAND="ssh -i /tmp/access_key" git push --force --quiet "git@github.com:qTox/qtox.github.io.git" master:master
+
+# Just to make sure
+rm /tmp/access_key
